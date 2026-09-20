@@ -1,0 +1,1501 @@
+employee_id,employee,department,city,salary,bonus,performance_score,projects_completed,hire_date,active,job_title,manager_id,employment_type,shift,location_id,termination_date,fte,record_origin
+1,Ana Adams,HR,Chicago,45000,4500,3.5,15,2021-10-20,True,HR Specialist,76,Full-time,Day,LOC001,,1,original
+2,Bob Adams,Marketing,Austin,44000,4000,3.4,8,2022-08-17,True,Marketing Analyst,72,Full-time,Day,LOC012,,1,original
+3,Sara Adams,HR,New York,85000,3000,4.3,5,2019-07-09,False,Senior HR Specialist,66,Full-time,Day,LOC003,2026-02-13,1,original
+4,Mike Adams,HR,Boston,80000,5000,4.6,6,2021-01-24,True,HR Specialist,66,Full-time,Day,LOC014,,1,original
+5,Leo Adams,Finance,Chicago,77000,,3.6,12,2019-10-27,True,Senior Financial Analyst,83,Full-time,Day,LOC011,,1,original
+6,Nina Adams,HR,New York,109000,3500,3.9,9,2019-12-20,True,HR Specialist,86,Full-time,Day,LOC003,,1,original
+7,Omar Adams,HR,Boston,92000,2500,3,10,2025-06-16,True,Senior HR Specialist,81,Full-time,Day,LOC014,,1,original
+8,Emma Adams,Finance,Chicago,83000,3000,2.9,15,2023-05-03,True,Financial Analyst,78,Full-time,Day,LOC011,,1,original
+9,Luis Adams,Sales,Austin,102000,2500,3.6,8,2022-01-21,True,Account Executive,75,Full-time,Day,LOC002,,1,original
+10,Maya Adams,Finance,New York,109000,500,,14,2024-04-01,False,Financial Analyst,88,Full-time,Day,LOC013,2026-07-13,1,original
+11,Noah Adams,HR,Chicago,89000,0,2.9,3,2018-01-01,True,HR Specialist,66,Full-time,Day,LOC001,,1,original
+12,Zoe Adams,Marketing,Austin,104000,0,4.4,12,2019-07-12,True,Marketing Analyst,82,Full-time,Day,LOC002,,1,original
+13,Liam Adams,Finance,,111000,5500,3.8,2,2023-04-03,True,Financial Analyst,73,Full-time,Day,LOC003,,1,original
+14,Ava Adams,IT,Chicago,103000,5000,2.9,7,2024-02-23,True,Systems Engineer,74,Full-time,Evening,LOC011,,1,original
+15,Eric Adams,IT,Austin,42000,5000,4.4,0,2020-07-18,True,Senior Systems Engineer,74,Full-time,Day,LOC002,,1,original
+16,Lily Adams,Finance,New York,93000,2500,4.5,13,2021-04-17,True,Financial Analyst,88,Full-time,Day,LOC013,,1,original
+17,Adam Adams,Marketing,Boston,50000,4500,4.6,14,2023-02-23,False,Marketing Analyst,67,Full-time,Day,LOC014,2026-07-03,1,original
+18,Ella Adams,IT,Chicago,83000,,3,4,2021-07-04,True,Senior Systems Engineer,74,Full-time,Evening,LOC001,,1,original
+19,Ryan Adams,Finance,New York,51000,1500,3.3,1,2019-02-27,True,Financial Analyst,68,Full-time,Day,LOC013,,1,original
+20,Isla Adams,HR,Boston,108000,1500,4.4,2,2025-06-08,True,HR Specialist,81,Full-time,Day,LOC004,,1,original
+21,Alex Adams,Sales,Chicago,55000,1000,4.7,7,2018-12-07,True,Senior Account Executive,70,Full-time,Day,LOC011,,1,original
+22,Ruby Adams,Finance,Austin,94000,2500,3.6,0,2024-10-01,True,Financial Analyst,68,Full-time,Day,LOC012,,1,original
+23,Ivan Adams,HR,New York,61000,3500,3.7,13,2022-07-09,True,HR Specialist,66,Full-time,Day,LOC013,,1,original
+24,Nora Adams,Marketing,Boston,58000,5000,4.8,14,2021-11-16,False,Marketing Analyst,77,Full-time,Day,LOC014,2026-08-14,1,original
+25,Hugo Adams,HR,Chicago,87000,1500,3.5,3,2021-06-18,True,HR Specialist,81,Full-time,Day,LOC001,,1,original
+26,Iris Adams,IT,Austin,98000,2000,4.2,12,2023-04-18,True,Senior Systems Engineer,69,Full-time,Day,LOC012,,1,original
+27,Finn Adams,Marketing,New York,71000,1500,,2,2023-09-26,True,Marketing Analyst,82,Full-time,Day,LOC003,,1,original
+28,Jade Adams,Finance,Chicago,111000,1500,4.9,7,2023-07-14,True,Financial Analyst,73,Full-time,Day,LOC011,,1,original
+29,Theo Adams,HR,Austin,50000,1500,5,0,2020-01-24,True,HR Specialist,86,Full-time,Day,LOC012,,1,original
+30,Lucy Adams,Sales,New York,71000,4000,4.3,13,2020-09-21,True,Account Executive,70,Full-time,Day,LOC003,,1,original
+31,Ana Bennett,HR,Boston,96000,5000,3,14,2018-12-26,False,HR Specialist,86,Full-time,Day,LOC004,2026-05-16,1,original
+32,Bob Bennett,IT,Chicago,85000,,2.8,4,2018-12-03,True,Systems Engineer,84,Full-time,Day,LOC001,,1,original
+33,Sara Bennett,IT,New York,69000,4000,2.5,1,2020-11-12,True,Senior Systems Engineer,74,Full-time,Day,LOC003,,1,original
+34,Mike Bennett,Marketing,Boston,72000,0,4.2,2,2024-01-29,True,Senior Marketing Analyst,72,Full-time,Day,LOC004,,1,original
+35,Leo Bennett,Marketing,Chicago,111000,3500,4.1,7,2024-09-02,True,Senior Marketing Analyst,72,Full-time,Day,LOC001,,1,original
+36,Nina Bennett,IT,Austin,108000,6000,3,0,2018-11-02,True,Systems Engineer,74,Full-time,Day,LOC002,,1,original
+37,Omar Bennett,Sales,New York,65000,3500,4.9,13,2021-10-10,True,Senior Account Executive,75,Full-time,Day,LOC013,,1,original
+38,Emma Bennett,Sales,Boston,66000,3500,3.8,14,2023-04-28,False,Account Executive,80,Full-time,Day,LOC014,2026-03-17,1,original
+39,Luis Bennett,Finance,,75000,3500,3,4,2024-11-01,True,Financial Analyst,73,Full-time,Day,LOC008,,1,original
+40,Maya Bennett,IT,New York,85000,1500,2.5,1,2024-05-31,True,Systems Engineer,69,Full-time,Day,LOC003,,1,original
+41,Noah Bennett,HR,Boston,64000,2000,4.2,2,2022-01-07,True,HR Specialist,71,Full-time,Day,LOC014,,1,original
+42,Zoe Bennett,IT,Chicago,99000,2500,2.7,7,2018-03-26,True,Senior Systems Engineer,89,Full-time,Evening,LOC001,,1,original
+43,Liam Bennett,HR,Austin,62000,5000,3.4,0,2022-03-02,True,HR Specialist,66,Full-time,Day,LOC002,,1,original
+44,Ava Bennett,Finance,New York,107000,1500,2.7,13,2024-08-31,True,Financial Analyst,73,Full-time,Day,LOC003,,1,original
+45,Eric Bennett,HR,Boston,90000,2000,2.6,14,2020-07-08,False,Senior HR Specialist,86,Full-time,Day,LOC004,2026-03-20,1,original
+46,Lily Bennett,Sales,Chicago,61000,3500,3.1,3,2024-03-22,True,Senior Account Executive,80,Full-time,Day,LOC001,,1,original
+47,Adam Bennett,Marketing,Austin,80000,3000,3,12,2024-05-22,True,Senior Marketing Analyst,82,Full-time,Day,LOC002,,1,original
+48,Ella Bennett,Marketing,New York,63000,5000,4.1,9,2020-09-01,True,Marketing Analyst,67,Full-time,Day,LOC003,,1,original
+49,Ryan Bennett,Sales,Boston,72000,,2.9,7,2021-12-14,True,Senior Account Executive,80,Full-time,Day,LOC014,,1,original
+50,Isla Bennett,Finance,Austin,72000,4000,2.6,0,2024-08-30,True,Financial Analyst,73,Full-time,Day,LOC012,,1,original
+51,Alex Bennett,HR,New York,55000,4500,3.9,13,2020-08-04,True,HR Specialist,86,Full-time,Day,LOC013,,1,original
+52,Ruby Bennett,Marketing,Boston,100000,1500,3.2,14,2018-01-08,False,Senior Marketing Analyst,67,Full-time,Day,LOC014,2026-03-02,1,original
+53,Ivan Bennett,IT,Chicago,87000,3000,3.9,3,2021-10-24,True,Systems Engineer,74,Full-time,Day,LOC011,,1,original
+54,Nora Bennett,IT,Austin,100000,2000,3.4,12,2025-06-26,True,Systems Engineer,79,Full-time,Evening,LOC012,,1,original
+55,Hugo Bennett,IT,New York,45000,6000,,2,2024-01-16,True,Systems Engineer,84,Full-time,Day,LOC013,,1,original
+56,Iris Bennett,Sales,Chicago,77000,2000,4.3,7,2021-11-13,True,Account Executive,90,Full-time,Day,LOC011,,1,original
+57,Finn Bennett,HR,Austin,96000,5500,3.8,0,2023-09-29,True,Senior HR Specialist,71,Full-time,Day,LOC002,,1,original
+58,Jade Bennett,Marketing,New York,51000,4500,4.9,13,2019-11-06,True,Marketing Analyst,77,Full-time,Day,LOC003,,1,original
+59,Theo Bennett,Finance,Boston,74000,2500,4.4,14,2020-02-15,False,Senior Financial Analyst,78,Full-time,Day,LOC014,2026-08-28,1,original
+60,Lucy Bennett,Sales,Chicago,43000,5500,3.3,3,2018-11-17,True,Senior Account Executive,80,Full-time,Day,LOC001,,1,original
+61,Iris Young,HR,Austin,135500,4369.34,3.49,50,2016-01-04,True,HR Director,,Full-time,Day,LOC002,,1,synthetic
+62,Zoe Park,Marketing,Boston,228700,10530.26,4.14,60,2016-01-04,True,Marketing Director,,Full-time,Day,LOC004,,1,synthetic
+63,Adam Lopez,Finance,New York,276000,7957.8,3.36,50,2016-01-04,True,Finance Director,,Full-time,Day,LOC013,,1,synthetic
+64,Ivan Lopez,IT,Atlanta,232000,7946.91,3.49,53,2016-01-04,True,IT Director,,Full-time,Day,LOC007,,1,synthetic
+65,Ana Green,Sales,New York,197500,18853.73,3.9,29,2016-01-04,True,Sales Director,,Full-time,Day,LOC003,,1,synthetic
+66,Ava Shah,HR,Portland,118200,557.68,2.2,33,2017-02-06,True,HR Manager,61,Full-time,Day,LOC020,,1,synthetic
+67,Omar Carter,Marketing,Chicago,133700,4741.24,3.57,51,2017-02-06,True,Marketing Manager,62,Full-time,Day,LOC011,,1,synthetic
+68,Theo Patel,Finance,Seattle,166300,3431.23,2.88,45,2017-02-06,True,Finance Manager,63,Full-time,Day,LOC006,,1,synthetic
+69,Lily Rivera,IT,Boston,227400,11832.93,4.42,71,2017-02-06,True,IT Manager,64,Full-time,Day,LOC004,,1,synthetic
+70,Aisha Ali,Sales,New York,138300,9727.52,3.35,24,2017-02-06,True,Sales Manager,65,Full-time,Day,LOC003,,1,synthetic
+71,Ruby Brooks,HR,Seattle,128800,2839.9,2.95,45,2017-02-06,True,HR Manager,61,Full-time,Day,LOC016,,1,synthetic
+72,Iris Brown,Marketing,Seattle,144200,4386.79,3.39,55,2017-02-06,True,Marketing Manager,62,Full-time,Day,LOC006,,1,synthetic
+73,Sara Taylor,Finance,Phoenix,132700,3085.31,3.03,45,2017-02-06,True,Finance Manager,63,Full-time,Day,LOC008,,1,synthetic
+74,Priya Brown,IT,Boston,211000,5985.57,3.29,53,2017-02-06,True,IT Manager,64,Full-time,Day,LOC004,,1,synthetic
+75,Aisha Hall,Sales,Austin,105300,3135.89,2.5,18,2017-02-06,True,Sales Manager,65,Full-time,Day,LOC002,,1,synthetic
+76,Liam Martin,HR,Chicago,110900,6737.18,4.73,69,2017-02-06,True,HR Manager,61,Full-time,Day,LOC011,,1,synthetic
+77,Nina Taylor,Marketing,Denver,137100,7621.41,4.48,71,2017-02-06,True,Marketing Manager,62,Full-time,Day,LOC015,,1,synthetic
+78,Daniel Park,Finance,Austin,143600,6722.02,4.13,62,2017-02-06,True,Finance Manager,63,Full-time,Day,LOC012,,1,synthetic
+79,Ella Hall,IT,Atlanta,184300,11196.23,4.68,63,2017-02-06,True,IT Manager,64,Full-time,Day,LOC017,,1,synthetic
+80,Grace Patel,Sales,Chicago,130300,11985.62,3.82,30,2017-02-06,True,Sales Manager,65,Full-time,Day,LOC001,,1,synthetic
+81,Nora Carter,HR,New York,126300,3500.49,3.18,49,2017-02-06,True,HR Manager,61,Full-time,Day,LOC003,,1,synthetic
+82,Nora Park,Marketing,Seattle,155500,5937.13,3.68,53,2017-02-06,True,Marketing Manager,62,Full-time,Day,LOC016,,1,synthetic
+83,Maya Brown,Finance,Seattle,177900,3412.32,2.79,36,2017-02-06,True,Finance Manager,63,Full-time,Day,LOC016,,1,synthetic
+84,Alex Nguyen,IT,Chicago,189100,8167.54,3.97,60,2017-02-06,True,IT Manager,64,Full-time,Day,LOC011,,1,synthetic
+85,Ivan Patel,Sales,Boston,135800,11073.22,3.66,28,2017-02-06,True,Sales Manager,65,Full-time,Day,LOC004,,1,synthetic
+86,Ivan Wright,HR,Boston,136500,5065.63,3.72,52,2017-02-06,True,HR Manager,61,Full-time,Day,LOC014,,1,synthetic
+87,Eric Garcia,Marketing,Phoenix,126100,2276.64,2.82,37,2017-02-06,True,Marketing Manager,62,Full-time,Day,LOC018,,1,synthetic
+88,Leo Singh,Finance,Chicago,129100,5440.21,3.88,54,2017-02-06,True,Finance Manager,63,Full-time,Day,LOC001,,1,synthetic
+89,Chen Young,IT,Austin,182700,4405.69,3.1,45,2017-02-06,True,IT Manager,64,Full-time,Day,LOC012,,1,synthetic
+90,Daniel Clark,Sales,Atlanta,102400,4564.47,2.91,20,2017-02-06,True,Sales Manager,65,Full-time,Day,LOC007,,1,synthetic
+91,Isla Clark,Sales,Chicago,81600,3476.99,2.84,22,2020-11-01,True,Account Executive,80,Full-time,Day,LOC011,,1,synthetic
+92,Maya Lee,IT,New York,112100,5918.9,4.36,68,2022-08-27,True,Systems Engineer,84,Full-time,Evening,LOC013,,1,synthetic
+93,Lily Lopez,Finance,Austin,96900,3028.09,3.33,53,2018-04-20,True,Senior Financial Analyst,83,Full-time,Day,LOC002,,1,synthetic
+94,Priya Davis,Sales,Seattle,83800,5143.49,3.14,23,2022-06-26,True,Account Executive,85,Full-time,Day,LOC016,,1,synthetic
+95,Lucy Wilson,HR,Atlanta,60100,1748.05,3.34,50,2021-12-01,True,HR Specialist,86,Full-time,Day,LOC007,,1,synthetic
+96,Nora Young,IT,Phoenix,57100,2583.1,3.96,33,2019-01-14,True,Systems Engineer,74,Part-time,Day,LOC008,,0.6,synthetic
+97,Isla Reed,Sales,Phoenix,83800,7030.56,3.69,30,2025-01-09,True,Senior Account Executive,85,Full-time,Day,LOC008,,1,synthetic
+98,Luis Shah,Marketing,Chicago,61200,1326.04,2.99,26,2023-03-17,True,Senior Marketing Analyst,67,Part-time,Day,LOC001,,0.6,synthetic
+99,Aisha Singh,Sales,Boston,68100,8110.27,4.35,19,2019-09-24,True,Senior Account Executive,90,Part-time,Day,LOC004,,0.6,synthetic
+100,Maya Chen, sales ,Seattle,85300,1502.4,2.34,7,2023-01-07,False,Account Executive,70,Full-time,Day,LOC016,2026-02-13,1,synthetic
+101,Lucy Bennett,HR,Chicago,66000,2206.36,,53,2018-03-05,True,HR Specialist,81,Full-time,Day,LOC001,,1,synthetic
+102,Noah Bennett,Finance,Boston,127200,4563.39,3.62,51,2020-07-01,True,Senior Financial Analyst,88,Full-time,Day,LOC004,,1,synthetic
+103,Mike Shah,IT,Seattle,104700,3312.72,3.4,55,2022-07-07,True,Systems Engineer,89,Full-time,Evening,LOC016,,1,synthetic
+104,Leo Ali,Sales,New York,94500,3388.96,2.78,20,2018-04-27,True,Account Executive,90,Full-time,Day,LOC003,,1,synthetic
+105,Isla Martin,Sales,Denver,92700,11202.5,4.48,33,2024-05-31,True,Senior Account Executive,80,Full-time,Day,LOC005,,1,synthetic
+106,Eric Chen,IT,Denver,110600,3140.73,3.27,50,2020-03-16,True,Systems Engineer,69,Full-time,Evening,LOC005,,1,synthetic
+107,Nora Clark, sales ,Dallas,69600,6293.56,3.86,30,2018-04-05,True,Account Executive,90,Full-time,Day,LOC009,,1,synthetic
+108,Iris Martin,Marketing,Phoenix,99300,5133.33,4.28,61,2020-09-26,True,Senior Marketing Analyst,77,Full-time,Day,LOC018,,1,synthetic
+109,Eric Evans,HR,Denver,60400,1315.49,2.92,43,2025-04-24,True,HR Specialist,76,Full-time,Day,LOC005,,1,synthetic
+110,Ivan Park,Sales,Atlanta,71000,7488.88,,30,2021-03-18,True,Account Executive,80,Full-time,Day,LOC007,,1,synthetic
+111,Nina Adams,IT,Dallas,138000,5104.77,3.69,54,2021-04-08,True,Senior Systems Engineer,89,Full-time,Day,LOC019,,1,synthetic
+112,Grace Shah,Finance,Denver,87100,2822.14,3.4,47,2020-06-22,True,Financial Analyst,73,Full-time,Day,LOC015,,1,synthetic
+113,Ava Taylor,Sales,New York,86400,3784.43,2.96,18,2020-07-18,True,Account Executive,70,Full-time,Day,LOC003,,1,synthetic
+114,Grace Brown,Marketing,,83700,2855.38,3.54,54,2022-08-29,True,Senior Marketing Analyst,87,Full-time,Day,LOC009,,1,synthetic
+115,Daniel Shah,Sales,New York,98700,8228.18,3.7,29,2022-04-03,True,Account Executive,90,Full-time,Day,LOC013,,1,synthetic
+116,Finn Hall,Finance,Dallas,44500,1301.52,3.26,31,2020-09-09,True,Financial Analyst,73,Part-time,Day,LOC009,,0.6,synthetic
+117,Fatima Davis,Sales,New York,90300,4668.46,3,20,2023-07-15,True,Account Executive,80,Full-time,Day,LOC003,,1,synthetic
+118,Zoe Green,Finance,Atlanta,71700,3017.83,3.87,56,2023-06-11,True,Financial Analyst,73,Full-time,Day,LOC007,,1,synthetic
+119,Adam Green,HR,Seattle,111600,0,4.29,65,2019-11-26,True,Senior HR Specialist,76,Contract,Day,LOC006,,1,synthetic
+120,Isla Lopez,Sales,Seattle,79000,6330.45,3.54,26,2024-03-01,True,Account Executive,85,Full-time,Day,LOC006,,1,synthetic
+121,Grace Garcia,Finance,Chicago,117100,4773.22,3.79,58,2018-01-16,True,Senior Financial Analyst,83,Full-time,Day,LOC001,,1,synthetic
+122,Iris Young,Sales,Dallas,62500,2357.15,2.78,21,2018-04-17,True,Account Executive,80,Full-time,Day,LOC009,,1,synthetic
+123,Lucy Reed,Sales,Austin,60800,2925.33,3.06,23,2022-01-09,True,Account Executive,80,Full-time,Day,LOC012,,1,synthetic
+124,Chen Clark,Marketing,Chicago,77500,0,4.36,56,2019-06-15,True,Marketing Analyst,82,Contract,Day,LOC011,,1,synthetic
+125,Adam Taylor,Sales,Atlanta,70400,4284.72,3.15,14,2021-05-21,False,Account Executive,70,Full-time,Day,LOC007,2026-03-30,1,synthetic
+126,Sofia Young,IT,Portland,97600,5929.2,4.74,67,2020-08-01,True,Systems Engineer,89,Full-time,Day,LOC020,,1,synthetic
+127,Daniel Martin,HR,Chicago,67000,,3.04,44,2023-09-03,True,HR Specialist,66,Full-time,Day,LOC011,,1,synthetic
+128,Grace Carter,Finance,Austin,73200,4099.41,4.44,63,2023-03-11,True,Financial Analyst,78,Full-time,Day,LOC012,,1,synthetic
+129,Nora Taylor,Finance,Seattle,50100,2036.72,3.82,28,2025-06-13,True,Financial Analyst,78,Part-time,Day,LOC006,,0.6,synthetic
+130,Maya Rivera,Sales,Chicago,60300,5347.38,3.81,16,2018-07-05,True,Senior Account Executive,75,Part-time,Day,LOC011,,0.6,synthetic
+131,Ruby Garcia,HR,Portland,62200,518.7,2.42,35,2020-06-11,True,HR Specialist,86,Full-time,Day,LOC020,,1,synthetic
+132,Sara Lee,Sales,Chicago,70300,6701.03,3.94,30,2021-02-04,True,Account Executive,75,Full-time,Day,LOC001,,1,synthetic
+133,Priya Patel,IT,Chicago,132400,3621.11,3.22,50,2019-12-21,True,Senior Systems Engineer,74,Full-time,Day,LOC011,,1,synthetic
+134,Maya Brown,IT,Seattle,111500,3120.01,3.17,39,2018-03-26,False,Systems Engineer,74,Full-time,Day,LOC006,2026-05-19,1,synthetic
+135,Fatima Kim,Sales,New York,86600,9016.63,3.96,29,2018-11-05,True,Account Executive,80,Full-time,Day,LOC003,,1,synthetic
+136,Lily Shah,Marketing,New York,99400,2081.2,2.88,42,2022-05-24,True,Marketing Analyst,72,Full-time,Day,LOC003,,1,synthetic
+137,Luis Hall,Marketing,Seattle,94300,0,1.98,31,2024-03-08,True,Marketing Analyst,72,Full-time,Day,LOC016,,1,synthetic
+138,Nora Park,IT,Boston,146400,0,3.23,49,2024-03-18,True,Senior Systems Engineer,69,Contract,Evening,LOC004,,1,synthetic
+139,Emma Rivera,Finance,Atlanta,95900,,3.52,49,2022-02-07,True,Senior Financial Analyst,73,Full-time,Day,LOC017,,1,synthetic
+140,Theo Lopez,Finance,Denver,79900,1699.42,3.03,45,2020-05-22,True,Financial Analyst,83,Full-time,Day,LOC015,,1,synthetic
+141,Omar Wilson,IT,New York,117500,0,3.28,50,2024-01-06,True,Systems Engineer,79,Contract,Day,LOC013,,1,synthetic
+142,Hugo Lee,Sales,Dallas,59000,5034.85,,25,2025-09-13,True,Account Executive,90,Full-time,Day,LOC019,,1,synthetic
+143,Ella Patel,Marketing,Atlanta,62500,3796.88,4.84,70,2021-06-11,True,Marketing Analyst,82,Full-time,Day,LOC017,,1,synthetic
+144,Lily Wilson,Finance,Austin,43600,527.92,2.6,22,2022-08-06,True,Financial Analyst,78,Part-time,Day,LOC012,,0.6,synthetic
+145,Ana Shah,IT,Atlanta,103600,2653.36,3.2,46,2020-02-05,True,Systems Engineer,84,Full-time,Day,LOC017,,1,synthetic
+146,Maya Clark,IT,New York,137400,1940.81,2.54,39,2018-02-16,True,Systems Engineer,74,Full-time,Day,LOC003,,1,synthetic
+147,Liam Brown,Marketing,Seattle,95100,3761.42,3.81,58,2018-07-01,True,Marketing Analyst,82,Full-time,Day,LOC006,,1,synthetic
+148,Luis Hall,IT,Dallas,90100,2293.62,3.05,47,2021-06-08,True,Systems Engineer,69,Full-time,Day,LOC019,,1,synthetic
+149,Luis Young,Sales,Phoenix,67900,2708.26,2.79,19,2020-04-01,True,Account Executive,75,Full-time,Day,LOC018,,1,synthetic
+150,Lucy Nguyen,Sales,Boston,83600,9646.45,4.25,33,2019-06-24,True,Account Executive,75,Full-time,Day,LOC004,,1,synthetic
+151,Lucy Rivera,HR,Austin,33400,1299.41,3.74,34,2022-02-08,True,HR Specialist,76,Part-time,Day,LOC002,,0.6,synthetic
+152,Lucy Green,Sales,,63900,3210.62,3.02,21,2022-12-07,True,Account Executive,90,Full-time,Day,LOC001,,1,synthetic
+153,Arjun Shah,Marketing,Atlanta,64000,2603.19,3.83,54,2022-07-16,True,Marketing Analyst,82,Full-time,Day,LOC007,,1,synthetic
+154,Bob Park,Sales,Austin,64300,,2.65,20,2021-01-06,True,Account Executive,80,Full-time,Day,LOC002,,1,synthetic
+155,Mei Wilson,HR,Denver,70100,1963.96,3.25,46,2018-03-09,False,HR Specialist,81,Full-time,Day,LOC005,2026-08-11,1,synthetic
+156,Priya Nguyen,Finance,Seattle,144300,3831.56,3.19,45,2021-03-21,True,Senior Financial Analyst,88,Full-time,Day,LOC006,,1,synthetic
+157,Ana Clark,Sales,Phoenix,39100,2298.02,3.15,13,2020-02-01,True,Account Executive,90,Part-time,Day,LOC018,,0.6,synthetic
+158,Diego Reed,IT,New York,118100,4102.02,3.55,48,2020-03-06,True,Systems Engineer,79,Full-time,Day,LOC013,,1,synthetic
+159,Diego Ali,Marketing,Atlanta,89000,3032.68,3.55,49,2021-09-28,True,Senior Marketing Analyst,67,Full-time,Day,LOC007,,1,synthetic
+160,Nina Lopez,IT,Atlanta,102600,,4.26,70,2020-10-07,True,Systems Engineer,74,Contract,Day,LOC017,,1,synthetic
+161,Aisha Morgan,Sales,Chicago,74700,4829.56,3.24,25,2023-07-09,True,Account Executive,70,Full-time,Day,LOC001,,1,synthetic
+162,Nina Chen,Finance,Chicago,105900,4376.06,3.77,56,2020-07-20,True,Senior Financial Analyst,73,Full-time,Day,LOC001,,1,synthetic
+163,Finn Evans, it ,Boston,132200,3732.49,3.29,53,2021-03-03,True,Systems Engineer,74,Full-time,Day,LOC004,,1,synthetic
+164,Diego Wilson,Finance,Denver,84900,2842.15,3.48,50,2020-06-05,True,Financial Analyst,73,full time,Day,LOC005,,1,synthetic
+165,Ana Young,Sales,Austin,77700,6677.81,3.81,27,2025-05-25,True,Senior Account Executive,85,Full-time,Day,LOC002,,1,synthetic
+166,Mike Diaz,Sales,Austin,57700,3623.71,3.38,27,2025-07-11,True,Account Executive,90,Full-time,Day,LOC012,,1,synthetic
+167,Sara Nguyen,Finance,Dallas,76500,3223.97,3.81,54,2020-05-06,True,Financial Analyst,83,Full-time,Day,LOC009,,1,synthetic
+168,Emma Patel,Finance,Chicago,94400,2926.09,3.34,42,2021-10-09,True,Financial Analyst,88,Full-time,Day,LOC001,,1,synthetic
+169,Leo Patel,IT,New York,128100,4889.52,3.74,60,2018-04-02,True,Systems Engineer,84,Full-time,Day,LOC013,,1,synthetic
+170,Priya Nguyen,Marketing,Boston,77100,3175.25,3.79,63,2024-08-22,True,Marketing Analyst,82,Full-time,Day,LOC004,,1,synthetic
+171,Daniel Park,Sales,Boston,78900,8862.37,4.23,31,2024-10-17,True,Account Executive,85,Full-time,Day,LOC004,,1,synthetic
+172,Chen Park,Sales,Seattle,78500,8385.93,4.18,29,2019-03-21,True,Account Executive,75,Full-time,Day,LOC006,,1,synthetic
+173,Lily Shah,Sales,Austin,82000,5089.77,3.24,25,2020-02-20,True,Senior Account Executive,90,Full-time,Day,LOC012,,1,synthetic
+174,Grace Reed,Sales,Portland,80200,4230.37,3.2,28,2023-07-10,True,Account Executive,75,Full-time,Day,LOC010,,1,synthetic
+175,Iris Taylor,HR,New York,95900,2797.9,3.38,29,2025-12-29,True,Senior HR Specialist,71,Full-time,Day,LOC013,,1,synthetic
+176,Lucy Brown,Finance,Austin,81400,,2.7,39,2022-04-17,True,Financial Analyst,73,Full-time,Day,LOC012,,1,synthetic
+177,Ruby Brown,HR,Dallas,84000,1844.71,2.99,43,2022-08-27,True,Senior HR Specialist,76,Full-time,Day,LOC019,,1,synthetic
+178,Isla Singh,IT,Atlanta,93000,4335.3,4.04,52,2020-02-23,True,Systems Engineer,89,Full-time,Day,LOC017,,1,synthetic
+179,Omar Young,Finance,Portland,81000,3331.1,3.85,57,2020-01-28,True,Financial Analyst,88,Full-time,Day,LOC010,,1,synthetic
+180,Mike Garcia,IT,Dallas,87400,1366.58,2.68,43,2023-06-19,True,Systems Engineer,89,Full-time,Day,LOC019,,1,synthetic
+181,Zoe Bennett, sales ,New York,112000,,2.92,23,2018-09-12,True,Senior Account Executive,75,Full-time,Day,LOC003,,1,synthetic
+182,Ava Evans,Marketing,Chicago,68300,,3.34,44,2024-07-16,True,Marketing Analyst,67,Full-time,Day,LOC001,,1,synthetic
+183,Emma Taylor,Finance,Austin,99200,4245.24,3.84,50,2018-05-26,False,Senior Financial Analyst,78,Full-time,Day,LOC012,2026-07-06,1,synthetic
+184,Aisha Lee,IT,Seattle,164800,6348.1,3.66,27,2018-02-19,False,Senior Systems Engineer,79,Full-time,Day,LOC006,2026-02-12,1,synthetic
+185,Lucy Carter,Finance,Chicago,79300,2800.75,3.63,53,2022-08-30,False,Financial Analyst,83,Full-time,Day,LOC001,2026-08-14,1,synthetic
+186,Adam Hall,IT,Phoenix,99200,1784.07,2.81,43,2022-05-23,True,Systems Engineer,84,Full-time,Evening,LOC018,,1,synthetic
+187,Nora Rivera,Marketing,New York,56300,2212.59,3.77,34,2020-02-07,True,Marketing Analyst,67,Part-time,Day,LOC013,,0.6,synthetic
+188,Alex Brown,Sales,Boston,83300,5842.24,3.5,26,2019-09-04,True,Account Executive,80,Full-time,Day,LOC004,,1,synthetic
+189,Finn Brooks,Sales,Austin,79100,7211.66,3.82,29,2018-06-01,True,Account Executive,70,Full-time,Day,LOC002,,1,synthetic
+190,Mei Chen,Marketing,New York,65000,3548.18,4.47,36,2022-08-23,True,Senior Marketing Analyst,72,Part-time,Day,LOC003,,0.6,synthetic
+191,Jade Patel,HR,Denver,62600,2382.16,3.66,48,2020-12-19,True,HR Specialist,71,Full-time,Day,LOC005,,1,synthetic
+192,Theo Brown,Sales,Boston,82200,,3.22,24,2020-12-11,True,Account Executive,70,Full-time,Day,LOC014,,1,synthetic
+193,Ana Wilson,IT,Portland,113600,,4.04,59,2021-05-09,True,Systems Engineer,79,Full-time,Day,LOC010,,1,synthetic
+194,Luis Rivera,IT,Boston,121800,2494.3,2.89,40,2025-03-29,True,Systems Engineer,79,Full-time,Day,LOC014,,1,synthetic
+195,Ryan Park,Sales,Chicago,77000,3477.19,2.89,21,2022-12-25,True,Account Executive,75,Full-time,Day,LOC011,,1,synthetic
+196,Ana Young,Sales,Denver,49500,4030.35,3.67,15,2019-05-17,True,Account Executive,85,Part-time,Day,LOC005,,0.6,synthetic
+197,Zoe Park,Sales,Seattle,54600,2565.73,2.96,12,2019-02-23,True,Account Executive,90,Part-time,Day,LOC016,,0.6,synthetic
+198,Mei Chen,HR,Denver,68200,3476.7,4.33,34,2022-04-06,False,HR Specialist,71,Full-time,Day,LOC005,2026-04-11,1,synthetic
+199,Zoe Davis,IT,Dallas,130400,4775.34,3.65,50,2018-11-08,True,Senior Systems Engineer,74,Full-time,Day,LOC009,,1,synthetic
+200,Eric Clark,Sales,Austin,57700,4377.24,3.5,17,2024-01-02,False,Account Executive,70,Full-time,Day,LOC002,2026-04-18,1,synthetic
+201,Hugo Clark,IT,New York,151000,9035.85,4.68,76,2020-08-19,True,Senior Systems Engineer,89,Full-time,Day,LOC013,,1,synthetic
+202,Grace Evans, hr ,New York,77100,2023.72,3.11,41,2025-06-26,True,HR Specialist,81,Full-time,Day,LOC013,,1,synthetic
+203,Fatima Garcia,Sales,Chicago,75500,3324.07,2.78,18,2018-06-06,True,Account Executive,85,Full-time,Day,LOC001,,1,synthetic
+204,Ryan Wright, it ,Austin,88600,3183.93,3.62,54,2019-03-03,True,Systems Engineer,79,Full-time,Evening,LOC002,,1,synthetic
+205,Zoe Evans,Finance,Chicago,77300,3047.78,3.8,60,2023-02-15,True,Financial Analyst,68,Full-time,Day,LOC001,,1,synthetic
+206,Priya Patel,Marketing,Dallas,40800,1835.03,4.03,34,2024-05-13,True,Marketing Analyst,72,Part-time,Day,LOC009,,0.6,synthetic
+207,Isla Kim,Sales,Dallas,92000,4241.62,2.84,22,2020-01-04,True,Senior Account Executive,85,Full-time,Day,LOC019,,1,synthetic
+208,Maya Diaz,Marketing,Dallas,63900,2137.61,3.48,52,2020-10-28,True,Marketing Analyst,77,Full-time,Day,LOC019,,1,synthetic
+209,Ava Rivera,Finance,Boston,93500,2393.38,3.18,38,2025-05-26,False,Financial Analyst,78,Full-time,Day,LOC004,2026-05-27,1,synthetic
+210,Priya Kim,Marketing,Seattle,94400,2225.3,3.14,48,2018-12-25,True,Marketing Analyst,67,Full-time,Day,LOC006,,1,synthetic
+211,Adam Shah,IT,Dallas,103500,0,4.29,71,2018-09-06,True,Systems Engineer,89,Contract,Day,LOC009,,1,synthetic
+212,Emma Evans,Sales,Portland,78900,9586.96,4.54,15,2025-03-25,False,Account Executive,80,Full-time,Day,LOC020,2026-02-20,1,synthetic
+213,Ella Wilson,IT,Chicago,95800,398.85,2.21,37,2021-07-20,True,Systems Engineer,69,Full-time,Day,LOC001,,1,synthetic
+214,Mike Shah,Sales,New York,86700,6045.14,3.39,23,2021-07-30,True,Account Executive,90,Full-time,Day,LOC003,,1,synthetic
+215,Finn Garcia,Sales,Atlanta,96600,10544.68,4.21,31,2020-01-19,True,Senior Account Executive,90,Full-time,Day,LOC017,,1,synthetic
+216,Ruby Reed,HR,Austin,87000,3219.14,3.72,52,2019-06-24,True,Senior HR Specialist,81,Full-time,Day,LOC012,,1,synthetic
+217,Omar Davis,IT,New York,157300,3981.18,3.17,46,2024-07-04,True,Senior Systems Engineer,79,Full-time,Day,LOC003,,1,synthetic
+218,Nina Lee,IT,,139100,4475.23,3.38,47,2019-11-19,True,Senior Systems Engineer,74,Full-time,Day,LOC012,,1,synthetic
+219,Ava Garcia,Finance,Austin,75500,2752.03,3.57,54,2022-11-01,True,Financial Analyst,68,full time,Day,LOC012,,1,synthetic
+220,Priya Taylor,Sales,Portland,74300,9535.96,4.62,30,2018-06-01,True,Account Executive,90,Full-time,Day,LOC010,,1,synthetic
+221,Alex Patel,HR,Chicago,79800,1360.79,2.8,46,2021-02-14,True,Senior HR Specialist,66,Full-time,Day,LOC011,,1,synthetic
+222,Liam Evans,Marketing,Austin,75600,2360.53,3.44,34,2022-05-20,False,Marketing Analyst,82,Full-time,Day,LOC012,2026-05-12,1,synthetic
+223,Alex Park,IT,Austin,90600,1481.51,2.76,43,2024-10-06,True,Systems Engineer,79,Full-time,Day,LOC002,,1,synthetic
+224,Hugo Reed,IT,Seattle,116400,3661.71,3.46,48,2022-09-18,True,Systems Engineer,84,Full-time,Evening,LOC006,,1,synthetic
+225,Finn Diaz,Finance,Denver,90200,2812.08,3.41,48,2024-02-22,True,Financial Analyst,73,Full-time,Day,LOC015,,1,synthetic
+226,Lucy Reed,Finance,Austin,92100,2297.15,3.16,46,2025-07-15,True,Senior Financial Analyst,88,Full-time,Day,LOC002,,1,synthetic
+227,Lucy Wilson,Finance,Dallas,96500,3071.61,3.44,55,2021-07-29,True,Senior Financial Analyst,73,Full-time,Day,LOC009,,1,synthetic
+228,Ella Kim,IT,Chicago,97000,2184.72,,46,2023-03-17,True,Systems Engineer,84,Full-time,Evening,LOC001,,1,synthetic
+229,Ana Morgan,HR,,88400,3415.04,3.82,56,2022-10-24,True,Senior HR Specialist,81,Full-time,Day,LOC016,,1,synthetic
+230,Sofia Martin,Finance,Boston,95600,0,3.6,27,2025-08-03,False,Financial Analyst,68,Contract,Day,LOC004,2026-03-23,1,synthetic
+231,Mike Lee,Sales,New York,83700,4720.86,3.17,24,2023-10-22,True,Account Executive,75,Full-time,Day,LOC003,,1,synthetic
+232,Lucy Kim,Marketing,Denver,65200,2500.08,3.65,37,2025-03-27,False,Marketing Analyst,77,Full-time,Day,LOC015,2026-06-04,1,synthetic
+233,Sofia Nguyen,Finance,Austin,86100,2204.49,3.13,45,2020-02-08,True,Financial Analyst,73,Full-time,Day,LOC012,,1,synthetic
+234,Ana Garcia,IT,Phoenix,52500,1648.68,3.44,26,2021-03-14,True,Systems Engineer,79,part time,Day,LOC018,,0.6,synthetic
+235,Adam Brooks,Marketing,Boston,106800,4363.88,3.88,56,2024-10-16,True,Senior Marketing Analyst,77,Full-time,Day,LOC004,,1,synthetic
+236,Aisha Garcia,Finance,Denver,89300,4380.41,4.19,53,2019-10-29,True,Financial Analyst,88,Full-time,Day,LOC005,,1,synthetic
+237,Sara Bennett,HR,Chicago,84800,1591.3,2.82,44,2019-03-04,True,Senior HR Specialist,76,Full-time,Day,LOC011,,1,synthetic
+238,Alex Bennett,Sales,Seattle,78000,6418.92,3.71,28,2024-07-22,True,Account Executive,85,Full-time,Day,LOC006,,1,synthetic
+239,Sara Taylor, it ,New York,165400,8087.19,4.16,62,2020-09-14,True,Senior Systems Engineer,69,Full-time,Day,LOC003,,1,synthetic
+240,Leo Evans,Sales,Phoenix,67100,0,1.95,16,2018-08-08,True,Account Executive,70,Full-time,Day,LOC018,,1,synthetic
+241,Eric Wilson, finance ,Phoenix,102500,,4.18,66,2020-09-22,True,Senior Financial Analyst,78,Full-time,Day,LOC008,,1,synthetic
+242,Ella Diaz,HR,Austin,63800,1688.03,3.16,50,2019-06-17,True,HR Specialist,71,Full-time,Day,LOC012,,1,synthetic
+243,Mei Chen,Marketing,Phoenix,92800,3089.08,3.55,51,2022-10-28,True,Senior Marketing Analyst,82,Full-time,Day,LOC008,,1,synthetic
+244,Fatima Evans,Marketing,Chicago,79500,1781.81,3.04,46,2020-01-02,True,Marketing Analyst,77,Full-time,Day,LOC011,,1,synthetic
+245,Priya Brown,Finance,Chicago,77600,2841.38,3.59,51,2020-08-16,True,Financial Analyst,73,Full-time,Day,LOC001,,1,synthetic
+246,Nora Lee,Finance,New York,147300,6419.77,3.96,55,2023-07-23,True,Senior Financial Analyst,73,full time,Day,LOC003,,1,synthetic
+247,Zoe Evans,HR,Denver,76800,1333.67,2.8,37,2020-11-07,True,HR Specialist,86,Full-time,Day,LOC015,,1,synthetic
+248,Bob Hall,Sales,New York,91700,5301.38,3.07,21,2024-06-18,True,Account Executive,85,Full-time,Day,LOC013,,1,synthetic
+249,Ana Morgan,IT,Dallas,56600,2124.55,3.73,28,2020-10-25,True,Systems Engineer,79,Part-time,Day,LOC009,,0.6,synthetic
+250,Fatima Nguyen,Sales,Boston,89200,8875.56,4.05,30,2020-06-06,True,Account Executive,85,Full-time,Day,LOC004,,1,synthetic
+251,Diego Chen,Sales,Chicago,87000,7151.83,3.6,28,2023-06-15,True,Senior Account Executive,90,Full-time,Day,LOC011,,1,synthetic
+252,Lucy Reed,HR,Austin,65100,1854.69,3.22,54,2024-09-24,True,HR Specialist,81,Full-time,Day,LOC012,,1,synthetic
+253,Bob Brooks,IT,Denver,95700,238.93,2.18,33,2019-08-03,True,Systems Engineer,84,Full-time,Day,LOC005,,1,synthetic
+254,Liam Martin,HR,Denver,45700,1859.2,3.82,29,2018-05-14,True,HR Specialist,71,Part-time,Day,LOC015,,0.6,synthetic
+255,Alex Martin, hr ,Dallas,65600,2938.86,4.1,65,2022-08-02,True,HR Specialist,66,Full-time,Day,LOC009,,1,synthetic
+256,Emma Young,HR,Seattle,66800,2422.41,3.62,32,2022-07-10,True,Senior HR Specialist,71,Part-time,Day,LOC006,,0.6,synthetic
+257,Diego Rivera, marketing ,Phoenix,73100,1611.76,2.97,47,2023-05-03,True,Marketing Analyst,77,Full-time,Day,LOC018,,1,synthetic
+258,Finn Taylor,IT,New York,112100,3581.4,3.49,53,2023-06-03,True,Systems Engineer,69,Full-time,Day,LOC003,,1,synthetic
+259,Luis Green,Finance,Portland,86300,2596.24,3.32,49,2019-07-16,True,Financial Analyst,73,Full-time,Day,LOC020,,1,synthetic
+260,Lucy Lee,Marketing,Austin,97000,2514.78,3.12,48,2022-03-10,True,Senior Marketing Analyst,77,Full-time,Day,LOC002,,1,synthetic
+261,Luis Lee,Sales,New York,50000,5250.13,4.21,17,2020-12-07,True,Account Executive,80,Part-time,Day,LOC003,,0.6,synthetic
+262,Leo Singh,Finance,Seattle,135700,4549.93,3.47,51,2018-09-19,True,Senior Financial Analyst,73,Full-time,Day,LOC016,,1,synthetic
+263,Ivan Chen,Sales,Boston,97500,9534.72,3.93,29,2021-10-15,True,Senior Account Executive,85,Full-time,Day,LOC014,,1,synthetic
+264,Nora Wright,Marketing,Portland,75000,1475.26,2.76,44,2023-09-09,True,Marketing Analyst,87,Full-time,Day,LOC020,,1,synthetic
+265,Iris Taylor,IT,New York,135200,570.8,2.26,21,2021-07-17,False,Systems Engineer,89,Full-time,Day,LOC003,2026-04-28,1,synthetic
+266,Bob Reed,Finance,Dallas,106300,2063.41,2.89,42,2024-09-03,True,Senior Financial Analyst,88,Full-time,Day,LOC009,,1,synthetic
+267,Liam Ali,Sales,Boston,82300,5061.93,3.24,24,2025-01-31,True,Account Executive,85,Full-time,Day,LOC004,,1,synthetic
+268,Fatima Morgan,Sales,Boston,103800,10103.33,,30,2020-01-16,True,Senior Account Executive,90,Full-time,Day,LOC014,,1,synthetic
+269,Diego Nguyen,IT,Chicago,141000,3979.34,3.2,49,2025-02-05,True,Senior Systems Engineer,79,Full-time,Day,LOC001,,1,synthetic
+270,Omar Davis,Finance,Chicago,78300,2740.06,3.55,51,2019-03-20,True,Financial Analyst,73,Full-time,Day,LOC011,,1,synthetic
+271,Nora Green,IT,Chicago,103700,5030.12,4.16,69,2022-10-23,True,Systems Engineer,79,Full-time,Evening,LOC001,,1,synthetic
+272,Sara Rivera,Marketing,New York,102400,4615.61,4.01,64,2021-08-05,True,Marketing Analyst,82,Full-time,Day,LOC013,,1,synthetic
+273,Nina Diaz,IT,Boston,105800,3577.98,3.49,53,2024-01-05,True,Systems Engineer,79,Full-time,Night,LOC004,,1,synthetic
+274,Priya Singh,Marketing,New York,94000,2765.52,3.39,48,2024-07-11,True,Marketing Analyst,72,Full-time,Day,LOC003,,1,synthetic
+275,Jade Diaz,IT,Chicago,149400,7439.59,4.22,65,2020-02-17,True,Senior Systems Engineer,84,Full-time,Day,LOC011,,1,synthetic
+276,Diego Diaz,IT,,134200,4117.56,3.33,48,2019-06-05,True,Systems Engineer,69,Full-time,Night,LOC014,,1,synthetic
+277,Ryan Wright,Finance,Denver,99600,3415.12,3.53,50,2020-04-30,True,Senior Financial Analyst,68,Full-time,Day,LOC005,,1,synthetic
+278,Jade Kim,Finance,Chicago,110200,5043.02,4.06,63,2024-10-05,True,Senior Financial Analyst,78,Full-time,Day,LOC011,,1,synthetic
+279,Noah Adams,IT,Seattle,121000,2208.72,2.92,42,2021-04-09,True,Systems Engineer,69,Full-time,Day,LOC016,,1,synthetic
+280,Leo Reed, sales ,Atlanta,72400,5369.54,3.58,20,2021-08-25,False,Account Executive,75,Full-time,Day,LOC007,2026-06-05,1,synthetic
+281,Chen Lee,Marketing,Boston,86200,1396.59,2.78,37,2022-09-30,True,Marketing Analyst,87,Full-time,Day,LOC004,,1,synthetic
+282,Nina Taylor,IT,New York,92600,4825.12,4.42,32,2019-03-17,True,Senior Systems Engineer,79,Part-time,Day,LOC003,,0.6,synthetic
+283,Isla Davis,Finance,Boston,93500,2760.34,3.3,42,2021-07-05,False,Financial Analyst,73,Full-time,Day,LOC004,2026-07-09,1,synthetic
+284,Theo Singh,Sales,Atlanta,55700,5936.03,4.17,33,2025-05-17,True,Account Executive,75,Full-time,Day,LOC007,,1,synthetic
+285,Maya Garcia,IT,New York,107200,2336.23,3.02,47,2024-04-23,True,Systems Engineer,84,Full-time,Night,LOC013,,1,synthetic
+286,Lily Patel,HR,Denver,64200,2520.14,3.71,56,2022-10-30,True,HR Specialist,86,Full-time,Day,LOC005,,1,synthetic
+287,Ryan Park,IT,Austin,55600,490.19,2.35,18,2024-05-01,True,Systems Engineer,79,Part-time,Day,LOC012,,0.6,synthetic
+288,Theo Rivera,HR,Seattle,108800,6609.6,4.68,63,2022-02-02,True,Senior HR Specialist,71,Full-time,Day,LOC016,,1,synthetic
+289,Ella Wilson,HR,Atlanta,68400,,3.51,55,2020-06-02,True,HR Specialist,66,Full-time,Day,LOC017,,1,synthetic
+290,Emma Carter,Marketing,Atlanta,59700,,4.05,33,2019-01-18,True,Senior Marketing Analyst,87,Part-time,Day,LOC007,,0.6,synthetic
+291,Daniel Wilson,Marketing,Dallas,70600,2402.5,3.53,61,2024-05-03,True,Marketing Analyst,87,Full-time,Day,LOC009,,1,synthetic
+292,Omar Nguyen,HR,Denver,63400,3851.55,4.73,74,2025-06-18,True,HR Specialist,71,Full-time,Day,LOC015,,1,synthetic
+293,Leo Wilson,IT,Austin,67700,2143.68,3.49,29,2021-02-15,True,Senior Systems Engineer,69,Part-time,Day,LOC002,,0.6,synthetic
+294,Ruby Lee,Finance,Chicago,77300,1176.27,2.65,36,2021-03-28,True,Financial Analyst,78,Full-time,Day,LOC011,,1,synthetic
+295,Iris Lee,IT,New York,121500,4277.04,3.53,52,2018-05-05,True,Systems Engineer,84,Full-time,Day,LOC013,,1,synthetic
+296,Aisha Chen,IT,Boston,105700,,2.96,27,2023-02-22,False,Systems Engineer,84,Full-time,Day,LOC004,2026-04-06,1,synthetic
+297,Priya Shah,IT,Portland,137800,277.7,2.04,29,2022-03-06,True,Senior Systems Engineer,89,Full-time,Evening,LOC010,,1,synthetic
+298,Ryan Wilson,Sales,Chicago,87400,5533.72,3.3,24,2024-05-22,True,Senior Account Executive,85,Full-time,Day,LOC001,,1,synthetic
+299,Grace Rivera,Finance,New York,126100,5691.69,4.07,60,2018-11-12,True,Senior Financial Analyst,83,Full-time,Day,LOC003,,1,synthetic
+300,Ella Brooks,Marketing,New York,122100,1980.28,2.74,45,2018-03-04,True,Senior Marketing Analyst,87,Full-time,Day,LOC003,,1,synthetic
+301,Mike Nguyen,Finance,Boston,81400,2026.72,3.07,44,2024-12-28,True,Financial Analyst,68,Full-time,Day,LOC004,,1,synthetic
+302,Chen Nguyen,Marketing,New York,117800,3351.57,3.28,46,2019-01-06,False,Senior Marketing Analyst,67,Full-time,Day,LOC003,2026-07-22,1,synthetic
+303,Hugo Shah,Sales,Denver,83900,4885.01,3.1,24,2018-10-19,True,Account Executive,75,Full-time,Day,LOC005,,1,synthetic
+304,Ella Diaz,Finance,Austin,79900,,3.88,61,2022-01-03,True,Financial Analyst,83,Full-time,Day,LOC012,,1,synthetic
+305,Ruby Nguyen,Marketing,Atlanta,92400,3044.64,3.54,53,2024-03-13,True,Senior Marketing Analyst,82,Full-time,Day,LOC017,,1,synthetic
+306,Mike Clark,IT,Austin,100100,1811.44,2.86,44,2019-06-05,True,Systems Engineer,89,Full-time,Evening,LOC012,,1,synthetic
+307,Noah Ali,Sales,Chicago,72500,4915.4,3.36,25,2024-03-29,True,Account Executive,70,Full-time,Day,LOC001,,1,synthetic
+308,Daniel Park,Finance,Chicago,109900,4366.88,3.75,56,2023-06-03,True,Senior Financial Analyst,73,Full-time,Day,LOC001,,1,synthetic
+309,Chen Chen,Sales,New York,77500,4828.77,3.29,28,2025-04-24,True,Account Executive,90,Full-time,Day,LOC003,,1,synthetic
+310,Eric Evans,Finance,Phoenix,105500,3465.03,3.52,55,2020-03-03,True,Senior Financial Analyst,73,Full-time,Day,LOC008,,1,synthetic
+311,Emma Brooks,HR,New York,79000,1568.86,2.89,40,2020-03-02,True,HR Specialist,76,Full-time,Day,LOC003,,1,synthetic
+312,Lily Adams,Finance,Chicago,114700,4768.84,3.79,54,2020-12-30,True,Senior Financial Analyst,83,Full-time,Day,LOC011,,1,synthetic
+313,Liam Bennett,HR,Chicago,66500,1847.54,3.25,48,2019-12-23,True,HR Specialist,76,Full-time,Day,LOC011,,1,synthetic
+314,Ana Clark,Sales,Denver,54800,1942.82,2.73,12,2022-07-08,True,Senior Account Executive,90,Part-time,Day,LOC015,,0.6,synthetic
+315,Zoe Davis,Marketing,Chicago,78600,2891.64,3.65,50,2021-11-15,True,Marketing Analyst,77,Full-time,Day,LOC001,,1,synthetic
+316,Emma Rivera,Finance,Boston,132400,,3.8,64,2022-03-04,True,Senior Financial Analyst,83,Full-time,Day,LOC014,,1,synthetic
+317,Lily Green,Finance,Boston,105800,1285.79,2.54,26,2022-07-05,False,Financial Analyst,73,Full-time,Day,LOC004,2026-05-11,1,synthetic
+318,Sofia Young,Sales,New York,80000,4360.71,3.14,23,2025-01-15,True,Account Executive,70,Full-time,Day,LOC003,,1,synthetic
+319,Diego Adams, finance ,Austin,85600,2487.63,3.37,44,2023-10-20,True,Financial Analyst,88,Full-time,Day,LOC012,,1,synthetic
+320,Leo Carter,Sales,Denver,71600,4060.38,3.12,22,2022-02-10,True,Account Executive,75,Full-time,Day,LOC005,,1,synthetic
+321,Maya Park,Marketing,Seattle,77500,3250.52,3.83,51,2022-03-01,True,Marketing Analyst,77,Full-time,Day,LOC016,,1,synthetic
+322,Grace Wilson,Sales,Boston,106600,7556.68,3.4,23,2019-10-15,True,Senior Account Executive,85,Full-time,Day,LOC004,,1,synthetic
+323,Lucy Hall,Sales,Austin,69200,5907.45,3.67,27,2018-04-15,True,Account Executive,85,Full-time,Day,LOC012,,1,synthetic
+324,Isla Evans,Sales,Denver,73400,0,3.26,24,2023-04-23,True,Account Executive,75,Contract,Day,LOC005,,1,synthetic
+325,Grace Brooks,Sales,Atlanta,90000,6529.12,3.49,26,2025-02-22,True,Senior Account Executive,80,Full-time,Day,LOC007,,1,synthetic
+326,Daniel Patel,Sales,Seattle,95700,9765.22,4.1,22,2018-09-05,False,Account Executive,90,Full-time,Day,LOC016,2026-04-24,1,synthetic
+327,Mike Lee,Marketing,New York,82500,2727.19,3.51,55,2022-09-09,True,Marketing Analyst,72,Full-time,Day,LOC003,,1,synthetic
+328,Liam Patel,IT,New York,111200,4207.04,3.64,58,2024-11-24,True,Systems Engineer,74,Full-time,Day,LOC003,,1,synthetic
+329,Priya Morgan,Sales,Austin,85600,4440.73,3.1,23,2021-11-08,True,Senior Account Executive,75,Full-time,Day,LOC002,,1,synthetic
+330,Iris Martin,Sales,Dallas,85600,0,3.15,29,2025-05-22,True,Senior Account Executive,75,Contract,Day,LOC019,,1,synthetic
+331,Mike Shah,Sales,Austin,70700,1440.29,2.48,16,2025-07-22,True,Account Executive,80,Full-time,Day,LOC012,,1,synthetic
+332,Nora Morgan,Finance,Denver,82300,,3.82,58,2019-02-08,True,Financial Analyst,68,Full-time,Day,LOC005,,1,synthetic
+333,Sara Ali,IT,Boston,146400,5103.26,3.63,49,2025-04-26,True,Senior Systems Engineer,74,Full-time,Night,LOC004,,1,synthetic
+334,Ruby Chen,Finance,New York,120500,6273.89,4.33,65,2024-04-06,True,Senior Financial Analyst,73,Full-time,Day,LOC003,,1,synthetic
+335,Priya Brown,IT,Austin,85200,,3.18,50,2020-09-04,True,Systems Engineer,84,Full-time,Day,LOC002,,1,synthetic
+336,Nina Patel,IT,New York,149600,0,3.32,47,2024-07-16,True,Senior Systems Engineer,79,Contract,Evening,LOC003,,1,synthetic
+337,Lily Park,Marketing,Austin,56300,1440.58,3.13,25,2025-04-27,True,Senior Marketing Analyst,72,Part-time,Day,LOC002,,0.6,synthetic
+338,Hugo Singh,Sales,Phoenix,88200,5213.51,3.16,22,2020-06-22,True,Senior Account Executive,75,Full-time,Day,LOC018,,1,synthetic
+339,Leo Nguyen,Sales,Portland,101600,5917.94,3.2,23,2022-06-21,True,Senior Account Executive,75,Full-time,Day,LOC010,,1,synthetic
+340,Isla Brooks,HR,Dallas,59500,2428.03,3.91,55,2025-08-19,True,HR Specialist,76,Full-time,Day,LOC009,,1,synthetic
+341,Aisha Lopez,Finance,Atlanta,71400,2303.19,3.43,53,2020-07-12,True,Financial Analyst,78,Full-time,Day,LOC017,,1,synthetic
+342,Noah Nguyen,IT,Dallas,86200,2841.03,3.51,30,2022-03-14,False,Systems Engineer,69,Full-time,Day,LOC009,2026-03-13,1,synthetic
+343,Jade Adams,IT,New York,122600,4538.58,3.67,57,2019-01-24,True,Systems Engineer,79,Full-time,Night,LOC003,,1,synthetic
+344,Diego Rivera,Finance,Chicago,99400,3257.37,3.47,56,2018-08-15,True,Senior Financial Analyst,73,Full-time,Day,LOC011,,1,synthetic
+345,Mike Clark,Marketing,New York,93300,2445.36,3.2,45,2021-03-17,True,Marketing Analyst,87,Full-time,Day,LOC003,,1,synthetic
+346,Maya Garcia,Marketing,Chicago,102000,3251.4,3.45,48,2021-01-18,True,Senior Marketing Analyst,67,Full-time,Day,LOC011,,1,synthetic
+347,Ivan Taylor,Marketing,Chicago,70400,978.78,2.7,34,2018-12-22,False,Marketing Analyst,72,Full-time,Day,LOC011,2026-06-28,1,synthetic
+348,Ivan Park,IT,Seattle,76800,3010.64,3.74,32,2019-05-10,True,Systems Engineer,79,Part-time,Day,LOC016,,0.6,synthetic
+349,Nora Brown,HR,New York,87100,2892.03,3.48,50,2022-06-12,True,HR Specialist,81,Full-time,Day,LOC003,,1,synthetic
+350,Noah Hall,HR,Seattle,73400,2804.25,3.74,52,2025-08-20,True,HR Specialist,86,Full-time,Day,LOC016,,1,synthetic
+351,Iris Diaz,IT,Chicago,104300,5413.93,4.28,63,2023-04-13,True,Systems Engineer,84,Full-time,Day,LOC011,,1,synthetic
+352,Iris Shah,Finance,Austin,75200,,2.68,39,2023-12-30,True,Financial Analyst,83,Full-time,Day,LOC002,,1,synthetic
+353,Diego Carter,Marketing,Dallas,69500,1457,2.9,42,2019-06-20,True,Marketing Analyst,72,Full-time,Day,LOC009,,1,synthetic
+354,Fatima Ali,IT,Chicago,97800,2833.57,3.34,56,2022-03-21,True,Systems Engineer,89,Full-time,Evening,LOC001,,1,synthetic
+355,Mei Davis,Marketing,Denver,112700,0,3.73,48,2019-04-15,True,Senior Marketing Analyst,87,contract,Day,LOC005,,1,synthetic
+356,Hugo Evans,Sales,Seattle,86000,6334.88,3.42,25,2020-12-15,True,Account Executive,70,Full-time,Day,LOC006,,1,synthetic
+357,Nina Lopez,Marketing,Austin,64700,,2.69,44,2024-10-14,True,Marketing Analyst,72,Full-time,Day,LOC012,,1,synthetic
+358,Lily Diaz,Sales,New York,91200,4946.23,3.03,23,2021-02-22,True,Account Executive,80,Full-time,Day,LOC003,,1,synthetic
+359,Nora Brown,Finance,Seattle,97700,3885.02,3.79,61,2021-06-25,True,Financial Analyst,68,Full-time,Day,LOC006,,1,synthetic
+360,Grace Adams,Marketing,Chicago,98300,2682.21,3.27,47,2024-06-08,True,Senior Marketing Analyst,82,Full-time,Day,LOC001,,1,synthetic
+361,Luis Evans,Sales,Austin,62200,2990.48,2.95,20,2025-06-14,True,Account Executive,75,Full-time,Day,LOC002,,1,synthetic
+362,Isla Bennett,Finance,Portland,68300,2371.69,3.55,34,2024-02-12,True,Senior Financial Analyst,88,Part-time,Day,LOC010,,0.6,synthetic
+363,Arjun Ali,Finance, SEATTLE ,101300,4931.73,4.24,55,2024-12-04,True,Financial Analyst,73,Full-time,Day,LOC006,,1,synthetic
+364,Noah Lee,IT,Seattle,159600,2275.1,2.68,34,2019-05-09,True,Senior Systems Engineer,79,Full-time,Day,LOC006,,1,synthetic
+365,Hugo Taylor,HR, CHICAGO ,64300,1006.17,2.76,39,2021-11-03,True,HR Specialist,81,Full-time,Day,LOC011,,1,synthetic
+366,Eric Lee,Sales,Boston,80400,4558.73,3.18,21,2020-01-05,True,Account Executive,80,Full-time,Day,LOC004,,1,synthetic
+367,Zoe Young,Sales,Seattle,77900,5328.82,3.33,24,2019-11-09,True,Account Executive,90,Full-time,Day,LOC016,,1,synthetic
+368,Eric Ali,IT,Austin,114400,3866.43,3.5,52,2020-04-22,True,Senior Systems Engineer,79,Full-time,Evening,LOC012,,1,synthetic
+369,Finn Shah,IT,Dallas,99600,2871.42,3.31,55,2025-04-07,True,Systems Engineer,84,Full-time,Evening,LOC009,,1,synthetic
+370,Fatima Chen,Sales,Seattle,94900,5662.79,3.12,24,2024-07-26,True,Senior Account Executive,75,Full-time,Day,LOC006,,1,synthetic
+371,Diego Taylor, sales ,Chicago,70900,0,3.68,27,2019-01-27,True,Account Executive,80,Contract,Day,LOC001,,1,synthetic
+372,Nora Hall,Marketing,New York,96900,4465.62,4.12,58,2022-03-29,True,Marketing Analyst,87,Full-time,Day,LOC013,,1,synthetic
+373,Aisha Carter,Sales,Seattle,86000,7988.81,3.81,27,2024-06-13,True,Account Executive,85,Full-time,Day,LOC006,,1,synthetic
+374,Iris Martin,Finance,Boston,85100,3455.49,3.81,51,2025-08-27,True,Financial Analyst,68,Full-time,Day,LOC014,,1,synthetic
+375,Lucy Park,Sales,Austin,61400,4129.35,3.41,27,2020-02-22,True,Account Executive,80,Full-time,Day,LOC002,,1,synthetic
+376,Diego Shah,HR,Boston,89200,2822.89,3.38,51,2018-07-10,True,HR Specialist,66,Full-time,Day,LOC014,,1,synthetic
+377,Ana Singh,Sales,Atlanta,66400,8169.82,4.48,33,2020-02-25,True,Account Executive,70,Full-time,Day,LOC017,,1,synthetic
+378,Ava Brown,Finance,Atlanta,74800,2057.23,3.16,45,2022-03-06,True,Financial Analyst,73,Full-time,Day,LOC017,,1,synthetic
+379,Omar Martin,Sales,Dallas,70900,3708.86,3.04,18,2019-09-11,True,Account Executive,85,Full-time,Day,LOC009,,1,synthetic
+380,Ivan Young,Sales,Denver,65400,5156.22,3.57,27,2021-04-03,True,Account Executive,85,Full-time,Day,LOC015,,1,synthetic
+381,Mike Patel,Finance,Boston,90400,998.55,2.52,35,2024-08-20,True,Financial Analyst,68,Full-time,Day,LOC004,,1,synthetic
+382,Ava Brown,IT,Phoenix,96600,4022.54,3.8,53,2021-05-12,True,Systems Engineer,89,Full-time,Day,LOC018,,1,synthetic
+383,Omar Nguyen,HR,Denver,73900,3247.63,3.98,61,2018-10-23,True,HR Specialist,86,Full-time,Day,LOC015,,1,synthetic
+384,Nina Clark,IT,Dallas,87500,3242.09,3.67,55,2023-04-11,True,Systems Engineer,69,Full-time,Day,LOC019,,1,synthetic
+385,Grace Park,Sales,Denver,74500,8492.05,4.26,35,2020-05-11,True,Account Executive,85,Full-time,Day,LOC005,,1,synthetic
+386,Ella Davis,Marketing,New York,89200,3856.27,3.91,59,2023-02-09,True,Marketing Analyst,87,Full-time,Day,LOC003,,1,synthetic
+387,Eric Kim,HR,New York,114400,4055.92,3.68,60,2022-05-02,True,Senior HR Specialist,71,Full-time,Day,LOC003,,1,synthetic
+388,Ava Bennett,Finance,Chicago,103500,5141.39,4.2,61,2025-01-05,True,Senior Financial Analyst,73,Full-time,Day,LOC001,,1,synthetic
+389,Leo Rivera,IT,Boston,156700,5349.55,3.49,50,2019-09-24,True,Senior Systems Engineer,89,Full-time,Day,LOC004,,1,synthetic
+390,Ana Martin,Finance,New York,98700,3162.42,3.39,49,2020-12-18,True,Financial Analyst,83,Full-time,Day,LOC003,,1,synthetic
+391,Nora Green,Marketing,Seattle,78800,3615.72,4.02,61,2023-07-20,True,Marketing Analyst,77,Full-time,Day,LOC016,,1,synthetic
+392,Eric Brown,Marketing,,76500,,3.34,52,2018-12-05,True,Marketing Analyst,72,Full-time,Day,LOC020,,1,synthetic
+393,Ella Wright,Sales,Seattle,84500,4094.42,3.01,22,2023-08-27,True,Account Executive,85,Full-time,Day,LOC016,,1,synthetic
+394,Nora Ali,Finance,Chicago,77200,3453.84,3.97,54,2023-04-16,True,Financial Analyst,83,Full-time,Day,LOC001,,1,synthetic
+395,Bob Kim,IT,Boston,71400,2070.99,3.25,24,2025-06-05,True,Systems Engineer,79,Part-time,Day,LOC004,,0.6,synthetic
+396,Finn Lopez,IT,Seattle,169100,1302.67,2.35,36,2022-11-29,True,Senior Systems Engineer,69,Full-time,Evening,LOC016,,1,synthetic
+397,Daniel Wilson,Sales,Portland,69100,409.59,2.15,21,2023-06-29,True,Account Executive,70,Full-time,Day,LOC020,,1,synthetic
+398,Ella Singh,Sales,Denver,79900,6927.66,3.77,21,2022-02-11,False,Account Executive,75,Full-time,Day,LOC015,2026-04-28,1,synthetic
+399,Mike Brown,Sales,Chicago,77000,6263.78,3.65,29,2025-06-19,True,Account Executive,70,Full-time,Day,LOC011,,1,synthetic
+400,Finn Davis,IT,Atlanta,91800,3148.85,3.5,51,2020-11-25,True,Systems Engineer,69,Full-time,Day,LOC007,,1,synthetic
+401,Chen Rivera,Marketing,New York,95400,1820.01,,38,2018-01-20,True,Marketing Analyst,87,full time,Day,LOC013,,1,synthetic
+402,Leo Davis,Sales,Dallas,84300,10153.57,4.39,33,2020-04-18,True,Senior Account Executive,75,Full-time,Day,LOC019,,1,synthetic
+403,Grace Patel,HR,Seattle,75400,3369.9,4.01,61,2021-09-09,True,HR Specialist,76,Full-time,Day,LOC006,,1,synthetic
+404,Hugo Rivera,Sales,New York,91800,0,4.11,32,2019-03-12,True,Account Executive,75,Contract,Day,LOC003,,1,synthetic
+405,Diego Davis,Finance,Seattle,110600,5754.5,4.34,64,2023-12-11,True,Senior Financial Analyst,83,Full-time,Day,LOC016,,1,synthetic
+406,Leo Wilson,Finance,Seattle,104600,0,3.41,52,2024-11-17,True,Financial Analyst,88,Contract,Day,LOC006,,1,synthetic
+407,Bob Nguyen,Sales,Boston,84700,5680.68,3.29,23,2022-11-29,True,Account Executive,90,Full-time,Day,LOC004,,1,synthetic
+408,Jade Singh,Finance,Chicago,79900,3021.59,3.76,54,2020-06-25,True,Financial Analyst,78,Full-time,Day,LOC011,,1,synthetic
+409,Priya Lopez, sales ,Dallas,74600,5405.42,3.43,27,2023-07-06,True,Account Executive,75,Full-time,Day,LOC019,,1,synthetic
+410,Jade Wilson,IT,Denver,108600,4093.45,3.65,55,2022-03-15,True,Systems Engineer,89,Full-time,Day,LOC005,,1,synthetic
+411,Zoe Clark,Marketing,Chicago,84500,2237.41,3.2,42,2018-04-15,True,Marketing Analyst,72,Full-time,Day,LOC001,,1,synthetic
+412,Zoe Wright,Sales,New York,103100,6711.07,3.25,20,2018-12-16,True,Account Executive,80,Full-time,Day,LOC003,,1,synthetic
+413,Luis Reed,Sales,New York,83300,5651.27,3.33,26,2020-02-17,True,Account Executive,90,Full-time,Day,LOC003,,1,synthetic
+414,Sara Adams,Finance,Atlanta,67300,0,2.68,40,2024-12-23,True,Financial Analyst,88,Contract,Day,LOC007,,1,synthetic
+415,Daniel Wilson, sales ,Chicago,44100,3599,3.81,13,2025-08-22,True,Account Executive,90,Part-time,Day,LOC011,,0.6,synthetic
+416,Eric Ali,Marketing,Austin,41600,1725.6,3.81,27,2019-08-24,True,Marketing Analyst,72,Part-time,Day,LOC012,,0.6,synthetic
+417,Aisha Hall,HR,Phoenix,58600,1975.8,3.48,54,2020-02-20,True,HR Specialist,66,Full-time,Day,LOC018,,1,synthetic
+418,Sofia Adams,Finance,Chicago,89700,2863.3,3.48,60,2021-07-04,True,Financial Analyst,88,Full-time,Day,LOC001,,1,synthetic
+419,Eric Davis,Marketing,Austin,73300,2570.67,3.49,50,2021-09-07,True,Marketing Analyst,77,Full-time,Day,LOC002,,1,synthetic
+420,Ruby Shah,Marketing,Boston,86100,,4.5,64,2024-03-16,True,Marketing Analyst,67,Full-time,Day,LOC014,,1,synthetic
+421,Ava Hall,IT,Austin,88800,0,4.12,66,2021-02-23,True,Systems Engineer,84,Contract,Day,LOC002,,1,synthetic
+422,Ruby Ali,Marketing,Seattle,84800,2984.89,3.59,58,2024-09-25,True,Marketing Analyst,77,Full-time,Day,LOC006,,1,synthetic
+423,Liam Nguyen,IT,Dallas,104500,3636.92,3.57,53,2019-05-12,True,Systems Engineer,84,Full-time,Day,LOC009,,1,synthetic
+424,Diego Reed,Marketing,Chicago,66300,2476.84,3.75,54,2024-09-09,True,Marketing Analyst,77,Full-time,Day,LOC001,,1,synthetic
+425,Theo Hall,Finance,Phoenix,87100,1529.48,2.77,44,2018-08-08,True,Financial Analyst,68,Full-time,Day,LOC008,,1,synthetic
+426,Liam Green, sales ,Denver,77100,5787.81,3.49,28,2019-08-20,True,Account Executive,70,Full-time,Day,LOC015,,1,synthetic
+427,Liam Wright,HR,Atlanta,70600,1597.98,3.13,50,2019-12-27,True,HR Specialist,71,Full-time,Day,LOC017,,1,synthetic
+428,Ivan Chen,Finance,Chicago,85500,3977.99,4.06,61,2019-07-07,True,Financial Analyst,68,Full-time,Day,LOC011,,1,synthetic
+429,Mike Adams,Marketing,Atlanta,97800,3684.26,3.68,56,2023-10-03,True,Senior Marketing Analyst,67,Full-time,Day,LOC017,,1,synthetic
+430,Ana Hall,Finance,Dallas,91500,4899.08,4.34,65,2022-07-20,True,Senior Financial Analyst,78,Full-time,Day,LOC019,,1,synthetic
+431,Lily Singh,HR,New York,80300,2546.88,3.41,50,2019-06-30,True,HR Specialist,76,Full-time,Day,LOC003,,1,synthetic
+432,Jade Wilson,HR,Dallas,39800,1350.99,3.54,29,2024-04-13,True,HR Specialist,81,Part-time,Day,LOC009,,0.6,synthetic
+433,Priya Lee,Sales,New York,103400,5285.25,3,21,2019-04-20,True,Account Executive,75,Full-time,Day,LOC013,,1,synthetic
+434,Lucy Ali,Marketing,New York,94200,5485.79,4.6,74,2024-03-10,True,Marketing Analyst,77,Full-time,Day,LOC013,,1,synthetic
+435,Eric Adams,IT,Boston,148900,4480.99,3.23,47,2018-07-29,True,Senior Systems Engineer,74,Full-time,Evening,LOC014,,1,synthetic
+436,Aisha Wilson,HR,Boston,76100,3642.33,4.14,60,2020-07-20,True,HR Specialist,66,Full-time,Day,LOC004,,1,synthetic
+437,Iris Lee,Marketing,Portland,90200,3045.34,3.59,58,2019-09-19,True,Marketing Analyst,82,Full-time,Day,LOC020,,1,synthetic
+438,Mike Hall,IT,Austin,88300,2914.83,3.54,58,2024-03-10,True,Systems Engineer,79,Full-time,Day,LOC002,,1,synthetic
+439,Ruby Chen,Finance,Phoenix,48800,2064.46,3.9,33,2019-10-03,True,Financial Analyst,83,Part-time,Day,LOC018,,0.6,synthetic
+440,Nora Patel,Marketing,Seattle,52800,1062.82,2.9,23,2019-08-18,True,Marketing Analyst,77,Part-time,Day,LOC016,,0.6,synthetic
+441,Jade Singh,Marketing,Chicago,68400,2465.74,3.52,48,2022-10-27,True,Marketing Analyst,67,Full-time,Day,LOC001,,1,synthetic
+442,Daniel Wilson,Sales,Austin,85500,6803.77,3.59,28,2022-10-08,True,Senior Account Executive,80,Full-time,Day,LOC002,,1,synthetic
+443,Mei Brown,Sales,New York,110300,,4.3,32,2019-08-10,True,Senior Account Executive,80,Full-time,Day,LOC013,,1,synthetic
+444,Lucy Taylor,IT,New York,170600,9054.23,4.29,70,2021-12-14,True,Senior Systems Engineer,79,Full-time,Day,LOC003,,1,synthetic
+445,Daniel Lopez,Finance,Portland,56900,1198.07,3.01,27,2023-06-21,True,Financial Analyst,88,Part-time,Day,LOC010,,0.6,synthetic
+446,Omar Martin,Finance,Portland,82800,,3.36,37,2020-04-20,False,Financial Analyst,83,Full-time,Day,LOC020,2026-05-18,1,synthetic
+447,Priya Brooks,Marketing,Seattle,89200,2454.47,3.19,45,2022-12-11,True,Marketing Analyst,72,Full-time,Day,LOC006,,1,synthetic
+448,Isla Nguyen,HR,Dallas,81100,1127.18,2.51,38,2019-09-02,True,Senior HR Specialist,81,Full-time,Day,LOC019,,1,synthetic
+449,Omar Wilson,IT,Chicago,124700,2814.9,2.97,45,2018-03-14,True,Senior Systems Engineer,79,Full-time,Day,LOC011,,1,synthetic
+450,Diego Brown,Sales,Chicago,45800,3836.64,3.72,13,2019-12-30,True,Account Executive,85,Part-time,Day,LOC001,,0.6,synthetic
+451,Isla Kim,HR,Boston,64100,2192.86,3.57,58,2025-05-23,True,HR Specialist,71,Full-time,Day,LOC014,,1,synthetic
+452,Luis Singh,HR,Seattle,105700,4926.88,4.12,59,2021-11-08,True,Senior HR Specialist,86,Full-time,Day,LOC006,,1,synthetic
+453,Leo Reed,IT,Seattle,138300,3847.6,3.23,51,2022-12-12,True,Senior Systems Engineer,89,Full-time,Day,LOC016,,1,synthetic
+454,Nora Brown,Sales,Austin,64600,1595.25,2.41,17,2022-12-31,True,Account Executive,90,Full-time,Day,LOC012,,1,synthetic
+455,Arjun Davis,Sales,New York,112200,7149.41,3.36,25,2019-06-20,True,Senior Account Executive,80,Full-time,Day,LOC013,,1,synthetic
+456,Leo Evans, marketing ,Boston,120600,4809.91,3.72,56,2018-04-27,True,Senior Marketing Analyst,87,Full-time,Day,LOC014,,1,synthetic
+457,Lucy Taylor,Marketing,Austin,64400,1932.25,3.35,49,2025-02-22,True,Marketing Analyst,72,Full-time,Day,LOC002,,1,synthetic
+458,Omar Reed,IT,Chicago,94500,0,4.07,54,2022-01-12,True,Systems Engineer,74,contract,Day,LOC001,,1,synthetic
+459,Isla Singh,IT,Portland,78500,,3.27,19,2018-08-25,False,Senior Systems Engineer,69,Part-time,Day,LOC010,2026-05-16,0.6,synthetic
+460,Isla Wright,Sales,Boston,109100,13147.86,4.32,20,2023-08-14,False,Senior Account Executive,85,Full-time,Day,LOC004,2026-04-04,1,synthetic
+461,Lily Diaz,Finance,New York,99900,3789.92,3.82,63,2020-06-13,True,Financial Analyst,88,Full-time,Day,LOC013,,1,synthetic
+462,Ella Martin,IT, BOSTON ,110400,4046.4,3.65,57,2020-06-08,True,Systems Engineer,84,Full-time,Evening,LOC014,,1,synthetic
+463,Emma Carter,IT,Seattle,130300,7262.15,4.46,76,2019-08-07,True,Systems Engineer,89,Full-time,Day,LOC006,,1,synthetic
+464,Ella Reed,Marketing,Denver,69900,0,3.56,54,2021-05-22,True,Marketing Analyst,87,Contract,Day,LOC005,,1,synthetic
+465,Arjun Green,Sales,Boston,51700,2937.41,3.11,12,2021-07-03,True,Account Executive,75,Part-time,Day,LOC004,,0.6,synthetic
+466,Diego Hall,Sales,Chicago,79300,8059.58,3.98,20,2021-03-21,False,Account Executive,75,Full-time,Day,LOC011,2026-04-28,1,synthetic
+467,Ava Brown,Finance,,67500,2124.97,3.44,50,2024-03-28,True,Financial Analyst,83,Full-time,Day,LOC002,,1,synthetic
+468,Mei Park,Finance,Denver,82600,2189.47,3.18,51,2018-08-23,True,Financial Analyst,83,Full-time,Day,LOC015,,1,synthetic
+469,Ryan Reed,Sales,Boston,94100,7032.94,3.53,28,2022-02-07,True,Senior Account Executive,75,Full-time,Day,LOC014,,1,synthetic
+470,Eric Lee,Marketing,Chicago,103300,5193.01,4.31,64,2021-03-03,True,Senior Marketing Analyst,82,Full-time,Day,LOC001,,1,synthetic
+471,Finn Rivera,Sales,Denver,91400,7612.6,3.72,16,2023-02-22,False,Senior Account Executive,90,Full-time,Day,LOC015,2026-02-23,1,synthetic
+472,Jade Wright,Sales,Chicago,78800,4445.26,3.23,25,2023-09-25,True,Account Executive,75,Full-time,Day,LOC001,,1,synthetic
+473,Leo Singh,Marketing,Chicago,89000,1033.14,2.51,36,2020-09-02,True,Senior Marketing Analyst,67,Full-time,Day,LOC011,,1,synthetic
+474,Theo Ali,IT,Boston,97600,3145.46,3.43,56,2025-05-18,True,Systems Engineer,79,Full-time,Day,LOC004,,1,synthetic
+475,Emma Carter,Marketing,Chicago,73100,3609.24,4.16,58,2022-02-23,True,Marketing Analyst,67,Full-time,Day,LOC011,,1,synthetic
+476,Chen Martin,HR,Seattle,72800,1584.39,3,48,2025-06-09,True,HR Specialist,71,Full-time,Day,LOC006,,1,synthetic
+477,Lucy Brooks,Sales,Phoenix,41200,1509.6,,12,2025-03-09,True,Account Executive,75,Part-time,Day,LOC018,,0.6,synthetic
+478,Liam Brooks,Sales,New York,77800,4447.72,3.12,25,2022-03-18,True,Account Executive,90,Full-time,Day,LOC013,,1,synthetic
+479,Fatima Garcia,Sales,Denver,67100,6046.5,3.84,30,2022-12-11,True,Account Executive,90,Full-time,Day,LOC005,,1,synthetic
+480,Liam Reed,Finance,Seattle,135100,3903.14,3.29,47,2020-10-10,True,Senior Financial Analyst,68,Full-time,Day,LOC006,,1,synthetic
+481,Luis Davis,Marketing,Boston,45200,1171.43,3.11,27,2024-07-05,True,Marketing Analyst,82,Part-time,Day,LOC014,,0.6,synthetic
+482,Grace Taylor,IT,Seattle,129800,3369.48,3.1,46,2018-01-16,True,Systems Engineer,84,Full-time,Evening,LOC006,,1,synthetic
+483,Chen Brooks,HR,Seattle,54900,1725.25,3.45,27,2025-02-13,True,Senior HR Specialist,86,Part-time,Day,LOC016,,0.6,synthetic
+484,Maya Singh,IT,Chicago,95500,5134.77,4.35,73,2024-12-17,True,Systems Engineer,69,Full-time,Evening,LOC011,,1,synthetic
+485,Grace Morgan,Marketing,New York,94800,0,3.24,52,2024-01-04,True,Marketing Analyst,77,Contract,Day,LOC013,,1,synthetic
+486,Isla Young,Finance,Boston,94300,3018.23,3.42,51,2018-11-23,True,Financial Analyst,78,Full-time,Day,LOC004,,1,synthetic
+487,Fatima Singh,Finance,Boston,100100,2917.77,3.25,55,2025-02-03,True,Financial Analyst,68,Full-time,Day,LOC004,,1,synthetic
+488,Diego Lopez,Finance,New York,117100,4893.22,3.88,62,2018-12-20,True,Financial Analyst,83,Full-time,Day,LOC013,,1,synthetic
+489,Isla Garcia,Sales,Atlanta,66900,6542.82,3.96,31,2022-12-02,True,Account Executive,90,Full-time,Day,LOC017,,1,synthetic
+490,Sofia Davis,Marketing,Seattle,89400,2989.03,3.51,48,2020-07-09,True,Marketing Analyst,72,Full-time,Day,LOC016,,1,synthetic
+491,Ruby Bennett,HR,Phoenix,85900,2107.42,3.11,51,2024-03-04,True,Senior HR Specialist,81,Full-time,Day,LOC008,,1,synthetic
+492,Nora Taylor,Sales,Boston,78600,1262.31,2.32,15,2022-11-29,True,Account Executive,90,Full-time,Day,LOC004,,1,synthetic
+493,Maya Ali,Sales,Chicago,66100,5660.7,3.69,29,2019-11-19,True,Account Executive,85,Full-time,Day,LOC001,,1,synthetic
+494,Noah Diaz,Sales,New York,85200,3792.44,2.92,22,2018-02-19,True,Account Executive,85,Full-time,Day,LOC003,,1,synthetic
+495,Nina Lopez,Finance,Austin,100500,2041.21,2.91,41,2018-12-09,True,Senior Financial Analyst,83,Full-time,Day,LOC012,,1,synthetic
+496,Adam Brooks,IT,New York,74800,2928.26,3.74,31,2023-01-11,True,Systems Engineer,79,Part-time,Evening,LOC003,,0.6,synthetic
+497,Fatima Wright,Finance,Denver,51900,1426.65,3.13,17,2022-11-08,False,Financial Analyst,88,Part-time,Day,LOC015,2026-04-18,0.6,synthetic
+498,Emma Reed,IT,Austin,53300,1726.54,3.47,29,2023-08-16,True,Systems Engineer,69,Part-time,Day,LOC002,,0.6,synthetic
+499,Chen Hall,Sales,Chicago,47800,2240.95,2.98,12,2020-03-09,True,Account Executive,85,Part-time,Day,LOC001,,0.6,synthetic
+500,Arjun Taylor,Finance,Phoenix,96500,466.42,2.3,37,2020-07-17,True,Senior Financial Analyst,68,Full-time,Day,LOC008,,1,synthetic
+501,Priya Young,HR,Portland,68300,,4.54,68,2019-12-24,True,HR Specialist,71,Full-time,Day,LOC020,,1,synthetic
+502,Ruby Wright,Finance,Austin,102500,4515.71,4,60,2022-12-27,True,Senior Financial Analyst,68,Full-time,Day,LOC002,,1,synthetic
+503,Arjun Nguyen,Sales,New York,103200,9755.25,3.94,28,2019-07-14,True,Account Executive,70,Full-time,Day,LOC003,,1,synthetic
+504,Zoe Park,Marketing,Boston,88600,0,2.96,46,2024-07-07,True,Marketing Analyst,87,Contract,Day,LOC004,,1,synthetic
+505,Fatima Wilson,Marketing,Atlanta,79000,2821.18,3.6,51,2023-02-03,True,Senior Marketing Analyst,82,Full-time,Day,LOC007,,1,synthetic
+506,Sofia Davis,Marketing,New York,81400,2747.13,3.56,53,2021-10-21,True,Marketing Analyst,72,Full-time,Day,LOC013,,1,synthetic
+507,Noah Morgan,Sales,Denver,710000,5147.59,3.39,22,2018-10-28,True,Account Executive,75,Full-time,Day,LOC015,,1,synthetic
+508,Alex Reed,Sales,Boston,101200,4008.41,2.75,20,2019-08-23,False,Senior Account Executive,90,Full-time,Day,LOC004,2026-08-14,1,synthetic
+509,Mike Wright,Marketing,Phoenix,38500,977.51,3.13,19,2018-12-01,False,Marketing Analyst,87,Part-time,Day,LOC008,2026-06-07,0.6,synthetic
+510,Grace Wright,Sales,Austin,63700,5724.65,3.8,30,2022-03-25,True,Account Executive,90,Full-time,Day,LOC002,,1,synthetic
+511,Finn Bennett,IT,Portland,110100,5124.94,4.05,64,2024-12-12,True,Systems Engineer,74,Full-time,Day,LOC020,,1,synthetic
+512,Maya Hall,Finance,Dallas,49800,2479.37,4.17,36,2019-08-31,True,Financial Analyst,83,Part-time,Day,LOC019,,0.6,synthetic
+513,Sofia Kim, it ,Boston,105600,,3.58,23,2026-03-01,True,Systems Engineer,89,Full-time,Day,LOC014,,1,synthetic
+514,Diego Rivera,IT,Denver,131600,4806.51,3.68,48,2025-09-27,True,Senior Systems Engineer,69,Full-time,Day,LOC015,,1,synthetic
+515,Ava Evans, sales ,New York,52800,4482.41,3.73,16,2019-05-14,True,Account Executive,70,Part-time,Day,LOC013,,0.6,synthetic
+516,Mei Garcia,HR,Atlanta,54600,463.97,2.37,36,2023-08-15,True,HR Specialist,76,Full-time,Day,LOC007,,1,synthetic
+517,Isla Brooks,Marketing,New York,130300,930.1,2.31,32,2024-05-13,True,Senior Marketing Analyst,82,Full-time,Day,LOC013,,1,synthetic
+518,Mei Davis, sales ,Austin,67000,0,3.75,31,2018-11-16,True,Account Executive,90,Contract,Day,LOC012,,1,synthetic
+519,Fatima Wright,IT,Dallas,109900,3257.62,3.39,49,2020-07-03,True,Systems Engineer,69,Full-time,Evening,LOC009,,1,synthetic
+520,Emma Bennett,Marketing,Boston,99500,4396.4,3.94,53,2025-07-29,True,Senior Marketing Analyst,87,Full-time,Day,LOC014,,1,synthetic
+521,Noah Nguyen,Finance,Dallas,98300,3506.62,3.59,52,2021-03-12,True,Senior Financial Analyst,68,Full-time,Day,LOC009,,1,synthetic
+522,Mike Brown,Sales,Austin,96700,0,3.57,16,2020-01-20,False,Senior Account Executive,70,Contract,Day,LOC002,2026-04-08,1,synthetic
+523,Iris Ali,IT,Boston,165200,2260.92,2.63,34,2021-06-25,True,Senior Systems Engineer,84,Full-time,Day,LOC014,,1,synthetic
+524,Ryan Nguyen,IT,Chicago,107200,2457.72,3.06,46,2025-03-10,True,Systems Engineer,74,Full-time,Day,LOC011,,1,synthetic
+525,Maya Carter,IT,Chicago,96800,2636.89,,52,2018-06-18,True,Systems Engineer,74,Full-time,Evening,LOC001,,1,synthetic
+526,Alex Rivera,HR,Austin,67400,3705.11,4.41,66,2020-01-31,True,HR Specialist,66,Full-time,Day,LOC012,,1,synthetic
+527,Aisha Davis,IT,Portland,102300,3842.18,3.67,51,2024-03-15,True,Systems Engineer,84,Full-time,Night,LOC010,,1,synthetic
+528,Priya Green,HR,Denver,48300,2497.34,4.25,21,2025-11-13,True,Senior HR Specialist,71,Part-time,Day,LOC015,,0.6,synthetic
+529,Chen Evans,Marketing,Atlanta,59900,2851.78,,60,2023-03-25,True,Marketing Analyst,82,Full-time,Day,LOC007,,1,synthetic
+530,Emma Chen,Sales,Denver,102600,7763.15,3.57,26,2019-10-05,True,Senior Account Executive,90,Full-time,Day,LOC005,,1,synthetic
+531,Sara Brown,IT,Seattle,114200,4610.38,,58,2020-11-18,True,Systems Engineer,89,Full-time,Evening,LOC006,,1,synthetic
+532,Hugo Davis,Finance,Atlanta,105000,3112.67,3.41,50,2025-05-23,True,Senior Financial Analyst,83,Full-time,Day,LOC017,,1,synthetic
+533,Alex Green,Marketing,Dallas,47700,1646.93,3.52,16,2024-04-10,False,Senior Marketing Analyst,77,Part-time,Day,LOC019,2026-04-13,0.6,synthetic
+534,Nora Young,Sales,Boston,108200,0,3.27,27,2019-03-18,True,Senior Account Executive,85,Contract,Day,LOC014,,1,synthetic
+535,Grace Ali,Finance,Portland,114200,5980.93,4.31,62,2018-08-03,True,Senior Financial Analyst,88,Full-time,Day,LOC010,,1,synthetic
+536,Mei Young,IT,Phoenix,74100,2909.94,3.79,35,2020-11-08,True,Senior Systems Engineer,69,Part-time,Day,LOC018,,0.6,synthetic
+537,Ryan Morgan,IT,Atlanta,81400,1268.16,2.65,23,2020-12-21,True,Senior Systems Engineer,74,Part-time,Night,LOC017,,0.6,synthetic
+538,Lucy Carter,Marketing,Seattle,88800,2156.35,3.1,49,2018-07-13,True,Marketing Analyst,72,Full-time,Day,LOC016,,1,synthetic
+539,Ruby Bennett,Sales,Boston,108200,9647.18,3.76,25,2021-03-28,True,Senior Account Executive,80,Full-time,Day,LOC004,,1,synthetic
+540,Zoe Kim,IT,Denver,52100,1904.83,3.58,25,2025-06-17,False,Systems Engineer,84,Part-time,Day,LOC005,2026-07-01,0.6,synthetic
+541,Nina Lee,Finance,Denver,76100,1674.11,3.06,47,2022-05-16,True,Financial Analyst,68,Full-time,Day,LOC015,,1,synthetic
+542,Fatima Bennett,Marketing,New York,98100,2467.76,3.14,49,2024-05-09,True,Marketing Analyst,72,Full-time,Day,LOC003,,1,synthetic
+543,Jade Chen,Marketing,Dallas,62300,2561.91,3.87,57,2023-04-14,True,Marketing Analyst,87,Full-time,Day,LOC019,,1,synthetic
+544,Fatima Brooks,Marketing,Denver,88500,2729.21,3.46,54,2019-04-24,True,Marketing Analyst,82,Full-time,Day,LOC015,,1,synthetic
+545,Lucy Chen,Finance,Boston,115700,5002.82,3.99,54,2020-01-11,True,Senior Financial Analyst,68,Full-time,Day,LOC004,,1,synthetic
+546,Fatima Diaz,Sales,Chicago,77600,7690.19,4.03,31,2018-09-25,True,Account Executive,90,Full-time,Day,LOC011,,1,synthetic
+547,Maya Patel,IT,Phoenix,96800,1618.1,2.74,45,2021-10-31,True,Systems Engineer,79,Full-time,Day,LOC008,,1,synthetic
+548,Sofia Bennett,IT,New York,184000,2756.3,2.7,42,2021-11-18,True,Senior Systems Engineer,69,Full-time,Day,LOC013,,1,synthetic
+549,Fatima Patel,IT,Dallas,92500,,2.5,36,2025-03-01,True,Systems Engineer,74,Contract,Day,LOC019,,1,synthetic
+550,Ivan Wilson,IT,New York,83300,2312.94,3.3,26,2020-04-16,True,Systems Engineer,69,Part-time,Evening,LOC003,,0.6,synthetic
+551,Ana Nguyen,IT,Chicago,130200,0,2.38,37,2022-07-31,True,Senior Systems Engineer,84,Contract,Day,LOC011,,1,synthetic
+552,Daniel Adams,Finance,Seattle,87100,3619.55,3.85,29,2025-03-20,False,Financial Analyst,78,Full-time,Day,LOC016,2026-04-18,1,synthetic
+553,Nora Ali,HR,Atlanta,72600,2648.57,3.63,54,2024-04-29,True,Senior HR Specialist,71,Full-time,Day,LOC017,,1,synthetic
+554,Luis Hall,Sales,Boston,94900,7939.03,3.67,27,2018-09-06,True,Account Executive,70,Full-time,Day,LOC014,,1,synthetic
+555,Alex Shah,Sales,Denver,38000,,3.7,15,2024-09-02,True,Account Executive,90,Part-time,Day,LOC005,,0.6,synthetic
+556,Emma Bennett, it ,Boston,71200,1626.23,3.03,24,2019-06-13,True,Systems Engineer,69,Part-time,Evening,LOC004,,0.6,synthetic
+557,Liam Lee,Sales,New York,102600,8365.6,3.71,27,2018-06-24,True,Account Executive,85,Full-time,Day,LOC013,,1,synthetic
+558,Ryan Davis,HR,Denver,92700,1909.84,2.96,40,2021-01-23,True,Senior HR Specialist,81,Full-time,Day,LOC005,,1,synthetic
+559,Zoe Green,IT,Portland,113600,3678.23,3.43,50,2018-03-25,True,Systems Engineer,69,Full-time,Day,LOC010,,1,synthetic
+560,Grace Singh,HR,Chicago,89200,1935.29,3.02,50,2025-03-04,True,Senior HR Specialist,76,Full-time,Day,LOC011,,1,synthetic
+561,Adam Ali,Marketing,Austin,79500,3347.39,3.9,65,2024-06-21,True,Senior Marketing Analyst,72,Full-time,Day,LOC002,,1,synthetic
+562,Ella Lee,HR,Seattle,53200,1913.79,3.6,23,2018-03-28,False,HR Specialist,71,Part-time,Day,LOC006,2026-08-08,0.6,synthetic
+563,Nora Park,IT,Austin,107100,4678.53,3.97,62,2019-05-14,True,Systems Engineer,79,Full-time,Evening,LOC012,,1,synthetic
+564,Ella Chen,Sales,Denver,88000,0,3.33,23,2023-10-02,True,Senior Account Executive,80,Contract,Day,LOC005,,1,synthetic
+565,Hugo Adams,HR,Atlanta,81900,2088.43,3.07,42,2023-08-20,True,Senior HR Specialist,71,Full-time,Day,LOC007,,1,synthetic
+566,Alex Kim,IT,Boston,154000,7778.33,4.32,67,2023-06-21,True,Senior Systems Engineer,69,Full-time,Day,LOC004,,1,synthetic
+567,Alex Brooks,Marketing,Chicago,71900,2311.63,3.51,52,2020-01-08,True,Marketing Analyst,87,full time,Day,LOC001,,1,synthetic
+568,Maya Clark,Sales,Austin,72500,3910.88,3.13,24,2024-12-04,True,Account Executive,75,Full-time,Day,LOC012,,1,synthetic
+569,Finn Wilson,IT,Austin,82200,2240.7,3.27,52,2024-01-17,True,Systems Engineer,74,Full-time,Night,LOC002,,1,synthetic
+570,Diego Lopez,Sales,Seattle,87500,9533.66,4.22,31,2023-08-13,True,Account Executive,90,Full-time,Day,LOC006,,1,synthetic
+571,Ruby Brown,IT,Phoenix,94600,2359.2,3.17,43,2025-05-07,True,Systems Engineer,74,Full-time,Day,LOC018,,1,synthetic
+572,Ivan Morgan,Finance,Austin,86300,2795.75,3.45,48,2022-01-19,True,Financial Analyst,83,Full-time,Day,LOC012,,1,synthetic
+573,Isla Young,IT,New York,118400,4601.52,3.83,48,2025-08-15,True,Systems Engineer,74,Full-time,Day,LOC003,,1,synthetic
+574,Ella Green,Finance,Boston,96300,0,3.61,54,2020-05-05,True,Financial Analyst,73,Contract,Day,LOC004,,1,synthetic
+575,Nina Reed,Finance, DENVER ,98400,3984.02,3.78,55,2021-09-18,True,Senior Financial Analyst,78,Full-time,Day,LOC015,,1,synthetic
+576,Ava Martin,Finance,Seattle,89700,4616.22,4.31,59,2020-08-31,True,Financial Analyst,68,Full-time,Day,LOC006,,1,synthetic
+577,Hugo Martin,Finance,Denver,81800,1261.83,2.63,41,2024-03-30,True,Financial Analyst,73,Full-time,Day,LOC005,,1,synthetic
+578,Hugo Taylor,IT,New York,112700,4889.33,4,59,2022-05-10,True,Systems Engineer,69,Full-time,Night,LOC013,,1,synthetic
+579,Priya Martin,Finance,New York,101100,2572.41,3.13,53,2022-07-23,True,Financial Analyst,68,Full-time,Day,LOC003,,1,synthetic
+580,Theo Wilson,HR,Seattle,41400,,4.58,47,2021-06-06,True,HR Specialist,86,Part-time,Day,LOC006,,0.6,synthetic
+581,Fatima Reed,Finance,Chicago,117400,3542.2,3.25,48,2024-04-12,True,Senior Financial Analyst,83,Full-time,Day,LOC001,,1,synthetic
+582,Sofia Shah, sales ,New York,88900,8701.18,3.97,29,2024-01-24,False,Account Executive,80,Full-time,Day,LOC003,2026-08-14,1,synthetic
+583,Lily Hall,Sales,Boston,74300,8627.41,4.44,31,2024-01-20,True,Account Executive,70,Full-time,Day,LOC014,,1,synthetic
+584,Jade Morgan,Finance,New York,109700,4242.51,3.73,57,2024-06-17,True,Financial Analyst,68,Full-time,Day,LOC003,,1,synthetic
+585,Isla Evans,HR,New York,110100,4034.23,3.74,54,2023-02-11,True,Senior HR Specialist,86,Full-time,Day,LOC003,,1,synthetic
+586,Lucy Morgan,Sales,Atlanta,64800,1396.21,2.44,19,2018-08-14,True,Account Executive,75,Full-time,Day,LOC007,,1,synthetic
+587,Nina Kim,Sales,New York,121600,8850.63,3.5,28,2019-01-27,True,Senior Account Executive,80,Full-time,Day,LOC013,,1,synthetic
+588,Aisha Brown,Marketing,Austin,103600,2808.67,3.24,51,2021-10-17,True,Senior Marketing Analyst,77,Full-time,Day,LOC012,,1,synthetic
+589,Jade Hall,Marketing,Chicago,80400,2368.54,3.42,49,2023-12-10,True,Marketing Analyst,87,Full-time,Day,LOC001,,1,synthetic
+590,Priya Reed,HR,Chicago,56500,2123.12,3.68,55,2025-03-24,True,HR Specialist,66,Full-time,Day,LOC001,,1,synthetic
+591,Daniel Morgan,Finance,Phoenix,76300,2538.99,3.56,51,2021-08-19,True,Financial Analyst,83,Full-time,Day,LOC008,,1,synthetic
+592,Iris Ali,IT,New York,110300,0,4.07,64,2025-01-13,True,Systems Engineer,69,Contract,Night,LOC003,,1,synthetic
+593,Chen Brown,Sales,Portland,77200,4975.51,3.3,24,2023-03-21,True,Account Executive,90,Full-time,Day,LOC010,,1,synthetic
+594,Priya Garcia,Marketing,Boston,94600,,2.75,44,2018-10-07,True,Marketing Analyst,67,Full-time,Day,LOC004,,1,synthetic
+595,Noah Morgan,IT,Denver,102300,3547.99,3.52,58,2018-05-19,True,Systems Engineer,84,Full-time,Day,LOC005,,1,synthetic
+596,Lily Taylor,IT,Seattle,121700,3841.32,3.38,25,2018-02-24,False,Systems Engineer,79,Full-time,Day,LOC016,2026-02-20,1,synthetic
+597,Alex Singh,Sales,Phoenix,58000,7375.3,4.57,32,2022-06-13,True,Account Executive,75,Full-time,Day,LOC018,,1,synthetic
+598,Emma Reed,Sales,New York,109900,6583,3.19,24,2020-05-12,True,Senior Account Executive,70,Full-time,Day,LOC013,,1,synthetic
+599,Nina Chen,IT,Austin,94400,5022.39,4.42,73,2019-01-03,True,Systems Engineer,89,Full-time,Day,LOC012,,1,synthetic
+600,Arjun Green,Finance,Chicago,77100,1855.06,3.13,45,2022-07-12,True,Financial Analyst,78,Full-time,Day,LOC011,,1,synthetic
+601,Ava Chen,Finance,Chicago,74400,2128.55,3.25,45,2020-06-11,True,Financial Analyst,83,Full-time,Day,LOC001,,1,synthetic
+602,Luis Green,HR,Dallas,62900,3437.28,4.5,66,2021-11-17,True,HR Specialist,86,Full-time,Day,LOC009,,1,synthetic
+603,Maya Young,Sales,Austin,47300,4576.96,3.93,14,2018-07-01,True,Account Executive,85,Part-time,Day,LOC002,,0.6,synthetic
+604,Arjun Brown,IT,Austin,121600,4802.4,3.7,67,2018-02-20,True,Senior Systems Engineer,74,Full-time,Day,LOC012,,1,synthetic
+605,Liam Young,Sales,Denver,79800,9116.02,4.28,31,2021-04-20,True,Account Executive,70,Full-time,Day,LOC015,,1,synthetic
+606,Lucy Hall,Marketing,Boston,59300,3602.48,4.77,42,2024-03-12,True,Senior Marketing Analyst,77,Part-time,Day,LOC004,,0.6,synthetic
+607,Finn Chen,Finance,Dallas,81600,3617.5,4,55,2023-09-29,True,Financial Analyst,78,Full-time,Day,LOC009,,1,synthetic
+608,Diego Singh,Sales,Boston,118300,12712.36,4.23,33,2020-01-22,True,Senior Account Executive,90,Full-time,Day,LOC014,,1,synthetic
+609,Theo Bennett,Sales,Austin,67700,6241.11,3.87,29,2023-12-17,True,Account Executive,85,Full-time,Day,LOC002,,1,synthetic
+610,Noah Young,HR,New York,77900,1836.89,3.05,47,2020-12-25,False,HR Specialist,76,Full-time,Day,LOC013,2026-08-10,1,synthetic
+611,Aisha Martin,Finance,Denver,87300,3730.21,3.92,63,2019-06-04,True,Financial Analyst,68,Full-time,Day,LOC005,,1,synthetic
+612,Aisha Nguyen,Sales,Dallas,52900,5053.51,3.98,18,2020-07-05,True,Senior Account Executive,75,Part-time,Day,LOC019,,0.6,synthetic
+613,Diego Young,Marketing,Portland,73600,2441.03,3.47,47,2020-05-29,True,Marketing Analyst,87,Full-time,Day,LOC010,,1,synthetic
+614,Luis Morgan,Finance,Dallas,81300,2386.57,3.35,20,2024-07-13,False,Financial Analyst,83,Full-time,Day,LOC019,2026-02-05,1,synthetic
+615,Lily Brown,Finance,New York,95400,3511.82,3.64,52,2023-09-15,True,Financial Analyst,68,Full-time,Day,LOC013,,1,synthetic
+616,Jade Carter,IT,Phoenix,96800,1984.8,2.96,39,2022-02-22,True,Systems Engineer,79,Full-time,Evening,LOC018,,1,synthetic
+617,Emma Singh,Finance,Atlanta,92700,3578.54,3.67,55,2020-08-05,True,Senior Financial Analyst,73,Full-time,Day,LOC017,,1,synthetic
+618,Omar Brown,Finance,Portland,133200,2984.73,3.04,43,2018-01-31,True,Senior Financial Analyst,78,Full-time,Day,LOC020,,1,synthetic
+619,Nora Brooks,IT,Portland,102600,,3.75,60,2021-09-14,True,Systems Engineer,79,Full-time,Evening,LOC010,,1,synthetic
+620,Sara Rivera,Finance,Portland,88600,3239.63,3.6,53,2020-04-15,True,Financial Analyst,68,Full-time,Day,LOC010,,1,synthetic
+621,Bob Garcia,IT,Dallas,109900,2312.82,2.98,39,2020-07-06,False,Systems Engineer,84,Full-time,Day,LOC009,2026-07-21,1,synthetic
+622,Hugo Kim,Sales,Austin,81500,8888.74,4.25,32,2021-06-16,True,Senior Account Executive,75,Full-time,Day,LOC002,,1,synthetic
+623,Priya Singh,IT,Phoenix,101100,3212.06,3.39,51,2021-02-10,True,Systems Engineer,84,Full-time,Day,LOC008,,1,synthetic
+624,Mei Brooks,HR,Dallas,66100,786.94,2.6,31,2022-08-20,False,HR Specialist,81,Full-time,Day,LOC019,2026-05-31,1,synthetic
+625,Noah Morgan,Finance,Austin,86300,3597.03,3.91,59,2020-07-16,True,Financial Analyst,68,Full-time,Day,LOC002,,1,synthetic
+626,Zoe Clark,Sales,Phoenix,83400,8788.94,4.19,33,2018-11-11,True,Senior Account Executive,90,Full-time,Day,LOC018,,1,synthetic
+627,Jade Bennett,IT,Seattle,144900,7031.25,4.09,59,2019-10-22,True,Senior Systems Engineer,84,Full-time,Night,LOC006,,1,synthetic
+628,Finn Shah,IT,Seattle,172300,3531.6,2.92,51,2018-10-26,True,Senior Systems Engineer,74,Full-time,Day,LOC016,,1,synthetic
+629,Omar Carter,IT,Denver,93700,522.56,2.16,28,2020-06-15,True,Systems Engineer,69,Full-time,Day,LOC005,,1,synthetic
+630,Nora Carter,Finance,Dallas,78600,2372.15,3.3,47,2021-03-11,True,Financial Analyst,78,Full-time,Day,LOC009,,1,synthetic
+631,Luis Hall,Sales,Atlanta,49600,3935.97,3.6,14,2019-07-21,True,Senior Account Executive,75,Part-time,Day,LOC017,,0.6,synthetic
+632,Theo Nguyen,Sales,Portland,80200,6074.93,3.52,24,2024-05-30,True,Account Executive,90,Full-time,Day,LOC020,,1,synthetic
+633,Adam Clark,Sales,Seattle,80300,6744.38,3.67,30,2022-08-30,True,Account Executive,70,Full-time,Day,LOC016,,1,synthetic
+634,Aisha Kim,IT,Chicago,91700,4137.71,4.09,66,2023-08-24,True,Systems Engineer,79,Full-time,Day,LOC011,,1,synthetic
+635,Jade Kim,Sales,Austin,95700,0,2.94,23,2019-04-22,True,Senior Account Executive,80,Contract,Day,LOC002,,1,synthetic
+636,Bob Garcia,Sales,Dallas,64600,3736.03,3.08,21,2018-07-12,True,Account Executive,90,Full-time,Day,LOC009,,1,synthetic
+637,Isla Davis,Marketing,Austin,81800,0,3.38,48,2024-04-19,True,Senior Marketing Analyst,82,Contract,Day,LOC002,,1,synthetic
+638,Finn Shah,IT,Austin,82900,0,3.91,60,2024-06-14,True,Systems Engineer,69,Contract,Day,LOC002,,1,synthetic
+639,Eric Brooks,Finance,Phoenix,87100,3529.85,3.87,52,2019-04-09,True,Financial Analyst,78,full time,Day,LOC008,,1,synthetic
+640,Mei Lopez,Marketing,Austin,97500,2650.7,3.24,46,2025-03-26,True,Senior Marketing Analyst,82,Full-time,Day,LOC012,,1,synthetic
+641,Nora Morgan,Sales,New York,79400,9611.09,4.35,32,2020-08-28,True,Account Executive,90,Full-time,Day,LOC013,,1,synthetic
+642,Nora Morgan,IT,Chicago,89600,1691.33,2.85,43,2021-05-04,True,Systems Engineer,84,Full-time,Day,LOC001,,1,synthetic
+643,Zoe Taylor,IT,Boston,112900,4507.86,3.9,59,2019-07-05,False,Systems Engineer,74,Full-time,Evening,LOC004,2026-07-21,1,synthetic
+644,Bob Evans,IT,Chicago,96000,0,2.89,45,2021-03-10,True,Systems Engineer,69,Contract,Evening,LOC011,,1,synthetic
+645,Chen Bennett,Sales,New York,97300,9438.37,3.98,33,2018-01-14,True,Account Executive,75,Full-time,Day,LOC013,,1,synthetic
+646,Ana Green,Marketing,Denver,41600,918.4,2.97,24,2024-01-09,True,Marketing Analyst,72,Part-time,Day,LOC015,,0.6,synthetic
+647,Emma Rivera,Finance,Atlanta,85000,2809.31,3.59,56,2021-02-10,True,Financial Analyst,83,Full-time,Day,LOC017,,1,synthetic
+648,Chen Martin,HR,New York,42900,1652.53,3.72,31,2025-01-21,True,HR Specialist,76,Part-time,Day,LOC003,,0.6,synthetic
+649,Ella Green,Finance,Portland,88900,3090.42,3.63,53,2025-03-08,True,Financial Analyst,73,Full-time,Day,LOC010,,1,synthetic
+650,Emma Young,Sales,Dallas,79100,5038.53,3.22,23,2020-11-15,True,Senior Account Executive,85,Full-time,Day,LOC019,,1,synthetic
+651,Mei Wilson,Sales,New York,109600,5021.5,2.91,23,2024-10-24,True,Senior Account Executive,70,Full-time,Day,LOC003,,1,synthetic
+652,Alex Garcia,Finance,Denver,100100,2568.85,3.15,51,2023-12-24,True,Senior Financial Analyst,73,Full-time,Day,LOC005,,1,synthetic
+653,Jade Wright,Sales,Boston,97100,5453.79,3.16,20,2025-10-12,True,Senior Account Executive,90,Full-time,Day,LOC014,,1,synthetic
+654,Eric Martin,IT,Dallas,91300,0,4.25,46,2025-04-17,False,Systems Engineer,79,Contract,Day,LOC009,2026-06-02,1,synthetic
+655,Lily Wright,Finance,Boston,123500,5910.4,4.16,67,2018-11-09,True,Senior Financial Analyst,68,Full-time,Day,LOC004,,1,synthetic
+656,Sofia Hall,IT,New York,106800,3338.34,3.29,50,2025-01-17,True,Systems Engineer,79,Full-time,Day,LOC013,,1,synthetic
+657,Sara Adams,HR,Austin,75400,2754.57,3.6,60,2022-03-13,True,Senior HR Specialist,86,Full-time,Day,LOC012,,1,synthetic
+658,Iris Wright,Sales,Seattle,108300,7517.4,3.5,26,2023-11-19,True,Senior Account Executive,75,Full-time,Day,LOC006,,1,synthetic
+659,Chen Davis,IT,,76400,1062.17,2.66,24,2024-11-13,True,Systems Engineer,69,Part-time,Day,LOC013,,0.6,synthetic
+660,Eric Adams,Marketing,Portland,82700,3726.64,4.05,55,2022-09-03,True,Marketing Analyst,82,Full-time,Day,LOC020,,1,synthetic
+661,Lily Wilson,Marketing,Boston,80300,2964.61,3.73,58,2022-09-19,True,Marketing Analyst,82,Full-time,Day,LOC004,,1,synthetic
+662,Priya Brooks,Finance,Austin,79400,2931.98,3.6,50,2022-08-29,True,Financial Analyst,78,full time,Day,LOC012,,1,synthetic
+663,Sara Park,Finance,Seattle,148600,5850.75,3.71,35,2018-11-27,False,Senior Financial Analyst,83,Full-time,Day,LOC006,2026-04-11,1,synthetic
+664,Chen Rivera,HR,Austin,77500,2975.7,3.71,57,2018-08-13,True,Senior HR Specialist,71,Full-time,Day,LOC012,,1,synthetic
+665,Luis Reed,Finance,Seattle,91800,4558.03,4.24,62,2024-08-08,True,Financial Analyst,73,Full-time,Day,LOC006,,1,synthetic
+666,Sofia Rivera,IT,Boston,103200,3724.67,3.64,53,2024-12-21,True,Systems Engineer,84,Full-time,Day,LOC004,,1,synthetic
+667,Diego Clark,Marketing,New York,84300,3086.5,3.69,56,2021-09-07,True,Marketing Analyst,72,Full-time,Day,LOC013,,1,synthetic
+668,Liam Chen,Sales,Atlanta,72600,6300.57,3.6,21,2021-10-28,True,Account Executive,75,Full-time,Day,LOC017,,1,synthetic
+669,Ava Brooks, sales ,Boston,97600,7344.14,3.59,24,2025-06-23,False,Senior Account Executive,80,Full-time,Day,LOC014,2026-07-24,1,synthetic
+670,Emma Wilson,Sales,Boston,105700,0,3.16,21,2019-05-15,True,Senior Account Executive,90,Contract,Day,LOC004,,1,synthetic
+671,Ivan Hall,IT,Austin,115300,4756.58,3.9,58,2022-08-13,True,Senior Systems Engineer,84,Full-time,Day,LOC002,,1,synthetic
+672,Fatima Lopez,Sales,New York,109500,0,3.38,21,2018-11-16,True,Senior Account Executive,75,Contract,Day,LOC003,,1,synthetic
+673,Nina Bennett,Sales,Chicago,51400,,3.95,15,2024-04-20,True,Senior Account Executive,85,Part-time,Day,LOC011,,0.6,synthetic
+674,Mike Kim,Marketing,New York,96600,5462.86,4.5,65,2023-06-29,True,Marketing Analyst,72,Full-time,Day,LOC013,,1,synthetic
+675,Ivan Clark,IT,New York,140200,7668.39,4.42,69,2025-04-12,True,Senior Systems Engineer,79,Full-time,Day,LOC013,,1,synthetic
+676,Arjun Lopez,Finance,Austin,77300,2675.12,3.53,49,2024-12-26,True,Financial Analyst,83,Full-time,Day,LOC002,,1,synthetic
+677,Ella Shah,Sales,New York,91400,7497.82,3.69,20,2024-02-14,False,Account Executive,70,Full-time,Day,LOC003,2026-06-24,1,synthetic
+678,Ruby Rivera,Sales,Seattle,66600,6309.92,3.94,15,2024-03-17,True,Senior Account Executive,90,Part-time,Day,LOC016,,0.6,synthetic
+679,Arjun Nguyen,IT,Portland,143000,4327.7,3.41,51,2019-05-01,True,Senior Systems Engineer,69,Full-time,Day,LOC010,,1,synthetic
+680,Finn Adams,Finance,Boston,90900,4376.02,4.11,59,2020-07-22,True,Financial Analyst,68,Full-time,Day,LOC004,,1,synthetic
+681,Noah Bennett,Finance,Chicago,91200,3039.43,3.45,52,2020-10-16,True,Financial Analyst,73,Full-time,Day,LOC001,,1,synthetic
+682,Leo Clark,Marketing,Atlanta,77800,4091.4,4.34,68,2018-08-26,True,Marketing Analyst,77,Full-time,Day,LOC007,,1,synthetic
+683,Liam Ali,HR,Boston,92700,3704.66,3.8,52,2019-05-12,True,Senior HR Specialist,71,Full-time,Day,LOC014,,1,synthetic
+684,Emma Rivera,Sales,Seattle,101900,9617.18,3.97,29,2019-05-02,True,Senior Account Executive,75,Full-time,Day,LOC006,,1,synthetic
+685,Emma Park,HR,Denver,75400,,2.31,36,2020-07-04,True,HR Specialist,86,Full-time,Day,LOC015,,1,synthetic
+686,Zoe Morgan, finance ,Chicago,72000,1988.41,3.28,46,2022-09-12,True,Financial Analyst,83,Full-time,Day,LOC001,,1,synthetic
+687,Fatima Reed,Sales,New York,103200,3786.79,2.69,18,2020-01-04,True,Account Executive,70,Full-time,Day,LOC013,,1,synthetic
+688,Luis Brooks,Sales,Atlanta,64200,3832.59,3.26,24,2020-12-17,True,Account Executive,80,Full-time,Day,LOC007,,1,synthetic
+689,Emma Hall,HR,Denver,69700,2796.99,3.8,54,2024-06-27,True,HR Specialist,86,Full-time,Day,LOC015,,1,synthetic
+690,Grace Evans,Marketing,Chicago,73600,3117.9,3.85,49,2019-02-10,False,Marketing Analyst,82,Full-time,Day,LOC011,2026-08-08,1,synthetic
+691,Noah Wright,Marketing, CHICAGO ,107200,4016.8,3.67,60,2018-07-21,True,Senior Marketing Analyst,72,Full-time,Day,LOC011,,1,synthetic
+692,Nina Davis,Finance,Portland,101600,,4.37,42,2022-10-03,False,Senior Financial Analyst,88,Full-time,Day,LOC010,2026-05-08,1,synthetic
+693,Fatima Park,Sales,Portland,70300,7528.35,4.24,31,2025-07-18,True,Account Executive,75,full time,Day,LOC010,,1,synthetic
+694,Lucy Lopez,IT,Austin,54900,,3.44,26,2021-04-01,True,Systems Engineer,74,Part-time,Evening,LOC002,,0.6,synthetic
+695,Ella Davis,Sales,Portland,63400,5292.91,3.59,25,2023-08-22,True,Account Executive,85,Full-time,Day,LOC020,,1,synthetic
+696,Ruby Reed,Marketing,Chicago,105900,6327.18,4.65,68,2022-04-19,True,Senior Marketing Analyst,72,Full-time,Day,LOC011,,1,synthetic
+697,Noah Bennett,Sales,Boston,75900,3176.52,2.9,20,2021-09-06,True,Account Executive,75,Full-time,Day,LOC014,,1,synthetic
+698,Ruby Singh,Finance,Austin,80200,3292.32,3.88,59,2019-04-24,True,Financial Analyst,68,Full-time,Day,LOC002,,1,synthetic
+699,Aisha Morgan,Sales,Denver,107400,13964.99,4.63,35,2021-03-26,True,Senior Account Executive,80,Full-time,Day,LOC005,,1,synthetic
+700,Sofia Park,Finance,Portland,96300,3753.26,3.71,58,2021-12-09,True,Financial Analyst,78,Full-time,Day,LOC020,,1,synthetic
+701,Leo Patel,IT,Austin,108800,4101.15,3.65,53,2019-10-10,True,Systems Engineer,69,Full-time,Day,LOC012,,1,synthetic
+702,Priya Green,IT,Portland,126800,3882,3.24,49,2020-07-20,True,Senior Systems Engineer,79,Full-time,Day,LOC020,,1,synthetic
+703,Diego Lee,Sales,Dallas,375000,1314.71,2.6,12,2022-11-18,True,Account Executive,85,Part-time,Day,LOC009,,0.6,synthetic
+704,Ryan Young,IT,Austin,53200,1197.88,3.01,23,2018-03-13,True,Systems Engineer,79,Part-time,Day,LOC012,,0.6,synthetic
+705,Arjun Lee,Sales,Phoenix,66700,6513.16,3.83,15,2021-06-27,False,Account Executive,90,Full-time,Day,LOC018,2026-03-25,1,synthetic
+706,Omar Patel,Marketing,Seattle,132600,4770.33,3.57,41,2020-02-16,False,Senior Marketing Analyst,72,Full-time,Day,LOC016,2026-06-25,1,synthetic
+707,Ryan Singh,Marketing,Seattle,89900,3943.87,3.89,55,2022-12-08,True,Marketing Analyst,67,Full-time,Day,LOC016,,1,synthetic
+708,Fatima Hall,HR,Chicago,60300,3420.26,4.42,61,2021-09-06,True,HR Specialist,66,Full-time,Day,LOC011,,1,synthetic
+709,Aisha Diaz,Sales,Chicago,91200,1934.15,2.41,19,2018-11-26,True,Senior Account Executive,75,Full-time,Day,LOC001,,1,synthetic
+710,Liam Shah,IT,New York,136400,,,50,2022-12-19,True,Systems Engineer,89,Full-time,Day,LOC013,,1,synthetic
+711,Ella Clark,IT, BOSTON ,119800,4138.83,3.57,40,2021-09-02,False,Systems Engineer,84,Full-time,Day,LOC004,2026-05-31,1,synthetic
+712,Luis Nguyen,Finance,New York,63500,2066.37,3.46,31,2018-05-22,True,Financial Analyst,73,Part-time,Day,LOC003,,0.6,synthetic
+713,Jade Nguyen,Sales,Austin,95700,7103.26,3.53,25,2018-09-16,True,Senior Account Executive,70,Full-time,Day,LOC002,,1,synthetic
+714,Chen Wilson,Sales,Boston,111600,15066,4.67,33,2019-04-20,True,Senior Account Executive,90,Full-time,Day,LOC014,,1,synthetic
+715,Chen Green,HR,New York,112300,6822.23,4.67,68,2019-11-18,True,Senior HR Specialist,66,Full-time,Day,LOC013,,1,synthetic
+716,Sara Clark,Finance,Chicago,79200,2329.86,3.38,48,2018-08-18,True,Financial Analyst,68,Full-time,Day,LOC011,,1,synthetic
+717,Ryan Green,Sales,Phoenix,83400,0,3.5,18,2019-10-16,False,Senior Account Executive,70,Contract,Day,LOC008,2026-05-18,1,synthetic
+718,Isla Hall,Sales,Seattle,60700,6115.6,3.89,16,2023-01-31,True,Senior Account Executive,90,Part-time,Day,LOC016,,0.6,synthetic
+719,Emma Green,Sales,Chicago,67900,5372.67,3.54,17,2019-04-17,False,Account Executive,70,Full-time,Day,LOC001,2026-04-21,1,synthetic
+720,Ryan Evans,IT,Dallas,125600,6860.98,4.54,60,2025-08-14,True,Senior Systems Engineer,89,Full-time,Day,LOC019,,1,synthetic
+721,Maya Nguyen,Finance,Boston,123400,1885.52,2.69,41,2018-10-25,True,Senior Financial Analyst,83,Full-time,Day,LOC004,,1,synthetic
+722,Mei Garcia, it ,Boston,171500,5237.43,3.4,55,2019-10-19,True,Senior Systems Engineer,69,Full-time,Day,LOC004,,1,synthetic
+723,Daniel Lopez,Finance,Dallas,79400,2362.34,3.28,48,2020-05-24,True,Financial Analyst,78,Full-time,Day,LOC019,,1,synthetic
+724,Fatima Chen,Sales,New York,82000,9751.07,4.36,31,2023-09-30,True,Account Executive,80,Full-time,Day,LOC003,,1,synthetic
+725,Zoe Singh,Finance,Seattle,94000,3026.77,3.35,49,2021-08-22,True,Financial Analyst,78,Full-time,Day,LOC006,,1,synthetic
+726,Isla Ali,HR,Austin,62800,1669.76,3.25,37,2018-07-06,False,HR Specialist,76,Full-time,Day,LOC002,2026-06-15,1,synthetic
+727,Bob Davis,IT,Austin,105100,5639.9,4.4,76,2021-03-15,True,Systems Engineer,79,Full-time,Day,LOC002,,1,synthetic
+728,Luis Park,Marketing,Boston,85700,2306.08,3.19,50,2021-02-15,True,Marketing Analyst,67,Full-time,Day,LOC004,,1,synthetic
+729,Theo Martin,Sales,New York,88900,6031.85,3.29,24,2019-03-22,True,Account Executive,75,Full-time,Day,LOC003,,1,synthetic
+730,Bob Reed,Marketing,Seattle,128600,5346.3,3.88,56,2020-05-03,True,Senior Marketing Analyst,87,Full-time,Day,LOC006,,1,synthetic
+731,Theo Carter,Sales,Boston,86100,6095.17,3.46,26,2023-12-17,True,Account Executive,70,Full-time,Day,LOC004,,1,synthetic
+732,Alex Patel,Finance,Denver,85100,0,3.46,48,2019-11-26,True,Financial Analyst,68,Contract,Day,LOC005,,1,synthetic
+733,Emma Lee,IT,Seattle,133500,2930,3.04,44,2020-06-15,True,Systems Engineer,74,Full-time,Evening,LOC006,,1,synthetic
+734,Alex Kim,HR,New York,73700,2530.13,3.55,58,2022-05-29,True,HR Specialist,86,Full-time,Day,LOC003,,1,synthetic
+735,Sara Morgan,Sales,Atlanta,63300,,4.33,35,2018-02-17,True,Account Executive,80,Full-time,Day,LOC017,,1,synthetic
+736,Priya Diaz,IT,Boston,112600,4673.51,3.85,57,2022-12-10,True,Systems Engineer,89,Full-time,Day,LOC004,,1,synthetic
+737,Bob Bennett,HR,New York,80600,4066.31,4.24,67,2018-07-11,True,HR Specialist,76,Full-time,Day,LOC013,,1,synthetic
+738,Jade Evans,Sales,Atlanta,58700,4518.66,3.55,25,2023-05-09,True,Account Executive,90,Full-time,Day,LOC017,,1,synthetic
+739,Priya Wilson,Marketing,Atlanta,78200,2053.93,3.23,48,2021-04-10,True,Marketing Analyst,67,Full-time,Day,LOC007,,1,synthetic
+740,Maya Garcia,IT,Austin,102900,3182.85,3.37,49,2021-12-23,True,Systems Engineer,89,Full-time,Day,LOC002,,1,synthetic
+741,Arjun Rivera, sales ,Phoenix,57400,7067.63,4.49,32,2023-08-15,True,Account Executive,80,Full-time,Day,LOC008,,1,synthetic
+742,Diego Park,HR,Atlanta,53200,2061.58,3.78,52,2025-06-08,True,HR Specialist,81,Full-time,Day,LOC017,,1,synthetic
+743,Ryan Diaz,IT,Chicago,96900,5124.54,4.37,60,2025-06-20,True,Systems Engineer,89,Full-time,Day,LOC011,,1,synthetic
+744,Ivan Wilson,HR,Dallas,53700,2012.75,3.79,52,2025-01-30,True,HR Specialist,76,Full-time,Day,LOC019,,1,synthetic
+745,Lily Lee,HR,Boston,104500,3883.03,3.6,57,2019-06-03,True,Senior HR Specialist,66,Full-time,Day,LOC014,,1,synthetic
+746,Daniel Park,IT,New York,114900,0,4.44,61,2019-11-06,True,Systems Engineer,74,Contract,Evening,LOC013,,1,synthetic
+747,Ana Reed, marketing ,Boston,78100,2427.65,3.5,53,2020-02-18,True,Marketing Analyst,82,Full-time,Day,LOC014,,1,synthetic
+748,Diego Garcia,IT,Atlanta,55900,1762.4,,25,2020-08-13,True,Systems Engineer,74,Part-time,Evening,LOC017,,0.6,synthetic
+749,Liam Singh,Sales,Chicago,76500,7900.4,4.15,32,2020-02-05,True,Account Executive,80,Full-time,Day,LOC001,,1,synthetic
+750,Lucy Ali,Sales,Denver,73800,4354.31,3.23,9,2026-03-07,True,Account Executive,85,Full-time,Day,LOC005,,1,synthetic
+751,Omar Adams,IT,Portland,112500,2646.8,3.09,45,2020-07-27,False,Systems Engineer,79,Full-time,Day,LOC010,2026-07-21,1,synthetic
+752,Fatima Lee,Marketing,Denver,66600,1730.26,3.2,51,2024-05-14,True,Marketing Analyst,67,Full-time,Day,LOC015,,1,synthetic
+753,Ava Taylor,Sales,New York,81700,,3.35,19,2025-08-20,True,Account Executive,80,Full-time,Day,LOC003,,1,synthetic
+754,Ava Rivera,Finance,Atlanta,83000,2805.92,3.46,48,2020-07-28,True,Financial Analyst,78,Full-time,Day,LOC007,,1,synthetic
+755,Ivan Morgan,Sales,Boston,94800,7797.85,3.49,27,2019-06-14,True,Account Executive,70,Full-time,Day,LOC014,,1,synthetic
+756,Ella Reed,Finance,Dallas,85000,2430.75,3.34,48,2020-02-07,True,Financial Analyst,88,Full-time,Day,LOC009,,1,synthetic
+757,Grace Shah,Marketing,Chicago,94100,1907.44,2.94,43,2018-10-16,True,Senior Marketing Analyst,77,Full-time,Day,LOC011,,1,synthetic
+758,Ruby Singh,Sales,Chicago,80600,0,3.62,31,2021-08-10,True,Account Executive,80,Contract,Day,LOC001,,1,synthetic
+759,Mike Singh,HR,Austin,53200,1203.72,,42,2024-12-30,True,HR Specialist,66,Full-time,Day,LOC012,,1,synthetic
+760,Arjun Martin,HR,New York,51600,900.32,2.75,20,2020-08-11,False,HR Specialist,76,Part-time,Day,LOC003,2026-08-11,0.6,synthetic
+761,Liam Carter,HR,Austin,57800,2544.75,3.95,57,2022-07-05,True,HR Specialist,71,Full-time,Day,LOC002,,1,synthetic
+762,Ana Adams,Finance,Chicago,93700,821.12,2.42,39,2021-12-05,True,Financial Analyst,78,Full-time,Day,LOC011,,1,synthetic
+763,Emma Lee,IT,Boston,122000,4063.26,3.52,52,2023-05-10,True,Systems Engineer,79,Full-time,Day,LOC004,,1,synthetic
+764,Finn Ali,IT,New York,122300,3739.02,3.44,52,2022-08-10,True,Systems Engineer,69,Full-time,Evening,LOC013,,1,synthetic
+765,Omar Brooks,Sales,Phoenix,78300,6954.53,3.76,28,2019-10-28,True,Senior Account Executive,70,Full-time,Day,LOC018,,1,synthetic
+766,Aisha Morgan,Sales,Seattle,94800,12798,4.69,35,2021-03-06,True,Account Executive,80,Full-time,Day,LOC016,,1,synthetic
+767,Sara Adams, hr ,Chicago,62300,1599.89,3.15,44,2024-09-01,True,HR Specialist,71,Full-time,Day,LOC011,,1,synthetic
+768,Iris Garcia,HR,New York,80900,2253.83,3.25,51,2018-03-13,True,HR Specialist,71,Full-time,Day,LOC013,,1,synthetic
+769,Liam Taylor,Sales,Austin,81500,7260.46,3.76,25,2022-12-09,True,Senior Account Executive,90,Full-time,Day,LOC012,,1,synthetic
+770,Iris Lopez, sales ,Denver,78000,6906.18,3.88,28,2025-01-08,True,Account Executive,75,Full-time,Day,LOC015,,1,synthetic
+771,Lucy Diaz,Finance,Boston,77500,1534.89,2.98,25,2023-08-18,True,Senior Financial Analyst,68,part time,Day,LOC004,,0.6,synthetic
+772,Emma Brooks,IT,Seattle,144000,3191.38,2.95,44,2023-05-20,True,Senior Systems Engineer,79,Full-time,Day,LOC016,,1,synthetic
+773,Sofia Nguyen,Finance,Chicago,108000,4535.34,3.93,61,2021-03-07,True,Senior Financial Analyst,88,Full-time,Day,LOC001,,1,synthetic
+774,Ava Wilson,Sales,Chicago,68400,8314.83,4.32,29,2019-12-18,True,Account Executive,80,Full-time,Day,LOC001,,1,synthetic
+775,Ivan Rivera,Finance,Denver,101000,,3.54,53,2022-06-30,True,Senior Financial Analyst,88,Full-time,Day,LOC015,,1,synthetic
+776,Liam Adams,Marketing,Seattle,74200,2236.46,3.48,18,2022-12-14,False,Senior Marketing Analyst,82,Part-time,Day,LOC016,2026-04-28,0.6,synthetic
+777,Isla Young,Marketing,Boston,87500,3578.46,3.94,58,2022-06-15,True,Marketing Analyst,82,Full-time,Day,LOC004,,1,synthetic
+778,Alex Wright,Sales,Chicago,49100,3347.09,3.44,13,2019-05-24,True,Account Executive,90,Part-time,Day,LOC001,,0.6,synthetic
+779,Eric Shah,IT,Atlanta,108000,3386.37,3.46,57,2020-01-03,True,Systems Engineer,74,Full-time,Evening,LOC017,,1,synthetic
+780,Fatima Bennett,Finance,Chicago,107400,5033.03,4.2,58,2020-01-28,True,Senior Financial Analyst,68,Full-time,Day,LOC011,,1,synthetic
+781,Diego Wilson,Finance,Boston,123100,2716.8,2.92,41,2020-09-24,False,Senior Financial Analyst,68,Full-time,Day,LOC004,2026-07-17,1,synthetic
+782,Ivan Rivera,Sales,Phoenix,64600,5862.12,3.79,28,2025-01-16,True,Account Executive,75,Full-time,Day,LOC018,,1,synthetic
+783,Hugo Wilson,Finance,Boston,115200,4198.86,3.61,55,2018-02-01,True,Senior Financial Analyst,68,Full-time,Day,LOC004,,1,synthetic
+784,Ryan Nguyen,Sales,New York,109100,0,3.82,30,2023-04-12,True,Senior Account Executive,70,Contract,Day,LOC003,,1,synthetic
+785,Ryan Brooks, sales ,New York,131700,17779.5,,31,2021-03-06,True,Senior Account Executive,85,Full-time,Day,LOC003,,1,synthetic
+786,Alex Garcia,Marketing,New York,108500,5545.45,4.29,59,2019-04-04,True,Marketing Analyst,77,Full-time,Day,LOC013,,1,synthetic
+787,Emma Lee,Sales,Seattle,113900,8556.42,3.54,25,2022-07-02,True,Senior Account Executive,70,Full-time,Day,LOC016,,1,synthetic
+788,Finn Rivera,IT,Dallas,65800,1538.24,3.05,18,2019-05-01,False,Systems Engineer,69,Part-time,Day,LOC009,2026-05-29,0.6,synthetic
+789,Isla Carter,HR,Seattle,83300,3813.99,4.02,65,2020-06-11,True,HR Specialist,86,Full-time,Day,LOC006,,1,synthetic
+790,Iris Park, sales ,Denver,69600,6212.28,3.88,22,2022-09-24,False,Account Executive,70,Full-time,Day,LOC015,2026-07-05,1,synthetic
+791,Priya Adams,Marketing,Dallas,72300,0,2.73,41,2019-07-11,True,Marketing Analyst,72,Contract,Day,LOC019,,1,synthetic
+792,Lily Wright,Sales,Seattle,111200,5665.92,3.07,23,2022-08-22,True,Senior Account Executive,90,Full-time,Day,LOC006,,1,synthetic
+793,Adam Adams,IT, CHICAGO ,117500,2572.29,2.99,47,2022-10-23,True,Senior Systems Engineer,89,Full-time,Day,LOC011,,1,synthetic
+794,Isla Ali,HR,Chicago,102300,4508.27,3.96,56,2018-05-16,True,Senior HR Specialist,66,Full-time,Day,LOC011,,1,synthetic
+795,Sofia Brooks,Sales,Phoenix,75400,3779.61,2.92,15,2025-04-03,False,Senior Account Executive,90,Full-time,Day,LOC008,2026-04-15,1,synthetic
+796,Isla Young,Finance, BOSTON ,107100,3338.5,3.3,26,2018-04-28,False,Financial Analyst,88,Full-time,Day,LOC014,2026-03-21,1,synthetic
+797,Ava Davis,IT,Boston,114400,1795.51,2.78,38,2018-03-07,False,Systems Engineer,89,Full-time,Day,LOC004,2026-06-25,1,synthetic
+798,Adam Nguyen,IT,Chicago,51400,1284.12,3.09,28,2025-02-23,True,Systems Engineer,84,Part-time,Day,LOC011,,0.6,synthetic
+799,Ava Bennett,Marketing,Phoenix,58900,,3.73,56,2024-06-29,True,Marketing Analyst,67,Full-time,Day,LOC018,,1,synthetic
+800,Theo Carter,Finance,New York,109100,5840.82,4.34,66,2020-12-26,False,Financial Analyst,88,Full-time,Day,LOC003,2026-08-08,1,synthetic
+801,Daniel Singh,Sales,Austin,44800,1722.92,2.79,12,2020-08-15,True,Account Executive,70,Part-time,Day,LOC002,,0.6,synthetic
+802,Ruby Chen,Sales,Phoenix,63900,6949.18,,33,2020-01-31,True,Account Executive,70,Full-time,Day,LOC018,,1,synthetic
+803,Eric Lee,Sales,Seattle,83800,4901.64,3.25,25,2024-10-19,True,Account Executive,85,full time,Day,LOC016,,1,synthetic
+804,Chen Davis,Sales,New York,86500,0,3.13,24,2025-06-01,True,Account Executive,85,Contract,Day,LOC003,,1,synthetic
+805,Diego Morgan,Sales,Seattle,113700,7034.12,3.24,23,2020-08-11,True,Senior Account Executive,85,Full-time,Day,LOC006,,1,synthetic
+806,Sara Rivera,HR,Denver,88200,3221.2,3.6,53,2019-12-10,True,Senior HR Specialist,66,Full-time,Day,LOC015,,1,synthetic
+807,Liam Green, it ,Dallas,74700,1905.34,3.1,17,2023-03-15,False,Senior Systems Engineer,89,part time,Day,LOC019,2026-04-11,0.6,synthetic
+808,Leo Adams,Marketing,Dallas,41200,1168.37,3.31,26,2025-04-11,True,Marketing Analyst,72,Part-time,Day,LOC019,,0.6,synthetic
+809,Bob Ali,HR,Chicago,57400,2254.69,3.87,50,2023-03-10,True,HR Specialist,86,Full-time,Day,LOC001,,1,synthetic
+810,Lily Young,Finance,New York,77900,4222.3,4.42,35,2022-05-23,True,Senior Financial Analyst,83,Part-time,Day,LOC003,,0.6,synthetic
+811,Sara Evans,Sales,Chicago,88100,5750.93,3.3,18,2025-07-14,False,Senior Account Executive,85,Full-time,Day,LOC011,2026-05-19,1,synthetic
+812,Leo Rivera,IT,New York,121900,4886.71,3.73,58,2024-07-14,True,Systems Engineer,84,Full-time,Day,LOC003,,1,synthetic
+813,Finn Reed,Finance,Dallas,88900,1165.24,2.58,16,2020-07-02,False,Financial Analyst,78,Full-time,Day,LOC009,2026-02-10,1,synthetic
+814,Zoe Wilson,Sales,Chicago,67800,,3.86,25,2018-02-05,True,Account Executive,70,Contract,Day,LOC001,,1,synthetic
+815,Grace Brown,Sales,New York,106400,13152.3,4.51,36,2021-06-09,True,Senior Account Executive,70,Full-time,Day,LOC013,,1,synthetic
+816,Theo Martin,Sales,Seattle,55900,4551.19,3.66,17,2021-01-04,True,Account Executive,90,Part-time,Day,LOC006,,0.6,synthetic
+817,Grace Hall,Sales,Boston,93000,6284.21,3.28,25,2022-01-02,True,Account Executive,85,Full-time,Day,LOC004,,1,synthetic
+818,Eric Reed,Sales,Boston,55300,3081.92,3.09,12,2022-05-08,True,Account Executive,90,Part-time,Day,LOC014,,0.6,synthetic
+819,Diego Adams,Finance,Dallas,43900,1501.67,3.51,31,2023-11-04,True,Financial Analyst,73,Part-time,Day,LOC009,,0.6,synthetic
+820,Iris Davis,Sales,Chicago,78300,0,3.14,24,2022-04-21,True,Account Executive,85,Contract,Day,LOC011,,1,synthetic
+821,Jade Brown,Finance, SEATTLE ,93200,5350.89,4.57,71,2025-02-28,True,Financial Analyst,88,Full-time,Day,LOC016,,1,synthetic
+822,Omar Evans,IT,New York,152500,5465.29,3.57,56,2024-09-02,True,Senior Systems Engineer,69,Full-time,Day,LOC013,,1,synthetic
+823,Lily Adams,Finance,New York,90900,5291.05,4.58,65,2023-10-23,True,Financial Analyst,83,Full-time,Day,LOC003,,1,synthetic
+824,Ella Bennett,HR,Austin,82000,2234.31,3.24,31,2019-11-26,False,Senior HR Specialist,81,Full-time,Day,LOC002,2026-05-04,1,synthetic
+825,Priya Diaz,IT,Denver,153700,5368.54,3.52,53,2020-12-24,True,Senior Systems Engineer,84,Full-time,Day,LOC005,,1,synthetic
+826,Zoe Singh,IT,Seattle,129400,5200.07,3.84,58,2021-10-11,True,Systems Engineer,89,Full-time,Day,LOC006,,1,synthetic
+827,Lily Kim,Sales,Austin,83500,8046.28,3.87,28,2021-09-29,True,Senior Account Executive,85,Full-time,Day,LOC002,,1,synthetic
+828,Noah Brooks,Sales,Dallas,73100,4702.54,3.41,20,2023-08-29,False,Account Executive,80,Full-time,Day,LOC019,2026-06-23,1,synthetic
+829,Ella Brown,IT,Seattle,140000,5866.46,3.89,60,2022-05-13,True,Senior Systems Engineer,84,Full-time,Day,LOC006,,1,synthetic
+830,Eric Clark,Sales,Seattle,75900,7755.13,4.1,30,2023-07-20,True,Account Executive,85,Full-time,Day,LOC016,,1,synthetic
+831,Arjun Shah,Finance,Seattle,99200,2206.38,3.04,43,2024-02-05,True,Financial Analyst,83,Full-time,Day,LOC016,,1,synthetic
+832,Maya Patel,Sales,Boston,82300,6159.39,3.52,24,2019-04-26,True,Account Executive,70,Full-time,Day,LOC004,,1,synthetic
+833,Fatima Rivera,HR,Austin,77600,3113.33,3.88,59,2024-03-27,True,Senior HR Specialist,66,Full-time,Day,LOC012,,1,synthetic
+834,Fatima Lee,Finance,Denver,99000,678.77,2.28,35,2018-10-23,True,Financial Analyst,88,Full-time,Day,LOC015,,1,synthetic
+835,Daniel Wilson,Marketing,Denver,108800,2244.49,2.91,46,2023-01-12,True,Senior Marketing Analyst,72,Full-time,Day,LOC015,,1,synthetic
+836,Eric Ali,Finance,Austin,75000,1450.58,2.89,40,2021-01-30,True,Financial Analyst,88,Full-time,Day,LOC012,,1,synthetic
+837,Lily Shah,Finance,Seattle,51600,1962.39,3.69,30,2022-06-06,True,Financial Analyst,68,Part-time,Day,LOC016,,0.6,synthetic
+838,Priya Evans,IT,Boston,79800,2444.24,3.39,28,2018-01-18,True,Systems Engineer,89,Part-time,Day,LOC014,,0.6,synthetic
+839,Aisha Lopez,IT,Boston,110200,5030.75,3.96,39,2025-12-14,True,Systems Engineer,74,Full-time,Evening,LOC004,,1,synthetic
+840,Fatima Hall,Sales,Chicago,78400,7070.3,3.88,27,2024-09-12,True,Senior Account Executive,85,Full-time,Day,LOC011,,1,synthetic
+841,Ella Chen,Sales,Portland,71400,4925.95,3.48,24,2025-06-17,True,Account Executive,85,Full-time,Day,LOC010,,1,synthetic
+842,Ruby Clark,Sales,Denver,79600,3705.1,3.04,23,2019-03-24,True,Account Executive,75,Full-time,Day,LOC015,,1,synthetic
+843,Nina Park,Sales,Boston,84700,6770.27,3.48,25,2019-03-03,True,Account Executive,80,Full-time,Day,LOC014,,1,synthetic
+844,Ivan Shah,Finance,Portland,85800,3978.52,4.03,58,2018-03-10,True,Financial Analyst,68,Full-time,Day,LOC020,,1,synthetic
+845,Emma Brooks, sales ,Denver,83100,9198.25,4.31,27,2025-06-13,False,Senior Account Executive,70,Full-time,Day,LOC005,2026-06-26,1,synthetic
+846,Nora Wright,IT,New York,123800,5468.01,3.98,56,2018-03-31,True,Systems Engineer,74,Full-time,Evening,LOC003,,1,synthetic
+847,Ryan Evans,IT,Portland,106000,5225.83,4.34,63,2022-05-15,True,Systems Engineer,69,Full-time,Day,LOC010,,1,synthetic
+848,Hugo Clark,Sales,Austin,49800,2605.53,3.19,14,2022-03-20,True,Senior Account Executive,85,part time,Day,LOC012,,0.6,synthetic
+849,Arjun Morgan,IT,Atlanta,95700,3432.21,3.61,59,2019-08-17,True,Systems Engineer,69,full time,Day,LOC007,,1,synthetic
+850,Ryan Davis,IT,Seattle,119200,1361.65,2.56,40,2022-12-27,True,Systems Engineer,79,Full-time,Day,LOC016,,1,synthetic
+851,Adam Young,IT,Austin,129600,7635.18,4.62,64,2018-07-05,True,Senior Systems Engineer,69,Full-time,Day,LOC002,,1,synthetic
+852,Omar Martin,Sales,Seattle,104100,4715.9,2.84,19,2022-01-16,True,Senior Account Executive,90,Full-time,Day,LOC016,,1,synthetic
+853,Iris Wright,Finance,Atlanta,69500,3026.04,3.94,51,2019-12-24,True,Financial Analyst,73,Full-time,Day,LOC017,,1,synthetic
+854,Mike Diaz,Marketing,Chicago,84800,2970.13,3.59,52,2018-08-29,True,Marketing Analyst,67,Full-time,Day,LOC011,,1,synthetic
+855,Mei Hall,IT, NEW YORK ,140100,3730.7,3.14,51,2018-01-02,True,Systems Engineer,74,Full-time,Day,LOC013,,1,synthetic
+856,Luis Martin,Finance,Denver,85700,,3.41,52,2020-10-28,True,Financial Analyst,68,Full-time,Day,LOC015,,1,synthetic
+857,Luis Diaz,IT,New York,113000,6836.37,4.67,77,2022-12-11,True,Systems Engineer,74,Full-time,Evening,LOC013,,1,synthetic
+858,Iris Shah,IT,Boston,105000,3390.53,3.42,28,2018-05-16,True,Senior Systems Engineer,89,Part-time,Day,LOC004,,0.6,synthetic
+859,Ana Kim,Sales,Chicago,62300,6210.17,4,28,2023-12-05,True,Account Executive,80,Full-time,Day,LOC001,,1,synthetic
+860,Finn Wright,IT,New York,73100,3322.91,4.09,36,2024-07-17,True,Systems Engineer,74,Part-time,Day,LOC003,,0.6,synthetic
+861,Ava Brooks,HR,Chicago,76000,4169.06,4.49,66,2018-02-08,True,HR Specialist,86,Full-time,Day,LOC011,,1,synthetic
+862,Zoe Wright,HR, CHICAGO ,91400,0,4.04,6,2026-05-31,True,Senior HR Specialist,66,Contract,Day,LOC011,,1,synthetic
+863,Alex Morgan,Sales,Chicago,74300,8789.54,4.4,32,2021-05-14,True,Account Executive,70,Full-time,Day,LOC011,,1,synthetic
+864,Zoe Singh,IT,Chicago,100600,3971.28,3.77,58,2020-01-01,True,Systems Engineer,89,Full-time,Day,LOC001,,1,synthetic
+865,Priya Carter,Marketing,Atlanta,91100,1024.17,2.54,37,2021-03-22,True,Senior Marketing Analyst,77,Full-time,Day,LOC017,,1,synthetic
+866,Eric Brooks,Finance, NEW YORK ,134600,3138.91,3.09,19,2021-03-04,False,Senior Financial Analyst,68,Full-time,Day,LOC013,2026-02-03,1,synthetic
+867,Ivan Garcia,IT,Portland,108300,4545.61,3.9,63,2022-11-19,True,Systems Engineer,74,Full-time,Evening,LOC010,,1,synthetic
+868,Liam Adams,Sales,Phoenix,71200,6845.64,3.96,31,2019-10-05,True,Account Executive,75,Full-time,Day,LOC018,,1,synthetic
+869,Sara Kim,IT,Dallas,139700,7245.49,4.27,68,2019-04-10,True,Senior Systems Engineer,69,Full-time,Day,LOC019,,1,synthetic
+870,Ryan Lopez,Marketing,Boston,95800,0,4.32,65,2021-10-05,True,Marketing Analyst,77,Contract,Day,LOC014,,1,synthetic
+871,Bob Morgan,HR,New York,85800,3361.58,3.85,58,2020-04-29,True,HR Specialist,66,Full-time,Day,LOC003,,1,synthetic
+872,Noah Hall,Marketing,New York,85700,2622.61,3.32,49,2019-04-23,True,Marketing Analyst,87,Full-time,Day,LOC003,,1,synthetic
+873,Theo Patel,HR,Seattle,95400,4057.74,3.9,62,2023-06-17,True,Senior HR Specialist,81,Full-time,Day,LOC006,,1,synthetic
+874,Chen Wilson,Sales,Atlanta,98000,,4.07,32,2018-07-04,True,Senior Account Executive,75,Full-time,Day,LOC007,,1,synthetic
+875,Daniel Patel,Finance,Chicago,68600,2263.61,3.5,28,2024-08-29,True,Senior Financial Analyst,73,Part-time,Day,LOC001,,0.6,synthetic
+876,Bob Brown,Sales,Seattle,88300,7377.6,3.6,25,2020-02-23,True,Account Executive,75,Full-time,Day,LOC016,,1,synthetic
+877,Leo Lee,HR,Chicago,68600,,2.53,41,2023-02-26,True,HR Specialist,86,Full-time,Day,LOC011,,1,synthetic
+878,Noah Brooks,Finance,Boston,100700,2158.32,3.01,41,2018-08-08,True,Financial Analyst,73,Full-time,Day,LOC004,,1,synthetic
+879,Nina Garcia,IT,Seattle,127100,4204.29,3.51,52,2018-03-24,True,Systems Engineer,84,Full-time,Day,LOC016,,1,synthetic
+880,Jade Lopez,Finance,Dallas,74600,2757.71,3.61,48,2022-09-01,True,Financial Analyst,78,Full-time,Day,LOC019,,1,synthetic
+881,Noah Clark,IT,New York,79100,3615.87,4.09,34,2021-03-22,True,Systems Engineer,84,Part-time,Day,LOC013,,0.6,synthetic
+882,Zoe Chen,IT,Atlanta,61000,3118.52,,22,2021-04-04,False,Systems Engineer,69,Part-time,Day,LOC017,2026-05-19,0.6,synthetic
+883,Bob Adams,Sales,Austin,74300,8873.24,4.44,34,2021-02-05,True,Account Executive,70,Full-time,Day,LOC002,,1,synthetic
+884,Finn Rivera,IT,Seattle,118100,,3.69,57,2020-04-29,True,Systems Engineer,84,Full-time,Day,LOC006,,1,synthetic
+885,Liam Reed,Finance,Denver,90100,2222.85,3.04,44,2019-06-02,True,Financial Analyst,83,Full-time,Day,LOC015,,1,synthetic
+886,Isla Lopez,Marketing,Portland,77300,0,3.41,52,2020-10-01,True,Marketing Analyst,77,Contract,Day,LOC010,,1,synthetic
+887,Sara Morgan,Sales,New York,97100,6110.64,3.3,23,2023-05-08,True,Account Executive,75,Full-time,Day,LOC003,,1,synthetic
+888,Liam Lee,IT,Denver,132800,4401.08,3.52,46,2025-07-15,True,Senior Systems Engineer,74,Full-time,Day,LOC005,,1,synthetic
+889,Sara Wilson,Marketing,New York,94700,4514.84,4.13,59,2024-11-18,True,Marketing Analyst,67,Full-time,Day,LOC013,,1,synthetic
+890,Eric Brooks,Finance,New York,90800,3048.47,3.45,50,2023-12-22,True,Financial Analyst,88,Full-time,Day,LOC013,,1,synthetic
+891,Ivan Wright,Finance,New York,112400,0,3.82,28,2019-03-07,False,Financial Analyst,78,Contract,Day,LOC003,2026-02-19,1,synthetic
+892,Arjun Diaz,Sales,New York,110800,4425.48,2.87,21,2021-01-01,True,Senior Account Executive,80,Full-time,Day,LOC003,,1,synthetic
+893,Grace Taylor,IT,Boston,114300,0,3.66,49,2025-08-06,True,Systems Engineer,69,Contract,Evening,LOC004,,1,synthetic
+894,Iris Martin,IT,Phoenix,85500,2333.55,3.24,47,2020-12-07,True,Systems Engineer,79,Full-time,Day,LOC018,,1,synthetic
+895,Ella Patel,HR,,34600,1106.7,3.44,30,2019-03-21,True,HR Specialist,76,Part-time,Day,LOC012,,0.6,synthetic
+896,Sara Kim,Marketing,Denver,79400,3778.05,4.16,60,2024-08-24,True,Marketing Analyst,77,Full-time,Day,LOC015,,1,synthetic
+897,Fatima Clark,Sales,New York,91200,8030.8,3.77,26,2024-12-13,True,Account Executive,90,Full-time,Day,LOC013,,1,synthetic
+898,Adam Green,IT,Dallas,109800,0,3.85,55,2020-04-24,True,Systems Engineer,89,Contract,Day,LOC019,,1,synthetic
+899,Adam Kim,HR,Phoenix,51100,2502.57,4.21,60,2024-09-20,True,HR Specialist,71,Full-time,Day,LOC018,,1,synthetic
+900,Iris Davis, it ,Dallas,117200,6557.63,4.47,69,2023-07-25,True,Senior Systems Engineer,79,Full-time,Day,LOC019,,1,synthetic
+901,Noah Brown,IT,,88100,,3.12,45,2021-08-29,True,Systems Engineer,74,Full-time,Day,LOC008,,1,synthetic
+902,Fatima Green,IT,New York,134100,3508.12,3.11,46,2024-11-24,True,Systems Engineer,84,Full-time,Day,LOC003,,1,synthetic
+903,Lucy Nguyen,Marketing,Boston,76400,2962.84,,54,2025-05-25,True,Marketing Analyst,82,Full-time,Day,LOC004,,1,synthetic
+904,Chen Lee,Marketing,Atlanta,51400,1542.4,3.33,30,2019-11-29,True,Senior Marketing Analyst,77,Part-time,Day,LOC017,,0.6,synthetic
+905,Adam Bennett,HR,Dallas,74400,3467.76,4.07,57,2023-01-04,True,Senior HR Specialist,86,Full-time,Day,LOC019,,1,synthetic
+906,Nina Bennett,Marketing,Austin,78100,2889.1,3.77,54,2021-02-03,True,Marketing Analyst,72,Full-time,Day,LOC002,,1,synthetic
+907,Ivan Morgan,Sales,New York,63100,4814.92,,16,2021-09-19,True,Senior Account Executive,70,Part-time,Day,LOC003,,0.6,synthetic
+908,Hugo Garcia,Finance,Chicago,71100,1831.7,3.2,44,2025-06-13,True,Financial Analyst,88,Full-time,Day,LOC011,,1,synthetic
+909,Hugo Young,IT,Portland,120400,6182.78,4.25,60,2023-05-18,True,Senior Systems Engineer,89,Full-time,Day,LOC020,,1,synthetic
+910,Eric Taylor,HR,Seattle,73800,2139.54,,44,2019-01-24,False,HR Specialist,76,Full-time,Day,LOC016,2026-07-19,1,synthetic
+911,Mike Evans,Marketing,Boston,75800,,4.01,54,2023-03-20,True,Marketing Analyst,67,Full-time,Day,LOC014,,1,synthetic
+912,Omar Ali,Marketing,Austin,75800,2710.95,3.62,50,2020-09-01,True,Marketing Analyst,82,Full-time,Day,LOC012,,1,synthetic
+913,Hugo Kim,Sales,Dallas,61400,0,3.65,25,2020-08-30,True,Account Executive,80,Contract,Day,LOC009,,1,synthetic
+914,Ava Clark,Marketing,New York,95000,4301.06,4.04,66,2022-11-20,True,Marketing Analyst,72,Full-time,Day,LOC013,,1,synthetic
+915,Arjun Nguyen,HR,Chicago,72000,2319.28,3.44,47,2019-03-10,True,HR Specialist,71,Full-time,Day,LOC011,,1,synthetic
+916,Iris Green, hr ,Austin,63700,999.16,2.75,48,2019-07-02,True,HR Specialist,86,Full-time,Day,LOC002,,1,synthetic
+917,Nora Adams,HR,Chicago,90800,1919.14,3.02,48,2025-05-17,True,Senior HR Specialist,76,Full-time,Day,LOC001,,1,synthetic
+918,Iris Rivera,Sales,Boston,92300,,3.56,28,2020-10-31,True,Account Executive,90,Full-time,Day,LOC014,,1,synthetic
+919,Iris Lee,Finance,New York,95400,2825.6,3.29,53,2023-06-14,True,Financial Analyst,78,Full-time,Day,LOC003,,1,synthetic
+920,Arjun Reed,Finance,Denver,98300,4021.33,3.85,58,2018-03-21,True,Financial Analyst,68,Full-time,Day,LOC005,,1,synthetic
+921,Isla Martin,Marketing,Denver,91300,2300.5,3.13,51,2018-08-01,True,Senior Marketing Analyst,67,Full-time,Day,LOC015,,1,synthetic
+922,Mei Adams,Finance,Portland,50800,1528.33,3.42,25,2025-08-01,True,Financial Analyst,73,Part-time,Day,LOC020,,0.6,synthetic
+923,Sofia Reed,Sales,Chicago,71600,4274.68,3.18,21,2023-03-31,True,Account Executive,70,Full-time,Day,LOC001,,1,synthetic
+924,Priya Brown,Finance,New York,119300,6049.52,4.19,67,2025-04-08,True,Senior Financial Analyst,88,full time,Day,LOC003,,1,synthetic
+925,Daniel Green,Sales,Chicago,75000,6318.44,3.65,29,2022-06-22,True,Account Executive,70,Full-time,Day,LOC001,,1,synthetic
+926,Aisha Davis,HR,Denver,64300,0,3.63,56,2023-02-28,True,HR Specialist,81,Contract,Day,LOC015,,1,synthetic
+927,Mei Young,Marketing,Denver,82000,3448.16,3.81,54,2021-03-02,True,Marketing Analyst,67,Full-time,Day,LOC015,,1,synthetic
+928,Omar Rivera,Finance,Austin,80900,872.43,2.57,42,2018-01-17,True,Financial Analyst,68,Full-time,Day,LOC012,,1,synthetic
+929,Theo Patel,Sales,Portland,76300,3231.07,2.85,21,2019-09-10,True,Account Executive,85,Full-time,Day,LOC010,,1,synthetic
+930,Eric Adams,Marketing,Boston,72800,,4.76,57,2025-03-02,True,Marketing Analyst,82,Full-time,Day,LOC014,,1,synthetic
+931,Bob Wright,IT,New York,127600,4599.11,3.66,54,2019-04-30,True,Systems Engineer,79,Full-time,Day,LOC003,,1,synthetic
+932,Mei Chen,IT,Boston,119200,4284.26,3.59,49,2022-03-27,True,Systems Engineer,79,Full-time,Day,LOC004,,1,synthetic
+933,Emma Rivera, sales ,Chicago,97500,5435.25,3.08,22,2024-11-02,True,Senior Account Executive,80,Full-time,Day,LOC011,,1,synthetic
+934,Grace Park,Sales,Denver,85300,11515.5,4.67,35,2021-07-19,True,Senior Account Executive,85,Full-time,Day,LOC005,,1,synthetic
+935,Aisha Garcia,IT,Atlanta,63700,,3.98,28,2018-12-02,True,Systems Engineer,84,Part-time,Day,LOC007,,0.6,synthetic
+936,Finn Green,HR,Phoenix,49200,1718.86,3.62,30,2024-03-25,True,Senior HR Specialist,86,Part-time,Day,LOC018,,0.6,synthetic
+937,Sara Chen,Finance,Austin,71100,3503.18,4.28,65,2019-09-23,True,Financial Analyst,73,Full-time,Day,LOC002,,1,synthetic
+938,Ruby Singh,Sales,New York,92700,8243.58,3.8,28,2024-06-28,True,Account Executive,70,Full-time,Day,LOC003,,1,synthetic
+939,Fatima Singh,Finance,Boston,139300,3968.86,3.27,50,2020-01-03,True,Senior Financial Analyst,78,Full-time,Day,LOC014,,1,synthetic
+940,Noah Kim,Finance,Chicago,74700,3240.35,3.98,61,2024-05-02,True,Financial Analyst,68,Full-time,Day,LOC001,,1,synthetic
+941,Noah Bennett,HR,Chicago,61100,2396.38,3.84,51,2018-03-11,True,HR Specialist,76,Full-time,Day,LOC001,,1,synthetic
+942,Ava Kim,Sales,New York,120800,11186.13,3.97,28,2023-08-19,True,Senior Account Executive,85,Full-time,Day,LOC003,,1,synthetic
+943,Theo Green,IT,Phoenix,81300,1044.08,2.61,39,2023-06-14,True,Systems Engineer,74,Full-time,Evening,LOC018,,1,synthetic
+944,Luis Brooks,Marketing,New York,111200,4127.34,3.72,55,2022-07-12,True,Senior Marketing Analyst,77,Full-time,Day,LOC003,,1,synthetic
+945,Liam Green,IT,Dallas,105700,4729.83,4.02,58,2018-10-02,True,Systems Engineer,74,Full-time,Day,LOC009,,1,synthetic
+946,Lucy Davis,Marketing,Austin,104500,0,3.71,56,2018-10-10,True,Senior Marketing Analyst,72,Contract,Day,LOC012,,1,synthetic
+947,Iris Diaz,Marketing,Austin,66300,1828.31,3.26,48,2018-08-03,True,Marketing Analyst,67,Full-time,Day,LOC002,,1,synthetic
+948,Adam Kim,Sales,Chicago,80100,1415.35,2.39,18,2018-03-09,True,Account Executive,75,Full-time,Day,LOC001,,1,synthetic
+949,Ella Wilson,HR,Austin,55800,2449.63,4.01,59,2024-04-03,True,HR Specialist,81,Full-time,Day,LOC002,,1,synthetic
+950,Eric Taylor,IT,Dallas,108100,0,4.59,77,2018-11-12,True,Systems Engineer,79,Contract,Day,LOC019,,1,synthetic
+951,Isla Brooks,Sales,Portland,70200,4089.92,3.21,26,2024-08-28,True,Account Executive,80,Full-time,Day,LOC010,,1,synthetic
+952,Adam Reed,IT,New York,181700,9138.36,4.17,69,2019-12-19,True,Senior Systems Engineer,79,Full-time,Day,LOC003,,1,synthetic
+953,Grace Chen,IT,Denver,93400,,2.72,43,2023-09-03,True,Systems Engineer,84,Full-time,Evening,LOC005,,1,synthetic
+954,Arjun Young,Marketing,Denver,87800,3051.3,3.57,53,2024-05-08,True,Senior Marketing Analyst,77,Full-time,Day,LOC005,,1,synthetic
+955,Priya Brown,Sales,Austin,61500,3707.77,3.22,24,2023-03-03,True,Account Executive,90,Full-time,Day,LOC002,,1,synthetic
+956,Diego Kim,HR,Austin,88400,4741.18,4.45,68,2019-01-05,True,Senior HR Specialist,76,Full-time,Day,LOC002,,1,synthetic
+957,Bob Brown,Sales,Phoenix,69000,5742.4,3.7,27,2018-03-25,True,Account Executive,70,Full-time,Day,LOC008,,1,synthetic
+958,Ana Brown,HR,Portland,67400,2777.31,3.78,55,2020-08-05,True,HR Specialist,86,Full-time,Day,LOC020,,1,synthetic
+959,Ryan Green,Marketing,Seattle,116000,,2.79,40,2024-09-24,True,Senior Marketing Analyst,82,Full-time,Day,LOC016,,1,synthetic
+960,Sara Hall,IT,Chicago,106400,4485.95,3.99,57,2024-03-17,True,Systems Engineer,84,Full-time,Day,LOC011,,1,synthetic
+961,Hugo Clark,Finance,Seattle,96800,5028.42,4.27,70,2021-02-07,True,Financial Analyst,68,Full-time,Day,LOC006,,1,synthetic
+962,Mike Singh,Sales,Seattle,81800,6558.59,,14,2018-01-29,False,Account Executive,70,Full-time,Day,LOC016,2026-03-25,1,synthetic
+963,Priya Adams,IT,Austin,100000,5088.96,4.23,69,2023-12-23,True,Systems Engineer,89,Full-time,Day,LOC012,,1,synthetic
+964,Isla Garcia,Sales,Portland,102600,2352.34,2.39,17,2019-11-12,True,Senior Account Executive,90,Full-time,Day,LOC010,,1,synthetic
+965,Bob Nguyen, sales ,Boston,61400,7493.45,4.48,20,2020-09-04,True,Senior Account Executive,75,Part-time,Day,LOC014,,0.6,synthetic
+966,Mei Park,Sales,Portland,79700,,3.78,27,2023-04-23,True,Account Executive,85,Full-time,Day,LOC020,,1,synthetic
+967,Hugo Morgan,IT,Seattle,125300,6814.17,4.45,69,2020-08-16,True,Systems Engineer,69,Full-time,Evening,LOC016,,1,synthetic
+968,Chen Diaz,Marketing,Seattle,81600,3292.73,3.82,61,2022-03-12,True,Marketing Analyst,72,Full-time,Day,LOC006,,1,synthetic
+969,Daniel Carter,Sales,Boston,96000,6305.73,3.38,26,2019-10-12,True,Account Executive,85,Full-time,Day,LOC004,,1,synthetic
+970,Liam Hall,IT,New York,112700,2669.1,3.1,48,2025-06-09,True,Systems Engineer,89,Full-time,Day,LOC003,,1,synthetic
+971,Bob Brown,IT,Boston,65600,3985.2,4.68,38,2021-12-03,True,Systems Engineer,79,Part-time,Evening,LOC004,,0.6,synthetic
+972,Jade Chen,Marketing,Seattle,102800,4702.89,3.96,59,2022-12-05,True,Senior Marketing Analyst,87,Full-time,Day,LOC006,,1,synthetic
+973,Zoe Kim,Sales,Dallas,82800,4753.58,3.24,24,2024-04-24,True,Senior Account Executive,75,Full-time,Day,LOC019,,1,synthetic
+974,Sofia Brown,IT,Boston,68900,4185.68,4.69,37,2018-01-29,True,Systems Engineer,74,Part-time,Day,LOC004,,0.6,synthetic
+975,Priya Diaz, hr ,Boston,77800,1933.22,3.05,46,2023-08-26,True,HR Specialist,86,Full-time,Day,LOC004,,1,synthetic
+976,Finn Green,IT,New York,153400,6265.88,3.81,58,2022-07-09,True,Senior Systems Engineer,79,Full-time,Day,LOC013,,1,synthetic
+977,Theo Kim,Sales,Portland,86500,4890.85,3.1,23,2019-08-27,True,Account Executive,70,Full-time,Day,LOC020,,1,synthetic
+978,Theo Bennett,Sales,Atlanta,75200,4591.89,3.29,25,2019-03-21,True,Account Executive,75,Full-time,Day,LOC017,,1,synthetic
+979,Leo Young,Sales,Portland,78100,5701.05,3.46,12,2023-07-06,False,Account Executive,85,Full-time,Day,LOC020,2026-02-26,1,synthetic
+980,Priya Brooks,Sales,Chicago,99700,4855.93,2.96,22,2024-07-16,True,Senior Account Executive,85,Full-time,Day,LOC001,,1,synthetic
+981,Maya Rivera,Sales,Chicago,76900,8571.86,4.29,32,2023-11-04,True,Account Executive,85,Full-time,Day,LOC001,,1,synthetic
+982,Lily Martin,Sales,Seattle,83500,4876.31,3.28,27,2023-10-22,True,Account Executive,70,Full-time,Day,LOC016,,1,synthetic
+983,Daniel Hall,IT,New York,149700,6261.8,3.81,57,2023-01-02,True,Senior Systems Engineer,69,Full-time,Day,LOC013,,1,synthetic
+984,Sofia Martin,IT,New York,125400,0,3.77,43,2019-12-25,False,Systems Engineer,79,Contract,Day,LOC013,2026-06-17,1,synthetic
+985,Zoe Garcia,Marketing,Chicago,88100,2054.47,3.13,47,2021-10-18,True,Senior Marketing Analyst,87,Full-time,Day,LOC001,,1,synthetic
+986,Ava Reed,IT,Atlanta,112900,2957.14,3.19,54,2024-06-02,True,Senior Systems Engineer,89,Full-time,Day,LOC007,,1,synthetic
+987,Ava Lopez,Sales,Austin,67400,4601.42,3.32,26,2023-10-16,True,Account Executive,75,Full-time,Day,LOC012,,1,synthetic
+988,Nora Singh,Sales,Austin,91900,2551.34,2.55,20,2019-07-23,True,Senior Account Executive,80,Full-time,Day,LOC012,,1,synthetic
+989,Nora Nguyen,Sales,Phoenix,86600,6294.69,3.53,27,2023-03-19,True,Senior Account Executive,75,Full-time,Day,LOC008,,1,synthetic
+990,Diego Brown,Finance,Chicago,87200,1620.35,2.86,47,2019-01-17,True,Financial Analyst,73,Full-time,Day,LOC011,,1,synthetic
+991,Nina Wright,Finance,Boston,100200,3084.5,3.37,50,2019-09-30,True,Financial Analyst,68,Full-time,Day,LOC004,,1,synthetic
+992,Iris Wilson,Sales,Phoenix,50500,5775.05,4.32,15,2020-04-07,True,Senior Account Executive,90,Part-time,Day,LOC008,,0.6,synthetic
+993,Liam Kim,IT,Denver,97900,2785.56,3.3,46,2025-02-21,True,Systems Engineer,84,Full-time,Day,LOC015,,1,synthetic
+994,Maya Kim,Marketing,Denver,93700,3456.59,3.6,56,2019-01-09,True,Senior Marketing Analyst,82,Full-time,Day,LOC005,,1,synthetic
+995,Aisha Adams,IT,Austin,89200,3724.28,3.86,62,2022-07-03,True,Systems Engineer,84,Full-time,Day,LOC002,,1,synthetic
+996,Ana Brown,Finance,New York,96400,2286.51,3.03,48,2025-05-11,True,Financial Analyst,68,Full-time,Day,LOC013,,1,synthetic
+997,Isla Bennett,HR,Chicago,77800,4032.43,4.31,62,2022-10-04,True,Senior HR Specialist,76,Full-time,Day,LOC011,,1,synthetic
+998,Nina Garcia,IT,Austin,84000,5103,4.73,38,2025-03-05,False,Systems Engineer,69,Full-time,Day,LOC002,2026-04-26,1,synthetic
+999,Hugo Bennett,IT,Austin,100400,3014.04,3.41,52,2019-03-20,True,Systems Engineer,79,Full-time,Day,LOC002,,1,synthetic
+1000,Nora Evans, marketing ,New York,93500,0,4.64,50,2022-06-09,False,Marketing Analyst,77,Contract,Day,LOC013,2026-05-30,1,synthetic
+1001,Lucy Kim,Sales,Chicago,81600,0,3.95,28,2021-03-10,True,Account Executive,80,Contract,Day,LOC001,,1,synthetic
+1002,Noah Brown,Finance,Austin,67400,2708.79,3.74,54,2024-11-24,True,Financial Analyst,78,Full-time,Day,LOC012,,1,synthetic
+1003,Ruby Rivera,IT,Chicago,93000,2113.56,2.99,44,2023-08-02,True,Systems Engineer,89,Full-time,Day,LOC011,,1,synthetic
+1004,Fatima Rivera,HR,Austin,59300,1963.39,3.46,53,2019-12-31,True,HR Specialist,76,Full-time,Day,LOC002,,1,synthetic
+1005,Mei Garcia,Marketing,Austin,79900,2280.15,3.29,49,2021-05-21,True,Marketing Analyst,72,Full-time,Day,LOC012,,1,synthetic
+1006,Nina Kim,Sales,Atlanta,59300,3631,3.19,21,2023-10-22,True,Account Executive,75,Full-time,Day,LOC007,,1,synthetic
+1007,Ivan Lopez,Sales,Boston,92100,7569.08,3.72,24,2018-09-01,True,Account Executive,80,Full-time,Day,LOC014,,1,synthetic
+1008,Aisha Lee,Finance,,121800,569.38,2.24,32,2019-02-11,True,Senior Financial Analyst,78,Full-time,Day,LOC003,,1,synthetic
+1009,Bob Ali,HR,New York,86200,2364.12,3.21,45,2023-08-16,True,HR Specialist,71,Full-time,Day,LOC003,,1,synthetic
+1010,Daniel Taylor,HR,Seattle,62500,2569.92,3.88,31,2019-08-05,True,Senior HR Specialist,76,Part-time,Day,LOC006,,0.6,synthetic
+1011,Noah Kim,IT,New York,134300,5338.06,3.77,59,2020-04-10,True,Systems Engineer,84,Full-time,Day,LOC013,,1,synthetic
+1012,Ruby Evans,Marketing,Denver,88400,3038.91,3.42,53,2022-04-20,True,Senior Marketing Analyst,82,Full-time,Day,LOC015,,1,synthetic
+1013,Ana Taylor,Sales,Chicago,78200,4980.42,3.32,26,2023-01-18,True,Account Executive,80,Full-time,Day,LOC001,,1,synthetic
+1014,Lily Brown,IT,Denver,120900,3840.74,3.51,36,2022-05-15,False,Senior Systems Engineer,89,Full-time,Day,LOC015,2026-04-09,1,synthetic
+1015,Diego Brown,IT,Atlanta,91800,2097.08,3.04,42,2019-04-11,True,Systems Engineer,69,Full-time,Day,LOC017,,1,synthetic
+1016,Bob Rivera,Finance,Boston,123500,4880.42,3.7,27,2025-06-28,False,Senior Financial Analyst,73,Full-time,Day,LOC014,2026-03-07,1,synthetic
+1017,Leo Reed,IT, PORTLAND ,98000,2546.24,3.23,52,2019-11-26,True,Systems Engineer,79,Full-time,Day,LOC010,,1,synthetic
+1018,Leo Hall,Finance,New York,118000,4339.08,3.64,59,2019-02-06,True,Financial Analyst,88,Full-time,Day,LOC013,,1,synthetic
+1019,Fatima Nguyen,Sales,New York,75000,8349.47,4.22,31,2024-03-03,True,Account Executive,80,Full-time,Day,LOC003,,1,synthetic
+1020,Mei Lopez,Finance,New York,149300,4756.16,3.4,53,2020-05-22,True,Senior Financial Analyst,78,Full-time,Day,LOC013,,1,synthetic
+1021,Emma Hall,Sales,Seattle,88900,5068.67,3.22,25,2019-09-07,True,Account Executive,70,Full-time,Day,LOC016,,1,synthetic
+1022,Liam Adams,Finance,Portland,85400,,3.55,52,2023-07-01,True,Financial Analyst,83,Full-time,Day,LOC020,,1,synthetic
+1023,Emma Bennett,Finance,Seattle,84600,3385.74,3.75,52,2024-06-14,True,Financial Analyst,73,Full-time,Day,LOC006,,1,synthetic
+1024,Maya Ali,HR,Seattle,104600,3268.74,3.44,49,2023-01-16,True,Senior HR Specialist,76,Full-time,Day,LOC006,,1,synthetic
+1025,Nina Reed,Finance,New York,129700,5393.39,3.85,55,2022-06-28,True,Senior Financial Analyst,68,Full-time,Day,LOC003,,1,synthetic
+1026,Isla Davis,Finance,Austin,92000,2516.69,3.26,49,2020-02-06,True,Senior Financial Analyst,68,Full-time,Day,LOC012,,1,synthetic
+1027,Theo Singh,Sales,Portland,68800,5324.14,3.52,25,2018-01-02,True,Account Executive,90,Full-time,Day,LOC020,,1,synthetic
+1028,Liam Chen,IT,Chicago,139000,4314.55,3.34,7,2026-05-13,True,Senior Systems Engineer,89,Full-time,Day,LOC011,,1,synthetic
+1029,Ana Hall,Sales,Boston,94800,,3.89,29,2019-01-31,True,Account Executive,80,Full-time,Day,LOC014,,1,synthetic
+1030,Lucy Ali,IT,Dallas,92300,1913.91,2.89,34,2018-06-09,False,Systems Engineer,89,Full-time,Day,LOC009,2026-05-30,1,synthetic
+1031,Liam Chen,Sales,New York,75300,,3.53,27,2024-12-24,True,Account Executive,70,Full-time,Day,LOC003,,1,synthetic
+1032,Ella Hall,Sales,Atlanta,72200,6597.91,3.83,29,2019-03-03,True,Account Executive,70,Full-time,Day,LOC007,,1,synthetic
+1033,Luis Kim,Finance,Phoenix,91300,2139.93,3.01,46,2020-06-09,True,Senior Financial Analyst,68,Full-time,Day,LOC018,,1,synthetic
+1034,Arjun Reed,Sales,Austin,59600,8046,,33,2023-04-26,True,Account Executive,80,Full-time,Day,LOC012,,1,synthetic
+1035,Diego Chen, hr ,Dallas,64800,1771.87,3.13,44,2021-07-14,True,HR Specialist,86,Full-time,Day,LOC009,,1,synthetic
+1036,Leo Chen,Finance, AUSTIN ,87700,5327.78,4.68,74,2018-12-03,True,Financial Analyst,83,Full-time,Day,LOC012,,1,synthetic
+1037,Grace Clark,Finance,Chicago,87400,2829.25,3.38,52,2021-10-11,True,Financial Analyst,68,Full-time,Day,LOC001,,1,synthetic
+1038,Mei Adams,Sales,Chicago,68100,0,3.78,28,2024-06-19,True,Account Executive,80,Contract,Day,LOC001,,1,synthetic
+1039,Isla Garcia,Marketing,Portland,88400,4221.68,4.22,56,2024-12-18,True,Senior Marketing Analyst,67,Full-time,Day,LOC020,,1,synthetic
+1040,Priya Hall,Marketing,Boston,96100,2071.93,2.93,43,2020-11-08,True,Marketing Analyst,67,Full-time,Day,LOC014,,1,synthetic
+1041,Fatima Bennett,Sales,Chicago,73100,6039.38,3.64,26,2023-11-27,True,Account Executive,70,Full-time,Day,LOC011,,1,synthetic
+1042,Finn Lopez,Sales,Boston,113700,4770.31,2.94,24,2021-02-07,True,Senior Account Executive,90,Full-time,Day,LOC004,,1,synthetic
+1043,Isla Lee,HR,Chicago,63100,3642.55,,64,2019-12-15,True,HR Specialist,66,Full-time,Day,LOC001,,1,synthetic
+1044,Omar Wilson,Marketing,Phoenix,84700,4114.59,4.19,55,2020-11-15,True,Senior Marketing Analyst,67,Full-time,Day,LOC018,,1,synthetic
+1045,Mike Wilson,Finance,Chicago,74900,3126.51,3.89,59,2024-08-10,True,Financial Analyst,88,Full-time,Day,LOC011,,1,synthetic
+1046,Adam Evans,IT,Chicago,108300,0,3.98,59,2025-01-22,True,Systems Engineer,79,Contract,Day,LOC011,,1,synthetic
+1047,Zoe Clark,Finance,Boston,107600,5340.19,4.29,63,2018-04-15,True,Financial Analyst,73,Full-time,Day,LOC004,,1,synthetic
+1048,Sara Clark,IT,New York,113300,5781.49,4.25,39,2020-06-20,False,Systems Engineer,74,Full-time,Day,LOC003,2026-04-11,1,synthetic
+1049,Isla Young,Marketing,Portland,79000,2378.58,3.22,47,2023-04-22,True,Marketing Analyst,82,Full-time,Day,LOC010,,1,synthetic
+1050,Ava Singh,IT,Seattle,123100,4824.73,3.79,57,2024-12-05,True,Systems Engineer,69,Full-time,Day,LOC006,,1,synthetic
+1051,Finn Young,Finance,Denver,80900,1248.08,2.71,34,2021-09-24,True,Financial Analyst,73,Full-time,Day,LOC005,,1,synthetic
+1052,Adam Green,Marketing,Austin,80400,2022.78,3.14,51,2018-02-25,True,Marketing Analyst,67,Full-time,Day,LOC012,,1,synthetic
+1053,Eric Lopez,Finance,Phoenix,109700,6535.44,4.56,68,2021-01-05,True,Senior Financial Analyst,83,Full-time,Day,LOC008,,1,synthetic
+1054,Ruby Lopez,Sales,New York,99600,,3.17,22,2019-09-21,True,Account Executive,80,Full-time,Day,LOC003,,1,synthetic
+1055,Lily Brooks,Sales,Atlanta,40200,2808.26,3.44,14,2024-07-20,True,Account Executive,85,Part-time,Day,LOC017,,0.6,synthetic
+1056,Adam Davis,Finance,Denver,94200,1732.22,2.81,44,2019-05-16,True,Financial Analyst,68,Full-time,Day,LOC015,,1,synthetic
+1057,Theo Park,Marketing,Phoenix,76100,3294.58,3.91,57,2022-04-28,True,Marketing Analyst,82,Full-time,Day,LOC018,,1,synthetic
+1058,Mike Evans,Sales,Boston,101800,0,3.92,29,2024-08-25,True,Senior Account Executive,90,Contract,Day,LOC004,,1,synthetic
+1059,Iris Wilson, finance ,Dallas,81500,3383.56,,54,2020-07-26,True,Financial Analyst,68,Full-time,Day,LOC019,,1,synthetic
+1060,Ryan Ali,Finance,Boston,85600,2442.51,3.27,47,2020-12-03,True,Financial Analyst,88,Full-time,Day,LOC014,,1,synthetic
+1061,Ruby Morgan,Marketing,Austin,40700,2472.53,4.67,37,2020-11-15,True,Marketing Analyst,67,Part-time,Day,LOC002,,0.6,synthetic
+1062,Ana Young,Marketing,,91000,5322.7,4.56,65,2020-11-23,True,Marketing Analyst,87,Full-time,Day,LOC016,,1,synthetic
+1063,Maya Ali,IT,Chicago,99300,3281.66,3.5,49,2019-07-21,True,Systems Engineer,84,Full-time,Day,LOC001,,1,synthetic
+1064,Maya Evans,Finance,New York,95600,2464.32,3.11,48,2023-02-27,True,Financial Analyst,83,Full-time,Day,LOC013,,1,synthetic
+1065,Iris Carter,Sales,Boston,77800,4870.92,3.31,21,2025-07-22,True,Account Executive,70,Full-time,Day,LOC004,,1,synthetic
+1066,Jade Evans,IT,Seattle,164000,5636.59,3.53,50,2019-09-22,True,Senior Systems Engineer,89,Full-time,Day,LOC006,,1,synthetic
+1067,Mei Singh,HR,Chicago,66800,1651.55,3.12,46,2024-07-08,True,HR Specialist,66,Full-time,Day,LOC011,,1,synthetic
+1068,Chen Morgan,Sales,New York,102200,8815.35,3.79,26,2021-11-25,True,Senior Account Executive,75,Full-time,Day,LOC003,,1,synthetic
+1069,Lily Diaz,HR,Phoenix,65200,1269.41,2.91,42,2024-11-28,True,HR Specialist,71,Full-time,Day,LOC008,,1,synthetic
+1070,Aisha Green,IT,Dallas,83100,4449.1,4.43,73,2025-03-22,True,Systems Engineer,84,Full-time,Day,LOC019,,1,synthetic
+1071,Aisha Wilson,Sales,Austin,71000,3948.34,3.15,26,2025-01-17,True,Account Executive,80,Full-time,Day,LOC002,,1,synthetic
+1072,Diego Morgan,Marketing,,108000,0,3.31,50,2019-07-12,True,Marketing Analyst,87,contract,Day,LOC003,,1,synthetic
+1073,Mei Wright,Marketing,Chicago,104500,4110.16,3.79,58,2019-09-18,True,Senior Marketing Analyst,67,Full-time,Day,LOC001,,1,synthetic
+1074,Lucy Park,IT,Denver,102700,4510.77,3.99,61,2019-01-31,True,Systems Engineer,74,Full-time,Evening,LOC005,,1,synthetic
+1075,Emma Ali,Sales,Atlanta,38500,853.9,2.43,12,2018-01-21,True,Account Executive,75,Part-time,Day,LOC007,,0.6,synthetic
+1076,Ruby Lee,Sales,Chicago,87600,3211.27,2.77,20,2021-04-29,True,Senior Account Executive,90,Full-time,Day,LOC011,,1,synthetic
+1077,Fatima Adams,Sales,New York,110200,6812.28,3.32,22,2025-08-08,True,Senior Account Executive,90,Full-time,Day,LOC013,,1,synthetic
+1078,Diego Lopez,Sales,Phoenix,79500,4750.54,3.23,23,2023-04-07,True,Senior Account Executive,70,Full-time,Day,LOC008,,1,synthetic
+1079,Jade Park,Sales,Atlanta,56900,3171.15,3.2,23,2023-07-14,True,Account Executive,75,Full-time,Day,LOC007,,1,synthetic
+1080,Bob Carter,Finance,New York,115000,5829.92,4.28,73,2022-02-20,True,Financial Analyst,68,Full-time,Day,LOC003,,1,synthetic
+1081,Fatima Kim,Marketing,Austin,70100,2887.14,3.82,60,2023-08-03,True,Marketing Analyst,82,Full-time,Day,LOC012,,1,synthetic
+1082,Nora Morgan,IT,Portland,110400,915.23,2.47,35,2019-08-16,True,Systems Engineer,69,Full-time,Evening,LOC010,,1,synthetic
+1083,Ryan Hall,Marketing,Austin,78500,918.63,2.51,35,2018-09-22,True,Marketing Analyst,87,Full-time,Day,LOC002,,1,synthetic
+1084,Ryan Morgan,Sales,Boston,80400,6007.43,3.6,26,2018-01-01,True,Account Executive,90,Full-time,Day,LOC014,,1,synthetic
+1085,Jade Garcia,Sales,Seattle,50900,2836.08,3.08,10,2023-12-28,False,Account Executive,90,Part-time,Day,LOC006,2026-05-30,0.6,synthetic
+1086,Theo Young,Marketing,Chicago,65700,2117.27,3.45,57,2024-11-29,True,Marketing Analyst,77,Full-time,Day,LOC001,,1,synthetic
+1087,Isla Green,IT,New York,124300,2989.23,3.08,40,2025-08-24,True,Systems Engineer,79,Full-time,Day,LOC003,,1,synthetic
+1088,Maya Morgan,IT,Austin,105100,64.13,2.09,30,2020-12-22,True,Systems Engineer,69,Full-time,Day,LOC002,,1,synthetic
+1089,Iris Park,IT,Austin,96400,,3.96,62,2019-10-19,True,Systems Engineer,89,Full-time,Day,LOC012,,1,synthetic
+1090,Ivan Singh,Marketing,New York,103100,3173.75,3.4,44,2021-02-12,False,Marketing Analyst,82,Full-time,Day,LOC013,2026-07-27,1,synthetic
+1091,Jade Patel,Marketing,Denver,114400,4285.07,3.7,59,2018-04-19,True,Senior Marketing Analyst,77,Full-time,Day,LOC015,,1,synthetic
+1092,Eric Lee,HR,Boston,84400,3035.95,3.64,59,2021-11-09,True,HR Specialist,66,Full-time,Day,LOC014,,1,synthetic
+1093,Ana Rivera,IT,Seattle,123300,0,3.31,49,2023-11-01,True,Systems Engineer,69,Contract,Day,LOC016,,1,synthetic
+1094,Emma Lopez,Sales,Dallas,51700,3759.15,3.41,14,2025-05-20,True,Senior Account Executive,90,Part-time,Day,LOC019,,0.6,synthetic
+1095,Theo Evans,Sales,Austin,63100,8518.5,4.75,32,2025-01-01,True,Account Executive,90,Full-time,Day,LOC012,,1,synthetic
+1096,Alex Evans,IT,Phoenix,119800,4978.98,3.81,52,2021-01-01,True,Senior Systems Engineer,74,Full-time,Day,LOC008,,1,synthetic
+1097,Adam Lee,Sales,Dallas,64800,0,3.41,23,2025-07-08,True,Account Executive,70,Contract,Day,LOC009,,1,synthetic
+1098,Finn Lee,Finance,Dallas,40400,1520.56,3.75,30,2025-08-11,True,Financial Analyst,68,Part-time,Day,LOC009,,0.6,synthetic
+1099,Eric Lopez,HR,Chicago,83500,2183.15,3.19,46,2024-04-02,False,Senior HR Specialist,86,Full-time,Day,LOC001,2026-07-21,1,synthetic
+1100,Ruby Hall, it ,Boston,149400,5826.06,3.79,56,2019-11-13,True,Senior Systems Engineer,89,Full-time,Day,LOC004,,1,synthetic
+1101,Ruby Morgan,Sales,Atlanta,44500,2434.63,,12,2024-03-09,True,Senior Account Executive,80,Part-time,Day,LOC007,,0.6,synthetic
+1102,Leo Young,Marketing,Chicago,70900,3618.18,4.22,59,2018-05-12,True,Marketing Analyst,67,Full-time,Day,LOC001,,1,synthetic
+1103,Zoe Davis,Sales,Austin,69800,0,,30,2025-05-03,True,Account Executive,75,Contract,Day,LOC002,,1,synthetic
+1104,Bob Taylor,IT,Dallas,94500,3293.36,3.59,44,2025-08-09,True,Systems Engineer,79,Full-time,Day,LOC019,,1,synthetic
+1105,Luis Young,IT,New York,64700,2252.2,3.58,29,2024-08-13,True,Systems Engineer,79,Part-time,Day,LOC003,,0.6,synthetic
+1106,Alex Lee,Sales,Phoenix,57800,3824.31,3.31,25,2022-11-25,True,Account Executive,80,Full-time,Day,LOC018,,1,synthetic
+1107,Hugo Young,HR,Seattle,83000,2330.55,3.23,35,2023-09-27,False,HR Specialist,86,Full-time,Day,LOC016,2026-05-03,1,synthetic
+1108,Sofia Ali,Marketing,Atlanta,83800,2964.88,3.57,51,2024-02-19,True,Senior Marketing Analyst,82,Full-time,Day,LOC017,,1,synthetic
+1109,Ava Chen,Finance,Denver,75700,2809.97,3.67,49,2025-03-21,True,Financial Analyst,73,Full-time,Day,LOC005,,1,synthetic
+1110,Nina Adams,Sales,New York,98500,12217.01,4.5,35,2020-08-12,True,Account Executive,70,Full-time,Day,LOC013,,1,synthetic
+1111,Mei Martin,Marketing,Boston,85100,2205.12,3.06,41,2021-03-17,True,Marketing Analyst,67,Full-time,Day,LOC004,,1,synthetic
+1112,Nora Reed,IT,New York,129600,4433.62,3.55,56,2020-10-02,True,Systems Engineer,74,Full-time,Day,LOC013,,1,synthetic
+1113,Ryan Reed,Finance,Chicago,79000,4035.17,,64,2022-08-06,True,Financial Analyst,83,Full-time,Day,LOC011,,1,synthetic
+1114,Alex Evans,Sales,Atlanta,97100,5481.35,3.12,24,2018-12-11,True,Senior Account Executive,80,Full-time,Day,LOC017,,1,synthetic
+1115,Isla Green,HR,Atlanta,59000,2059.8,3.57,55,2021-04-20,True,HR Specialist,66,Full-time,Day,LOC007,,1,synthetic
+1116,Eric Wright,HR,Dallas,67500,1137.32,2.84,43,2024-05-27,True,HR Specialist,86,full time,Day,LOC019,,1,synthetic
+1117,Maya Wright,IT,Boston,109900,2872.08,3.22,50,2018-02-27,True,Systems Engineer,79,Full-time,Day,LOC004,,1,synthetic
+1118,Ava Brooks,HR,Seattle,88000,4007.59,4.06,54,2021-06-20,True,HR Specialist,76,Full-time,Day,LOC016,,1,synthetic
+1119,Liam Taylor,Sales,Seattle,116300,9406.33,3.55,28,2020-11-17,True,Senior Account Executive,75,Full-time,Day,LOC006,,1,synthetic
+1120,Emma Clark,Sales,Denver,102400,12236.09,4.44,34,2019-11-16,True,Senior Account Executive,80,Full-time,Day,LOC005,,1,synthetic
+1121,Omar Reed,HR,Boston,78600,2527.01,3.38,51,2018-11-06,True,HR Specialist,76,Full-time,Day,LOC014,,1,synthetic
+1122,Diego Rivera,Finance,New York,90700,4271.34,4.08,64,2023-09-22,True,Financial Analyst,83,Full-time,Day,LOC003,,1,synthetic
+1123,Jade Brooks,Sales,Chicago,75700,10219.5,4.72,33,2024-12-03,True,Account Executive,85,Full-time,Day,LOC001,,1,synthetic
+1124,Adam Chen,Sales,New York,90500,7523.21,3.64,26,2021-03-09,True,Account Executive,70,Full-time,Day,LOC003,,1,synthetic
+1125,Leo Lopez,Sales,Atlanta,81500,4076.55,2.98,25,2024-12-30,True,Senior Account Executive,90,Full-time,Day,LOC007,,1,synthetic
+1126,Noah Rivera,IT,Atlanta,110200,3047.57,3.19,48,2019-09-19,True,Systems Engineer,69,Full-time,Day,LOC017,,1,synthetic
+1127,Lucy Hall,Marketing,Boston,128800,2578.64,2.87,49,2020-04-03,True,Senior Marketing Analyst,77,Full-time,Day,LOC004,,1,synthetic
+1128,Noah Chen,Finance,Austin,69500,2611.96,3.68,47,2021-08-08,True,Financial Analyst,83,Full-time,Day,LOC012,,1,synthetic
+1129,Iris Ali,IT,Boston,114700,2835.96,3.13,47,2024-07-09,True,Systems Engineer,74,Full-time,Day,LOC004,,1,synthetic
+1130,Finn Lopez,HR,New York,1031000,2678.34,3.16,46,2020-08-20,True,Senior HR Specialist,66,Full-time,Day,LOC013,,1,synthetic
+1131,Priya Wilson,Marketing,Phoenix,64800,3683.96,4.52,59,2018-06-26,True,Marketing Analyst,72,Full-time,Day,LOC008,,1,synthetic
+1132,Leo Lopez,Sales,Chicago,93200,7754.5,3.76,28,2023-11-01,True,Senior Account Executive,85,Full-time,Day,LOC011,,1,synthetic
+1133,Luis Young,Finance,New York,120100,6688.37,4.53,77,2024-06-16,True,Senior Financial Analyst,73,Full-time,Day,LOC013,,1,synthetic
+1134,Lily Shah,Sales,New York,82600,,2.88,19,2024-04-05,True,Account Executive,80,Contract,Day,LOC003,,1,synthetic
+1135,Sofia Clark,Finance,New York,67600,1798.71,3.18,21,2024-02-27,False,Financial Analyst,83,Part-time,Day,LOC003,2026-05-27,0.6,synthetic
+1136,Leo Taylor,Finance,Austin,92400,0,3.46,59,2024-03-18,True,Senior Financial Analyst,73,Contract,Day,LOC012,,1,synthetic
+1137,Ella Green,Sales,Dallas,69900,7171.42,4,28,2018-03-31,True,Account Executive,75,Full-time,Day,LOC019,,1,synthetic
+1138,Maya Taylor,Finance,Boston,143800,3743.26,3.17,49,2018-12-11,True,Senior Financial Analyst,83,Full-time,Day,LOC004,,1,synthetic
+1139,Zoe Chen,Sales,New York,79700,0,3.3,24,2022-02-14,True,Account Executive,70,Contract,Day,LOC013,,1,synthetic
+1140,Theo Singh,Marketing,Austin,77100,2604.27,3.47,55,2022-07-24,True,Marketing Analyst,87,Full-time,Day,LOC002,,1,synthetic
+1141,Ryan Morgan,Marketing,New York,86900,2805.15,3.48,56,2020-12-26,True,Marketing Analyst,87,Full-time,Day,LOC013,,1,synthetic
+1142,Lily Clark,IT,Denver,53500,,3.25,25,2023-11-10,True,Systems Engineer,79,Part-time,Night,LOC005,,0.6,synthetic
+1143,Liam Clark,Sales,Denver,83500,5193.12,3.24,13,2019-12-13,False,Account Executive,70,Full-time,Day,LOC015,2026-02-24,1,synthetic
+1144,Ava Diaz,Finance,Boston,133900,2362.77,2.91,33,2025-08-05,True,Senior Financial Analyst,68,Full-time,Day,LOC004,,1,synthetic
+1145,Iris Nguyen,Sales,Boston,115200,13495.52,4.34,31,2018-05-29,True,Senior Account Executive,70,Full-time,Day,LOC004,,1,synthetic
+1146,Nora Ali,Marketing,Boston,89500,2238.06,3.14,46,2020-09-18,True,Marketing Analyst,72,Full-time,Day,LOC004,,1,synthetic
+1147,Iris Martin,IT,New York,129200,4116.06,3.44,29,2021-08-24,False,Systems Engineer,84,Full-time,Day,LOC003,2026-03-19,1,synthetic
+1148,Ryan Ali,Sales,Boston,104000,7484.4,3.41,26,2025-01-26,True,Senior Account Executive,90,Full-time,Day,LOC004,,1,synthetic
+1149,Lucy Lee,Sales,Austin,68400,1527.67,2.43,21,2024-03-09,True,Account Executive,70,Full-time,Day,LOC002,,1,synthetic
+1150,Fatima Taylor,Sales,Chicago,68900,2481.24,2.81,20,2020-10-20,True,Account Executive,75,Full-time,Day,LOC001,,1,synthetic
+1151,Ana Shah,Marketing,Seattle,91900,3692.52,3.73,59,2021-04-25,True,Marketing Analyst,87,Full-time,Day,LOC006,,1,synthetic
+1152,Lily Hall,IT,Phoenix,111000,5256.73,4.12,64,2020-09-22,True,Senior Systems Engineer,79,Full-time,Day,LOC008,,1,synthetic
+1153,Ana Brooks,IT,Chicago,117900,3760.41,3.37,50,2024-01-16,True,Senior Systems Engineer,74,Full-time,Day,LOC011,,1,synthetic
+1154,Sara Wilson,Sales,New York,88200,0,2.9,23,2020-06-22,True,Account Executive,75,contract,Day,LOC003,,1,synthetic
+1155,Nina Morgan,IT,Phoenix,83100,1390.33,2.73,42,2024-01-15,True,Systems Engineer,84,Full-time,Evening,LOC008,,1,synthetic
+1156,Leo Chen,Sales,Denver,89200,6475,3.39,26,2022-08-30,True,Senior Account Executive,75,Full-time,Day,LOC015,,1,synthetic
+1157,Mike Wilson,Marketing,New York,110900,1759.66,,39,2019-06-09,True,Senior Marketing Analyst,77,Full-time,Day,LOC013,,1,synthetic
+1158,Grace Bennett,IT,New York,127700,3757.47,3.37,53,2021-02-14,True,Systems Engineer,79,Full-time,Day,LOC003,,1,synthetic
+1159,Alex Clark,Marketing,New York,102600,2319.86,3.08,49,2023-01-29,True,Marketing Analyst,82,Full-time,Day,LOC003,,1,synthetic
+1160,Bob Young,Sales,Dallas,62800,5781.36,3.82,26,2022-02-09,True,Account Executive,85,Full-time,Day,LOC019,,1,synthetic
+1161,Ana Morgan, it ,Dallas,107700,3385.61,3.38,37,2024-07-06,False,Senior Systems Engineer,79,Full-time,Evening,LOC019,2026-05-15,1,synthetic
+1162,Bob Martin,IT,Boston,155400,4690.47,3.38,48,2021-02-28,True,Senior Systems Engineer,69,Full-time,Day,LOC004,,1,synthetic
+1163,Ava Carter,HR,Chicago,64700,2479.32,3.7,53,2023-11-17,True,HR Specialist,86,Full-time,Day,LOC011,,1,synthetic
+1164,Omar Davis,HR,Phoenix,65200,3189.67,4.16,55,2021-10-25,True,HR Specialist,66,Full-time,Day,LOC008,,1,synthetic
+1165,Chen Lopez,Marketing,Boston,81700,2108.22,3.26,49,2022-11-23,True,Marketing Analyst,87,Full-time,Day,LOC004,,1,synthetic
+1166,Isla Young,IT,Chicago,113400,5091.37,4.01,59,2021-11-15,True,Systems Engineer,69,Full-time,Day,LOC001,,1,synthetic
+1167,Diego Lee,Finance,Boston,107800,4674.86,4.06,60,2018-02-04,True,Financial Analyst,73,Full-time,Day,LOC004,,1,synthetic
+1168,Sara Carter,Sales,Phoenix,70200,5972.1,3.71,26,2023-11-02,True,Account Executive,70,Full-time,Day,LOC018,,1,synthetic
+1169,Ana Ali,Sales,Dallas,80800,4340.78,3.06,22,2018-12-09,True,Senior Account Executive,80,Full-time,Day,LOC009,,1,synthetic
+1170,Hugo Garcia,Finance,Atlanta,75900,2318.68,3.46,51,2024-01-06,True,Financial Analyst,68,Full-time,Day,LOC017,,1,synthetic
+1171,Theo Rivera, finance ,New York,149700,5077.55,3.49,44,2018-02-26,True,Senior Financial Analyst,88,Full-time,Day,LOC003,,1,synthetic
+1172,Daniel Evans,HR,Boston,71900,3116.91,3.92,58,2024-11-29,True,HR Specialist,81,Full-time,Day,LOC004,,1,synthetic
+1173,Sofia Bennett,Sales,Atlanta,63100,5733.79,3.79,31,2021-06-16,True,Account Executive,75,Full-time,Day,LOC007,,1,synthetic
+1174,Ana Bennett,Finance,New York,120500,6093.65,4.28,30,2019-08-25,False,Financial Analyst,73,Full-time,Day,LOC003,2026-03-04,1,synthetic
+1175,Priya Garcia,Sales,Seattle,84200,4054.02,2.99,20,2018-08-05,True,Account Executive,90,Full-time,Day,LOC006,,1,synthetic
+1176,Mike Chen,Finance,Austin,74900,2061.09,3.22,47,2022-03-16,True,Financial Analyst,78,Full-time,Day,LOC002,,1,synthetic
+1177,Noah Shah,Sales,Atlanta,72300,1951.42,2.52,19,2022-10-10,True,Account Executive,70,Full-time,Day,LOC017,,1,synthetic
+1178,Daniel Young,HR,Denver,58500,1627.07,,54,2023-12-02,True,HR Specialist,81,Full-time,Day,LOC005,,1,synthetic
+1179,Jade Singh,Sales,New York,93700,8562.64,3.86,32,2018-01-10,True,Account Executive,85,Full-time,Day,LOC013,,1,synthetic
+1180,Hugo Chen,IT,Boston,116400,6058.14,4.37,72,2019-03-13,True,Systems Engineer,79,Full-time,Day,LOC004,,1,synthetic
+1181,Hugo Rivera,HR,Austin,74200,3978.32,4.37,66,2018-11-04,True,Senior HR Specialist,76,Full-time,Day,LOC012,,1,synthetic
+1182,Mei Patel,Finance,Chicago,78100,3676.14,4.14,72,2023-12-06,True,Financial Analyst,73,Full-time,Day,LOC001,,1,synthetic
+1183,Arjun Singh,Sales,New York,50300,2824.27,3.16,12,2022-04-06,True,Account Executive,85,Part-time,Day,LOC003,,0.6,synthetic
+1184,Bob Hall,Finance,Boston,84900,3504.93,3.81,58,2021-04-26,True,Financial Analyst,68,Full-time,Day,LOC004,,1,synthetic
+1185,Arjun Shah,Sales,Seattle,85800,7659.69,3.72,24,2019-07-07,True,Account Executive,80,Full-time,Day,LOC016,,1,synthetic
+1186,Ana Singh,Finance,Dallas,91600,1380.86,2.63,37,2018-05-18,True,Financial Analyst,88,Full-time,Day,LOC019,,1,synthetic
+1187,Noah Shah,Sales,Chicago,84500,0,3.47,23,2022-01-15,True,Senior Account Executive,90,Contract,Day,LOC001,,1,synthetic
+1188,Adam Patel,IT,Austin,84600,2530.74,3.36,46,2024-05-25,True,Systems Engineer,84,Full-time,Evening,LOC012,,1,synthetic
+1189,Liam Adams,Sales,New York,97900,3755.59,2.81,20,2018-07-28,True,Account Executive,90,Full-time,Day,LOC003,,1,synthetic
+1190,Ella Morgan,Finance, NEW YORK ,112300,2756.42,3.09,32,2019-02-20,False,Financial Analyst,88,Full-time,Day,LOC003,2026-05-02,1,synthetic
+1191,Arjun Clark,IT,Boston,162800,4078.72,3.22,45,2020-09-22,True,Senior Systems Engineer,74,Full-time,Evening,LOC014,,1,synthetic
+1192,Leo Park,IT,Atlanta,122000,0,3.02,44,2024-09-21,True,Senior Systems Engineer,69,Contract,Day,LOC007,,1,synthetic
+1193,Ana Diaz,Sales,Atlanta,40300,3957.51,4.02,13,2022-01-22,True,Account Executive,75,Part-time,Day,LOC007,,0.6,synthetic
+1194,Fatima Morgan,IT,Atlanta,102800,,3.4,57,2022-02-22,True,Systems Engineer,79,Full-time,Evening,LOC017,,1,synthetic
+1195,Mei Carter,Finance,Boston,118600,4881.95,3.85,59,2022-03-10,True,Senior Financial Analyst,78,Full-time,Day,LOC014,,1,synthetic
+1196,Ruby Brown,Sales,Denver,87900,4221.08,3.02,24,2024-11-07,True,Senior Account Executive,85,Full-time,Day,LOC005,,1,synthetic
+1197,Liam Taylor,Finance,Phoenix,41700,2108.07,4.28,31,2020-04-15,True,Financial Analyst,78,Part-time,Day,LOC008,,0.6,synthetic
+1198,Diego Young,Sales,Seattle,87600,9534.3,4.16,13,2020-10-17,False,Account Executive,80,Full-time,Day,LOC016,2026-02-03,1,synthetic
+1199,Isla Green,Finance,Austin,115800,3812.86,3.49,54,2019-12-30,True,Senior Financial Analyst,88,Full-time,Day,LOC012,,1,synthetic
+1200,Nora Brown,Finance,New York,106300,4486.29,3.9,59,2020-07-16,True,Financial Analyst,78,Full-time,Day,LOC013,,1,synthetic
+1201,Finn Hall,IT,Chicago,117800,5338.72,4.04,64,2019-02-27,True,Systems Engineer,84,Full-time,Evening,LOC001,,1,synthetic
+1202,Alex Brooks,IT,Chicago,92800,2589.57,3.21,52,2021-08-31,True,Systems Engineer,74,Full-time,Day,LOC011,,1,synthetic
+1203,Aisha Taylor,HR,Denver,48100,1235.15,3.12,25,2022-08-09,True,Senior HR Specialist,66,Part-time,Day,LOC015,,0.6,synthetic
+1204,Diego Wilson,Sales,Atlanta,64600,5993.79,3.93,27,2018-11-20,True,Account Executive,80,Full-time,Day,LOC017,,1,synthetic
+1205,Maya Nguyen,Sales,,68600,7341.96,4.13,30,2023-11-23,True,Account Executive,70,Full-time,Day,LOC011,,1,synthetic
+1206,Grace Wilson,Finance,Seattle,112200,4796.78,3.87,55,2025-03-22,True,Senior Financial Analyst,78,Full-time,Day,LOC016,,1,synthetic
+1207,Omar Clark,Sales,Atlanta,68500,5191.01,3.54,26,2020-12-12,True,Account Executive,90,Full-time,Day,LOC007,,1,synthetic
+1208,Eric Hall, sales ,Portland,81200,10162.83,4.45,31,2021-07-28,True,Account Executive,75,Full-time,Day,LOC020,,1,synthetic
+1209,Lily Young,HR,New York,81200,0,2.46,36,2021-01-14,True,HR Specialist,66,Contract,Day,LOC013,,1,synthetic
+1210,Grace Reed,Sales,Boston,51900,,3.7,16,2018-06-29,True,Account Executive,75,Part-time,Day,LOC014,,0.6,synthetic
+1211,Ava Patel,Marketing,New York,93400,3037.49,3.41,47,2022-06-19,True,Marketing Analyst,67,Full-time,Day,LOC013,,1,synthetic
+1212,Liam Lopez,Sales, SEATTLE ,73900,7730.03,4.04,29,2023-06-08,True,Account Executive,75,Full-time,Day,LOC016,,1,synthetic
+1213,Grace Wilson, finance ,Boston,92900,3672.59,3.74,61,2019-06-10,True,Financial Analyst,88,Full-time,Day,LOC004,,1,synthetic
+1214,Jade Nguyen,Sales,Chicago,96200,0,4.36,36,2021-12-28,True,Senior Account Executive,70,Contract,Day,LOC011,,1,synthetic
+1215,Lily Nguyen,Sales,New York,75500,3769.31,3.04,22,2025-02-27,True,Account Executive,75,Full-time,Day,LOC003,,1,synthetic
+1216,Diego Brooks,Marketing,Dallas,64400,2164.34,3.51,48,2022-04-19,True,Marketing Analyst,87,Full-time,Day,LOC019,,1,synthetic
+1217,Arjun Wright,IT,Phoenix,139600,3649.87,3.21,49,2019-04-27,True,Senior Systems Engineer,69,Full-time,Day,LOC018,,1,synthetic
+1218,Ivan Hall,Sales,Austin,64800,4263.94,3.36,23,2019-04-19,True,Account Executive,85,Full-time,Day,LOC002,,1,synthetic
+1219,Jade Reed,IT,New York,153600,1718.37,2.55,37,2020-06-14,True,Senior Systems Engineer,79,Full-time,Evening,LOC003,,1,synthetic
+1220,Ivan Martin,IT,New York,127300,5297.97,3.8,67,2020-12-22,True,Systems Engineer,74,Full-time,Evening,LOC003,,1,synthetic
+1221,Daniel Kim,IT,New York,150600,4607.97,3.36,50,2018-07-11,True,Senior Systems Engineer,79,Full-time,Day,LOC013,,1,synthetic
+1222,Mike Lopez,IT,Boston,121600,3628.94,3.27,51,2022-03-19,True,Systems Engineer,74,Full-time,Day,LOC014,,1,synthetic
+1223,Arjun Shah,Finance,Dallas,83000,2323.69,3.38,48,2024-12-03,True,Financial Analyst,68,Full-time,Day,LOC019,,1,synthetic
+1224,Ruby Carter,Finance,Boston,133200,3419.93,3.01,45,2023-12-24,True,Senior Financial Analyst,68,Full-time,Day,LOC004,,1,synthetic
+1225,Nina Singh,HR,Austin,78200,2463.58,3.43,47,2025-07-31,True,Senior HR Specialist,86,Full-time,Day,LOC012,,1,synthetic
+1226,Nina Reed,Finance,Boston,82700,2787.08,3.47,33,2024-01-14,False,Financial Analyst,78,Full-time,Day,LOC004,2026-05-23,1,synthetic
+1227,Priya Taylor,Finance,Austin,70200,898.39,,37,2025-01-17,True,Financial Analyst,73,Full-time,Day,LOC012,,1,synthetic
+1228,Chen Davis,Finance,Dallas,83600,4130.81,4.18,62,2025-03-09,True,Financial Analyst,78,Full-time,Day,LOC009,,1,synthetic
+1229,Daniel Hall,Finance,Denver,77500,2138.09,3.29,49,2022-04-05,True,Financial Analyst,68,Full-time,Day,LOC015,,1,synthetic
+1230,Lily Diaz,HR,Dallas,56000,1626.57,3.2,48,2023-04-12,True,HR Specialist,86,Full-time,Day,LOC019,,1,synthetic
+1231,Lily Young,HR,Atlanta,65700,3740.6,4.55,67,2024-12-12,True,HR Specialist,71,full time,Day,LOC017,,1,synthetic
+1232,Nora Reed,HR,New York,84800,1449.83,2.8,40,2019-04-10,True,HR Specialist,76,Full-time,Day,LOC003,,1,synthetic
+1233,Ryan Morgan,Sales,Denver,81300,7606.63,3.84,31,2018-06-01,True,Account Executive,90,Full-time,Day,LOC015,,1,synthetic
+1234,Liam Martin,Sales,Austin,93500,7162.11,3.59,26,2020-03-14,True,Senior Account Executive,80,Full-time,Day,LOC012,,1,synthetic
+1235,Liam Davis,Finance,Phoenix,98800,3839.13,3.75,49,2021-08-26,True,Senior Financial Analyst,78,Full-time,Day,LOC008,,1,synthetic
+1236,Jade Clark,IT,Atlanta,103900,2482.8,3.07,39,2020-08-03,False,Systems Engineer,79,Full-time,Evening,LOC017,2026-06-23,1,synthetic
+1237,Lily Evans,Sales,Boston,77900,4900.52,3.3,22,2025-08-15,True,Account Executive,70,Full-time,Day,LOC004,,1,synthetic
+1238,Daniel Wilson,Sales,Seattle,92200,9927.32,4.17,32,2020-09-08,True,Account Executive,90,Full-time,Day,LOC016,,1,synthetic
+1239,Grace Brown,HR,New York,74300,3295.91,3.93,58,2023-08-31,True,HR Specialist,71,Full-time,Day,LOC013,,1,synthetic
+1240,Chen Rivera,Sales,Atlanta,78700,9724.96,4.46,30,2022-07-07,True,Senior Account Executive,85,Full-time,Day,LOC017,,1,synthetic
+1241,Ivan Wright,Sales,Portland,75900,5355.14,3.41,27,2018-02-26,True,Account Executive,75,Full-time,Day,LOC020,,1,synthetic
+1242,Bob Reed,IT,Chicago,105000,2304.06,3.05,40,2022-02-03,True,Systems Engineer,74,Full-time,Night,LOC011,,1,synthetic
+1243,Hugo Lopez, marketing ,Boston,122000,1721.82,2.54,37,2019-04-16,True,Senior Marketing Analyst,72,Full-time,Day,LOC014,,1,synthetic
+1244,Aisha Patel,IT,New York,97000,1948.24,2.88,21,2024-10-30,True,Senior Systems Engineer,84,Part-time,Day,LOC013,,0.6,synthetic
+1245,Lily Chen,Sales,Seattle,79400,0,1.98,14,2025-02-26,True,Account Executive,90,Full-time,Day,LOC006,,1,synthetic
+1246,Daniel Davis,Sales,Boston,80200,3384.55,2.88,21,2019-07-16,True,Account Executive,70,Full-time,Day,LOC004,,1,synthetic
+1247,Fatima Diaz,Sales, ATLANTA ,81300,9184.69,4.25,32,2020-02-11,True,Senior Account Executive,70,Full-time,Day,LOC017,,1,synthetic
+1248,Aisha Park,IT,Austin,86900,3235.33,3.63,51,2019-11-24,True,Systems Engineer,69,Full-time,Evening,LOC002,,1,synthetic
+1249,Alex Lopez,IT, SEATTLE ,130400,2768.83,2.97,46,2018-05-29,True,Systems Engineer,74,Full-time,Night,LOC006,,1,synthetic
+1250,Ava Wright,IT,Denver,106100,3546.7,3.45,57,2023-09-08,True,Systems Engineer,69,Full-time,Day,LOC015,,1,synthetic
+1251,Nora Wright,Marketing,Seattle,89500,2454.25,3.16,50,2021-10-26,True,Marketing Analyst,67,Full-time,Day,LOC016,,1,synthetic
+1252,Liam Wilson, it ,Chicago,103200,3038.16,3.33,37,2025-10-27,True,Systems Engineer,84,Full-time,Evening,LOC001,,1,synthetic
+1253,Eric Davis,HR,Austin,54000,0,,42,2025-05-23,True,HR Specialist,81,Contract,Day,LOC002,,1,synthetic
+1254,Diego Nguyen,Finance, PHOENIX ,76800,2413.49,3.48,51,2023-12-18,True,Financial Analyst,88,Full-time,Day,LOC008,,1,synthetic
+1255,Fatima Taylor,Sales,Chicago,37700,,3.82,16,2024-03-03,True,Account Executive,70,Part-time,Day,LOC011,,0.6,synthetic
+1256,Lily Garcia,Finance,Dallas,85800,3610,3.86,53,2022-10-19,True,Financial Analyst,73,Full-time,Day,LOC009,,1,synthetic
+1257,Bob Taylor,Marketing,Portland,76200,29.56,1.95,28,2019-07-07,True,Marketing Analyst,67,Full-time,Day,LOC020,,1,synthetic
+1258,Ruby Wright,Finance,Boston,90600,2595.55,3.26,45,2022-12-18,True,Financial Analyst,83,Full-time,Day,LOC014,,1,synthetic
+1259,Iris Diaz,Sales,Dallas,95900,3072.74,2.68,18,2023-05-03,True,Senior Account Executive,90,Full-time,Day,LOC009,,1,synthetic
+1260,Bob Lopez,Marketing,Chicago,87300,,3.07,45,2018-05-28,True,Marketing Analyst,77,Full-time,Day,LOC001,,1,synthetic
+1261,Ella Shah,HR,Boston,75500,3689.87,4.17,66,2024-11-25,True,HR Specialist,66,Full-time,Day,LOC004,,1,synthetic
+1262,Daniel Martin,HR,Denver,66500,0,3.49,54,2018-06-17,True,HR Specialist,81,Contract,Day,LOC005,,1,synthetic
+1263,Fatima Adams,Sales,Boston,52000,3599.23,3.42,12,2020-01-01,True,Account Executive,75,Part-time,Day,LOC004,,0.6,synthetic
+1264,Ryan Clark,HR,Chicago,76400,2728.14,3.64,54,2024-01-27,True,Senior HR Specialist,71,Full-time,Day,LOC001,,1,synthetic
+1265,Maya Green,Marketing,Austin,82200,1637.95,,42,2019-03-26,True,Marketing Analyst,87,Full-time,Day,LOC012,,1,synthetic
+1266,Nora Nguyen,IT,Chicago,87400,4206.38,4.17,66,2023-01-31,True,Systems Engineer,74,Full-time,Day,LOC001,,1,synthetic
+1267,Ava Park,IT,Chicago,134100,6271.85,4.06,67,2024-02-07,True,Senior Systems Engineer,74,Full-time,Evening,LOC011,,1,synthetic
+1268,Eric Shah,IT,Chicago,98400,1788.38,2.86,46,2023-02-23,True,Systems Engineer,69,Full-time,Day,LOC011,,1,synthetic
+1269,Chen Rivera,IT,Seattle,123300,6346.97,4.33,71,2022-05-15,True,Systems Engineer,74,Full-time,Day,LOC006,,1,synthetic
+1270,Luis Diaz,IT,Seattle,136800,6481.73,4.11,56,2018-11-23,True,Systems Engineer,79,Full-time,Day,LOC016,,1,synthetic
+1271,Omar Brown,Sales,Boston,79600,7501.39,3.9,26,2021-11-07,True,Account Executive,85,Full-time,Day,LOC014,,1,synthetic
+1272,Adam Reed,Finance,Denver,77600,,3.72,57,2022-10-26,True,Financial Analyst,73,Full-time,Day,LOC005,,1,synthetic
+1273,Zoe Lopez,IT,Atlanta,112100,2866.08,3.11,51,2021-10-01,True,Senior Systems Engineer,74,Full-time,Evening,LOC007,,1,synthetic
+1274,Nora Lopez,HR,Boston,73500,331.05,2.24,31,2025-07-25,True,HR Specialist,66,Full-time,Day,LOC014,,1,synthetic
+1275,Aisha Brown,HR,Portland,60000,1559.06,3.09,43,2024-04-08,True,HR Specialist,76,Full-time,Day,LOC010,,1,synthetic
+1276,Priya Ali,HR,Chicago,61900,2629.1,3.88,59,2021-04-20,True,HR Specialist,76,Full-time,Day,LOC001,,1,synthetic
+1277,Bob Rivera,Marketing,Austin,80900,3302.48,3.82,60,2018-02-27,True,Marketing Analyst,82,Full-time,Day,LOC002,,1,synthetic
+1278,Adam Wright, hr ,Portland,80300,1634.19,2.79,40,2018-01-15,True,HR Specialist,86,Full-time,Day,LOC010,,1,synthetic
+1279,Jade Morgan,Finance,Austin,80200,1953.21,3.16,48,2019-06-02,True,Financial Analyst,78,Full-time,Day,LOC012,,1,synthetic
+1280,Luis Martin,Marketing,New York,88100,1487.4,2.79,44,2019-08-04,True,Marketing Analyst,72,Full-time,Day,LOC003,,1,synthetic
+1281,Lily Brooks,Finance,Boston,88700,,3.41,54,2019-06-16,True,Financial Analyst,83,Full-time,Day,LOC004,,1,synthetic
+1282,Arjun Davis,Sales,Boston,52900,5370.47,4.05,17,2019-06-21,True,Account Executive,90,Part-time,Day,LOC004,,0.6,synthetic
+1283,Aisha Brooks,IT,Chicago,98100,4834.69,4.22,65,2019-11-21,True,Systems Engineer,84,Full-time,Evening,LOC001,,1,synthetic
+1284,Ivan Reed,IT,Chicago,103000,3365.71,3.47,54,2021-07-28,True,Systems Engineer,74,Full-time,Day,LOC001,,1,synthetic
+1285,Finn Ali,Finance,Phoenix,91700,4683.88,4.26,71,2020-08-30,True,Senior Financial Analyst,68,Full-time,Day,LOC008,,1,synthetic
+1286,Maya Evans,Finance,Atlanta,84900,2946.01,3.52,59,2024-02-10,True,Financial Analyst,88,Full-time,Day,LOC017,,1,synthetic
+1287,Maya Bennett,IT,Seattle,117400,4139.51,3.55,55,2023-08-05,True,Systems Engineer,69,Full-time,Day,LOC016,,1,synthetic
+1288,Bob Clark,Finance,Boston,103300,4351.58,3.89,56,2022-03-27,True,Financial Analyst,68,Full-time,Day,LOC014,,1,synthetic
+1289,Daniel Chen,IT,Boston,117900,0,2.83,42,2023-09-12,True,Systems Engineer,89,Contract,Day,LOC004,,1,synthetic
+1290,Jade Green,Finance,Chicago,75500,1795.3,3.05,46,2023-03-29,True,Financial Analyst,83,Full-time,Day,LOC011,,1,synthetic
+1291,Chen Park,Sales,Denver,81700,4735.7,3.18,21,2022-02-13,True,Account Executive,80,Full-time,Day,LOC015,,1,synthetic
+1292,Luis Rivera,Marketing,Seattle,94600,4317.9,4.12,60,2018-08-14,True,Marketing Analyst,87,Full-time,Day,LOC006,,1,synthetic
+1293,Ella Green,Sales,New York,109300,8137.62,3.42,27,2022-02-11,True,Senior Account Executive,75,Full-time,Day,LOC013,,1,synthetic
+1294,Arjun Bennett,HR,Austin,84600,2613.46,3.21,22,2020-06-14,False,Senior HR Specialist,76,Full-time,Day,LOC012,2026-02-09,1,synthetic
+1295,Alex Kim,IT,New York,1197000,3920.09,3.49,53,2020-11-15,True,Systems Engineer,69,Full-time,Day,LOC013,,1,synthetic
+1296,Maya Lopez,Sales,Dallas,38100,2519.64,3.33,13,2022-06-02,True,Account Executive,85,Part-time,Day,LOC019,,0.6,synthetic
+1297,Aisha Chen,Marketing,Denver,97100,5228.07,4.33,63,2025-01-07,True,Senior Marketing Analyst,87,Full-time,Day,LOC015,,1,synthetic
+1298,Nora Park,Finance,New York,146800,8918.1,4.66,61,2018-11-09,True,Senior Financial Analyst,68,Full-time,Day,LOC003,,1,synthetic
+1299,Mike Wright,IT,Phoenix,124200,0,3.9,54,2019-05-26,True,Senior Systems Engineer,89,Contract,Day,LOC018,,1,synthetic
+1300,Sofia Bennett,IT,Chicago,96200,3420.29,3.65,54,2024-02-25,True,Systems Engineer,79,Full-time,Day,LOC001,,1,synthetic
+1301,Bob Lee,Sales,Dallas,74100,4591.17,3.28,25,2023-07-03,True,Account Executive,85,Full-time,Day,LOC009,,1,synthetic
+1302,Nora Brown,IT,New York,121000,4137.1,3.46,59,2022-10-11,True,Systems Engineer,89,Full-time,Day,LOC003,,1,synthetic
+1303,Ryan Taylor,Sales,New York,83100,1545.39,2.46,18,2023-07-20,True,Account Executive,80,Full-time,Day,LOC013,,1,synthetic
+1304,Sara Brooks,IT,Chicago,92000,2828.08,3.45,56,2022-01-26,True,Systems Engineer,74,Full-time,Day,LOC001,,1,synthetic
+1305,Sara Patel,Sales,Seattle,84100,8572.15,4,26,2025-08-29,True,Account Executive,90,Full-time,Day,LOC006,,1,synthetic
+1306,Aisha Clark,Finance,Austin,79100,3130.35,3.84,47,2023-06-12,True,Financial Analyst,78,Full-time,Day,LOC012,,1,synthetic
+1307,Finn Carter,Finance,New York,133000,4053.89,3.38,51,2022-07-15,True,Senior Financial Analyst,68,Full-time,Day,LOC003,,1,synthetic
+1308,Liam Reed,Finance,Seattle,59200,1201.31,2.87,24,2022-11-28,True,Financial Analyst,88,Part-time,Day,LOC006,,0.6,synthetic
+1309,Ava Kim,Finance,New York,87000,3307.22,3.7,49,2024-11-03,True,Financial Analyst,83,Full-time,Day,LOC003,,1,synthetic
+1310,Chen Nguyen,HR,Boston,76200,2127.08,3.22,42,2018-01-16,True,HR Specialist,71,Full-time,Day,LOC014,,1,synthetic
+1311,Ava Wright,IT,Portland,125000,4284.26,3.6,58,2018-02-19,True,Systems Engineer,74,Full-time,Day,LOC010,,1,synthetic
+1312,Fatima Young,Sales,Denver,38900,4346.76,4.35,19,2025-03-29,True,Account Executive,80,Part-time,Day,LOC005,,0.6,synthetic
+1313,Jade Green,Marketing,New York,77200,1933.35,3.15,47,2025-06-13,True,Marketing Analyst,82,Full-time,Day,LOC013,,1,synthetic
+1314,Nora Wilson,Finance,Austin,74100,2468.76,,47,2022-04-22,True,Financial Analyst,83,Full-time,Day,LOC002,,1,synthetic
+1315,Luis Evans,Finance,Atlanta,115500,4231.49,3.71,55,2020-01-06,True,Senior Financial Analyst,78,Full-time,Day,LOC017,,1,synthetic
+1316,Isla Garcia,Marketing,Denver,71600,0,3.48,48,2025-01-03,True,Marketing Analyst,82,Contract,Day,LOC015,,1,synthetic
+1317,Ivan Ali,HR,Denver,66500,1747.14,3.2,20,2026-02-14,True,HR Specialist,86,Full-time,Day,LOC015,,1,synthetic
+1318,Ivan Shah,IT,Chicago,100300,4350.68,3.85,62,2020-03-15,True,Systems Engineer,74,Full-time,Evening,LOC001,,1,synthetic
+1319,Lucy Park,HR,New York,48800,853.53,2.72,25,2024-08-07,True,HR Specialist,81,Part-time,Day,LOC003,,0.6,synthetic
+1320,Sofia Brown,Sales,Austin,90800,5795.94,3.42,21,2023-01-30,True,Senior Account Executive,85,Full-time,Day,LOC002,,1,synthetic
+1321,Ivan Taylor,Marketing,Denver,100900,4852.42,4.18,62,2019-07-03,True,Senior Marketing Analyst,72,Full-time,Day,LOC005,,1,synthetic
+1322,Omar Young,IT,Seattle,124800,4229.26,3.5,53,2023-01-14,True,Systems Engineer,74,Full-time,Day,LOC006,,1,synthetic
+1323,Lucy Singh,Finance,Boston,60000,1878.65,3.4,28,2018-03-09,True,Financial Analyst,68,part time,Day,LOC014,,0.6,synthetic
+1324,Mike Garcia,IT,New York,114900,2489.86,2.86,44,2025-03-04,True,Systems Engineer,69,Full-time,Day,LOC003,,1,synthetic
+1325,Theo Ali,Sales,Boston,79900,5349.91,3.45,26,2019-12-06,True,Account Executive,85,Full-time,Day,LOC014,,1,synthetic
+1326,Daniel Reed,Sales,Portland,70200,4746.62,3.33,26,2020-08-30,True,Account Executive,70,Full-time,Day,LOC020,,1,synthetic
+1327,Diego Wright,IT,Chicago,96200,3047.62,3.36,52,2018-09-01,True,Systems Engineer,69,Full-time,Day,LOC001,,1,synthetic
+1328,Emma Davis,HR,Phoenix,39900,1375.89,3.61,29,2018-02-10,True,HR Specialist,66,Part-time,Day,LOC008,,0.6,synthetic
+1329,Zoe Davis,HR,New York,75200,1423.05,2.86,47,2025-03-29,True,HR Specialist,66,Full-time,Day,LOC003,,1,synthetic
+1330,Finn Wright,Sales,Seattle,73100,7335.66,4.07,31,2023-11-02,True,Account Executive,75,Full-time,Day,LOC006,,1,synthetic
+1331,Bob Wright,Finance,Dallas,81400,3544.96,4.04,63,2021-10-25,True,Financial Analyst,78,Full-time,Day,LOC019,,1,synthetic
+1332,Sara Davis,HR,New York,117300,3788.31,3.38,46,2022-08-28,True,Senior HR Specialist,76,Full-time,Day,LOC003,,1,synthetic
+1333,Alex Evans,Sales,Phoenix,66200,6498.16,3.99,29,2025-02-21,True,Account Executive,75,Full-time,Day,LOC018,,1,synthetic
+1334,Emma Hall,IT,Seattle,122000,5555.04,4.05,65,2024-04-04,True,Systems Engineer,84,Full-time,Day,LOC006,,1,synthetic
+1335,Bob Patel,Finance,Chicago,96400,4795.1,4.26,65,2021-09-16,True,Senior Financial Analyst,73,Full-time,Day,LOC001,,1,synthetic
+1336,Sara Diaz,Marketing,Boston,45600,1911.36,3.82,30,2025-02-02,True,Marketing Analyst,77,Part-time,Day,LOC014,,0.6,synthetic
+1337,Isla Morgan,Sales,Portland,102400,9063,3.76,25,2023-11-22,True,Senior Account Executive,90,Full-time,Day,LOC020,,1,synthetic
+1338,Ruby Carter,Marketing,New York,88100,0,4.25,58,2020-12-11,True,Marketing Analyst,77,Contract,Day,LOC003,,1,synthetic
+1339,Mike Singh,Finance, AUSTIN ,90400,5491.8,4.72,71,2022-07-18,True,Senior Financial Analyst,78,Full-time,Day,LOC012,,1,synthetic
+1340,Ava Brooks,Sales,Phoenix,61500,0,,14,2025-04-07,True,Account Executive,75,Contract,Day,LOC018,,1,synthetic
+1341,Daniel Brown,Sales,New York,112000,10479.56,3.89,28,2021-10-19,True,Senior Account Executive,90,Full-time,Day,LOC003,,1,synthetic
+1342,Aisha Brooks,Sales,New York,90300,4588.75,3.08,20,2024-08-30,True,Account Executive,70,Full-time,Day,LOC003,,1,synthetic
+1343,Maya Chen,Finance,Seattle,109200,3655.52,3.55,54,2018-06-30,True,Financial Analyst,88,Full-time,Day,LOC006,,1,synthetic
+1344,Daniel Shah,Finance,Denver,89300,2636.89,3.36,49,2019-03-02,True,Financial Analyst,78,Full-time,Day,LOC005,,1,synthetic
+1345,Alex Brown,Marketing,Chicago,78000,2055.24,3.21,42,2025-01-26,True,Marketing Analyst,82,Full-time,Day,LOC011,,1,synthetic
+1346,Noah Lee,Sales,Phoenix,63000,5679.25,3.79,27,2025-08-01,True,Account Executive,85,Full-time,Day,LOC018,,1,synthetic
+1347,Lucy Clark,Finance,New York,132400,4055.58,3.34,47,2024-12-22,True,Senior Financial Analyst,83,Full-time,Day,LOC003,,1,synthetic
+1348,Zoe Rivera,Finance,Seattle,102600,4809,4.08,54,2022-09-28,False,Financial Analyst,88,Full-time,Day,LOC006,2026-07-08,1,synthetic
+1349,Iris Lee,IT,Austin,97200,3401.19,3.48,52,2025-03-17,True,Systems Engineer,69,Full-time,Evening,LOC012,,1,synthetic
+1350,Chen Davis,Finance,Phoenix,90300,3399.28,3.65,53,2018-04-12,True,Financial Analyst,88,Full-time,Day,LOC018,,1,synthetic
+1351,Ava Adams,IT,Chicago,112900,5190.54,4.02,58,2023-08-17,True,Senior Systems Engineer,89,Full-time,Day,LOC011,,1,synthetic
+1352,Iris Shah,Marketing,Austin,93200,2562.81,3.22,46,2019-02-08,True,Senior Marketing Analyst,67,Full-time,Day,LOC002,,1,synthetic
+1353,Zoe Clark, hr ,Boston,86700,2090.43,3.05,42,2020-06-18,True,HR Specialist,71,Full-time,Day,LOC004,,1,synthetic
+1354,Nora Evans,Marketing,Boston,78800,2728.15,3.54,50,2020-09-04,True,Marketing Analyst,82,Full-time,Day,LOC014,,1,synthetic
+1355,Lily Young,Sales,New York,102600,6935.64,3.32,23,2018-03-30,True,Account Executive,70,Full-time,Day,LOC003,,1,synthetic
+1356,Fatima Wright,IT,New York,139900,6553.18,4.12,58,2020-12-23,True,Systems Engineer,84,Full-time,Day,LOC013,,1,synthetic
+1357,Ana Diaz,Marketing,Portland,81300,3709.01,4.11,58,2018-10-19,True,Marketing Analyst,72,Full-time,Day,LOC020,,1,synthetic
+1358,Arjun Rivera, it ,Atlanta,135900,2544.58,2.89,41,2020-01-21,True,Senior Systems Engineer,69,Full-time,Evening,LOC017,,1,synthetic
+1359,Ana Patel,Sales,Phoenix,70400,6012.64,3.78,29,2021-02-01,True,Account Executive,85,Full-time,Day,LOC008,,1,synthetic
+1360,Isla Davis,IT,Chicago,99900,4170.36,3.94,58,2025-04-01,True,Systems Engineer,69,Full-time,Day,LOC001,,1,synthetic
+1361,Arjun Morgan,Marketing,Seattle,52000,2297.75,3.91,33,2023-03-05,True,Marketing Analyst,72,Part-time,Day,LOC006,,0.6,synthetic
+1362,Mike Brooks,Marketing,Boston,74900,2844.37,3.69,51,2023-07-17,True,Marketing Analyst,72,Full-time,Day,LOC014,,1,synthetic
+1363,Alex Ali,IT,Dallas,96700,4886.03,4.32,71,2018-01-30,True,Systems Engineer,89,Full-time,Day,LOC009,,1,synthetic
+1364,Aisha Davis,Marketing,Chicago,72700,1985.32,3.16,46,2023-09-23,True,Marketing Analyst,67,Full-time,Day,LOC001,,1,synthetic
+1365,Arjun Diaz,Sales,Seattle,90200,6357.88,3.42,22,2022-08-24,True,Account Executive,90,Full-time,Day,LOC006,,1,synthetic
+1366,Maya Bennett,HR,Chicago,96000,0,3.51,52,2022-12-01,True,Senior HR Specialist,86,Contract,Day,LOC011,,1,synthetic
+1367,Diego Chen,Finance,New York,105900,2438.59,3.01,41,2021-07-13,True,Financial Analyst,88,Full-time,Day,LOC003,,1,synthetic
+1368,Ella Morgan,Marketing,Atlanta,73200,0,3.3,43,2023-08-07,True,Marketing Analyst,87,Contract,Day,LOC007,,1,synthetic
+1369,Mei Nguyen,Sales,Phoenix,66700,7539.1,,30,2025-07-18,True,Account Executive,75,Full-time,Day,LOC008,,1,synthetic
+1370,Bob Patel,IT,Phoenix,92000,3730.38,3.76,56,2024-09-16,True,Systems Engineer,74,Full-time,Day,LOC018,,1,synthetic
+1371,Ana Clark,Sales,Chicago,96200,6536.73,3.31,22,2019-05-05,True,Senior Account Executive,75,Full-time,Day,LOC001,,1,synthetic
+1372,Diego Shah,IT,Chicago,126100,1801.92,2.57,40,2018-09-16,False,Senior Systems Engineer,74,Full-time,Day,LOC001,2026-08-26,1,synthetic
+1373,Mei Brown,Finance,Portland,103900,3933.46,3.72,55,2023-11-21,True,Senior Financial Analyst,78,Full-time,Day,LOC020,,1,synthetic
+1374,Jade Brown,IT,Dallas,89300,2063.71,3.08,45,2023-03-07,True,Systems Engineer,69,Full-time,Evening,LOC009,,1,synthetic
+1375,Priya Adams,Finance,New York,108800,4631.03,3.87,40,2024-10-12,False,Financial Analyst,83,Full-time,Day,LOC013,2026-04-27,1,synthetic
+1376,Emma Nguyen,Finance,Denver,84800,1549.46,,39,2025-04-24,True,Financial Analyst,68,Full-time,Day,LOC015,,1,synthetic
+1377,Ana Patel,Finance,Austin,98100,4815.32,4.28,44,2025-10-01,True,Senior Financial Analyst,88,Full-time,Day,LOC012,,1,synthetic
+1378,Ruby Shah,Marketing,Austin,83500,2456.69,3.34,52,2023-04-19,True,Senior Marketing Analyst,77,Full-time,Day,LOC012,,1,synthetic
+1379,Isla Hall,Marketing,Chicago,103600,2729.4,3.17,48,2025-04-13,True,Senior Marketing Analyst,82,Full-time,Day,LOC001,,1,synthetic
+1380,Ivan Wright,IT,Seattle,116700,6331.02,4.41,67,2019-09-29,True,Systems Engineer,89,Full-time,Evening,LOC006,,1,synthetic
+1381,Emma Shah,HR,New York,74400,807.84,2.47,34,2022-05-02,True,HR Specialist,86,Full-time,Day,LOC013,,1,synthetic
+1382,Ivan Martin,Marketing,Phoenix,56800,669.37,2.52,22,2020-03-03,True,Senior Marketing Analyst,82,Part-time,Day,LOC018,,0.6,synthetic
+1383,Lily Rivera, sales ,Austin,44200,3885.72,3.77,16,2023-02-24,True,Account Executive,90,Part-time,Day,LOC012,,0.6,synthetic
+1384,Priya Reed,Sales,New York,93900,7352.34,3.56,28,2021-10-29,True,Account Executive,70,Full-time,Day,LOC003,,1,synthetic
+1385,Mike Wright,Sales,New York,122500,10702.39,3.72,28,2021-02-13,True,Senior Account Executive,70,Full-time,Day,LOC013,,1,synthetic
+1386,Lily Davis,Sales,Boston,71800,3999.7,3.1,22,2022-03-23,True,Account Executive,70,Full-time,Day,LOC004,,1,synthetic
+1387,Daniel Carter,Marketing,Phoenix,76100,3515.51,4.02,59,2021-10-08,True,Marketing Analyst,72,Full-time,Day,LOC008,,1,synthetic
+1388,Lucy Nguyen,Marketing,Dallas,56200,1933.02,3.52,33,2023-10-28,True,Senior Marketing Analyst,87,Part-time,Day,LOC009,,0.6,synthetic
+1389,Jade Lopez,IT,New York,90200,2284.08,3.08,14,2021-05-01,False,Senior Systems Engineer,79,Part-time,Day,LOC013,2026-02-26,0.6,synthetic
+1390,Ava Ali,Finance,Denver,91800,3286.91,3.64,58,2023-09-09,True,Financial Analyst,73,Full-time,Day,LOC015,,1,synthetic
+1391,Sofia Young, finance ,Denver,85300,2494.39,3.34,47,2018-12-25,True,Financial Analyst,73,Full-time,Day,LOC015,,1,synthetic
+1392,Finn Garcia,Sales,Austin,64800,,3.71,26,2022-10-25,True,Account Executive,70,Full-time,Day,LOC012,,1,synthetic
+1393,Jade Bennett,Sales,Seattle,90300,8521.93,3.87,28,2018-08-21,True,Account Executive,85,Full-time,Day,LOC006,,1,synthetic
+1394,Ruby Ali,HR,Denver,81300,3585.17,3.95,58,2018-11-06,True,Senior HR Specialist,86,Full-time,Day,LOC005,,1,synthetic
+1395,Daniel Morgan,IT,Boston,144600,2553.61,2.81,47,2022-06-22,True,Senior Systems Engineer,69,Full-time,Day,LOC014,,1,synthetic
+1396,Ava Singh,Finance,New York,105300,2577.78,3.14,48,2023-02-11,True,Financial Analyst,88,Full-time,Day,LOC003,,1,synthetic
+1397,Ana Kim,IT,Phoenix,105000,0,3.56,54,2025-07-29,True,Senior Systems Engineer,79,Contract,Day,LOC008,,1,synthetic
+1398,Alex Park,Sales,Austin,79000,5337.2,3.37,28,2019-06-19,True,Senior Account Executive,75,Full-time,Day,LOC002,,1,synthetic
+1399,Mike Green,Marketing,New York,86600,3569.25,3.9,57,2018-10-10,True,Marketing Analyst,67,Full-time,Day,LOC013,,1,synthetic
+1400,Lucy Green,Finance,Chicago,107400,1506.27,2.61,30,2022-06-27,False,Senior Financial Analyst,73,Full-time,Day,LOC011,2026-05-20,1,synthetic
+1401,Mei Shah,HR,New York,73200,,3.74,60,2025-03-07,True,HR Specialist,71,Full-time,Day,LOC013,,1,synthetic
+1402,Liam Park,Sales,Dallas,77200,2982.65,2.9,19,2019-08-29,True,Account Executive,75,Full-time,Day,LOC019,,1,synthetic
+1403,Zoe Lopez,Sales,Portland,76700,3292.69,2.85,19,2021-06-03,True,Account Executive,85,Full-time,Day,LOC020,,1,synthetic
+1404,Daniel Nguyen,Sales,Portland,79700,0,3.68,24,2022-01-25,True,Account Executive,75,Contract,Day,LOC020,,1,synthetic
+1405,Priya Garcia,HR,,75500,2986.1,3.77,58,2019-08-04,True,HR Specialist,71,Full-time,Day,LOC014,,1,synthetic
+1406,Ruby Patel,Finance,New York,66600,2942.34,3.92,33,2023-07-03,True,Financial Analyst,83,Part-time,Day,LOC013,,0.6,synthetic
+1407,Daniel Diaz,IT,Seattle,129700,4485.74,3.53,55,2023-03-09,True,Systems Engineer,69,Full-time,Day,LOC006,,1,synthetic
+1408,Maya Kim,IT,New York,164500,4131.99,3.05,47,2019-04-28,True,Senior Systems Engineer,79,Full-time,Evening,LOC003,,1,synthetic
+1409,Adam Wilson,Marketing,Denver,76500,2474.05,3.43,45,2019-11-19,True,Marketing Analyst,72,Full-time,Day,LOC005,,1,synthetic
+1410,Theo Brown,Sales,Portland,65600,5475.89,3.63,29,2023-10-30,True,Account Executive,90,Full-time,Day,LOC010,,1,synthetic
+1411,Diego Bennett,Sales,Boston,76100,10197.74,4.66,33,2023-11-02,True,Account Executive,85,Full-time,Day,LOC004,,1,synthetic
+1412,Aisha Wright,HR,New York,88000,2487.26,3.34,44,2018-01-25,True,HR Specialist,71,Full-time,Day,LOC003,,1,synthetic
+1413,Ruby Adams,Sales,New York,122900,5710.9,2.9,21,2021-06-22,True,Senior Account Executive,70,Full-time,Day,LOC003,,1,synthetic
+1414,Diego Wilson,Sales,New York,820000,5180.65,3.23,14,2022-04-02,False,Account Executive,80,Full-time,Day,LOC003,2026-04-20,1,synthetic
+1415,Zoe Davis,Marketing,Denver,69100,2252.42,3.46,53,2021-01-13,True,Marketing Analyst,67,Full-time,Day,LOC015,,1,synthetic
+1416,Zoe Davis,Sales,Austin,80500,7512.69,3.9,30,2022-03-11,True,Senior Account Executive,85,Full-time,Day,LOC012,,1,synthetic
+1417,Eric Green,IT,,119000,2892.77,3.09,44,2023-08-19,True,Systems Engineer,89,Full-time,Day,LOC014,,1,synthetic
+1418,Sara Chen,IT,New York,82100,2142.1,3.13,27,2023-06-21,True,Systems Engineer,89,Part-time,Day,LOC003,,0.6,synthetic
+1419,Diego Singh,Sales,Austin,57800,5978.71,4.07,31,2025-03-01,True,Account Executive,70,Full-time,Day,LOC012,,1,synthetic
+1420,Priya Green,Finance,New York,106500,3916.12,3.63,29,2025-12-16,True,Financial Analyst,68,Full-time,Day,LOC003,,1,synthetic
+1421,Liam Chen,IT,Dallas,143300,3090.02,2.96,45,2020-08-18,True,Senior Systems Engineer,84,Full-time,Night,LOC019,,1,synthetic
+1422,Bob Evans,HR,Denver,73800,,4.47,72,2018-09-14,True,HR Specialist,66,Full-time,Day,LOC005,,1,synthetic
+1423,Liam Davis,IT,Atlanta,99200,5007.78,4.28,66,2023-03-13,True,Systems Engineer,79,Full-time,Day,LOC007,,1,synthetic
+1424,Omar Park,IT,Austin,131200,7186.43,4.57,70,2023-03-17,True,Senior Systems Engineer,89,Full-time,Day,LOC002,,1,synthetic
+1425,Nina Garcia,Finance,Denver,79200,2312.26,3.26,51,2019-05-26,True,Financial Analyst,68,Full-time,Day,LOC005,,1,synthetic
+1426,Lucy Kim,Finance,Portland,85100,2744.01,3.53,55,2018-08-02,True,Financial Analyst,78,Full-time,Day,LOC020,,1,synthetic
+1427,Ruby Lee,Marketing,New York,129900,2384.1,2.8,42,2018-08-09,True,Senior Marketing Analyst,77,Full-time,Day,LOC013,,1,synthetic
+1428,Aisha Wright,IT,Boston,118900,2627.58,3.03,49,2022-04-02,True,Systems Engineer,84,Full-time,Day,LOC014,,1,synthetic
+1429,Hugo Brooks,IT,Chicago,98500,,4,57,2021-02-12,True,Systems Engineer,74,Full-time,Day,LOC001,,1,synthetic
+1430,Priya Morgan,IT,Austin,90000,2149.76,2.98,40,2019-06-03,True,Systems Engineer,69,Full-time,Evening,LOC012,,1,synthetic
+1431,Ryan Clark,Marketing,Atlanta,77200,3810.36,4.15,57,2022-04-22,True,Marketing Analyst,87,Full-time,Day,LOC007,,1,synthetic
+1432,Noah Park,IT,Boston,127000,2497.69,2.85,39,2020-08-07,True,Systems Engineer,74,Full-time,Day,LOC014,,1,synthetic
+1433,Adam Shah,Sales,Portland,68300,4857.39,3.37,23,2024-02-13,True,Account Executive,90,Full-time,Day,LOC010,,1,synthetic
+1434,Diego Evans, marketing ,New York,88200,2362.99,,46,2021-08-22,True,Marketing Analyst,72,Full-time,Day,LOC003,,1,synthetic
+1435,Nora Green,HR,Chicago,68700,1348.07,2.91,43,2022-03-10,True,HR Specialist,76,Full-time,Day,LOC011,,1,synthetic
+1436,Omar Taylor,Marketing,Boston,88000,4081.74,4.08,59,2018-11-10,True,Marketing Analyst,87,Full-time,Day,LOC004,,1,synthetic
+1437,Aisha Park,Sales,Dallas,96400,6824.39,3.38,26,2019-05-04,True,Senior Account Executive,80,Full-time,Day,LOC009,,1,synthetic
+1438,Iris Carter,Marketing,Seattle,80700,3405.33,3.85,59,2022-04-06,True,Marketing Analyst,67,Full-time,Day,LOC006,,1,synthetic
+1439,Iris Young,Finance,Phoenix,76600,1250.42,2.66,41,2024-03-16,True,Financial Analyst,83,Full-time,Day,LOC018,,1,synthetic
+1440,Theo Garcia,Finance,Atlanta,69600,,3.35,56,2021-03-17,True,Financial Analyst,83,Full-time,Day,LOC017,,1,synthetic
+1441,Omar Young,Sales,Atlanta,65400,4625.04,3.46,27,2019-04-15,True,Account Executive,70,Full-time,Day,LOC007,,1,synthetic
+1442,Sofia Wilson,Finance,Chicago,92100,3169.51,3.51,52,2020-03-22,True,Financial Analyst,73,Full-time,Day,LOC001,,1,synthetic
+1443,Ava Clark,IT,Portland,101800,,4.16,61,2025-06-29,True,Systems Engineer,89,Full-time,Day,LOC010,,1,synthetic
+1444,Nina Lee,Sales,Seattle,102000,7485.89,3.58,28,2020-07-28,True,Senior Account Executive,85,Full-time,Day,LOC006,,1,synthetic
+1445,Finn Adams,Sales,Portland,104200,7796.04,3.51,25,2020-12-06,True,Senior Account Executive,75,Full-time,Day,LOC020,,1,synthetic
+1446,Arjun Chen,Sales,Seattle,123200,4203.81,2.76,22,2021-07-13,True,Senior Account Executive,90,Full-time,Day,LOC016,,1,synthetic
+1447,Sofia Green,IT,Dallas,130000,3813.01,3.26,45,2018-04-02,True,Senior Systems Engineer,74,Full-time,Day,LOC019,,1,synthetic
+1448,Priya Young,IT,Boston,63700,1674.9,3.18,28,2024-08-25,True,Systems Engineer,79,Part-time,Day,LOC014,,0.6,synthetic
+1449,Emma Kim,Marketing,Chicago,98200,5443.12,4.57,63,2025-01-14,True,Senior Marketing Analyst,72,Full-time,Day,LOC001,,1,synthetic
+1450,Leo Shah,Finance,New York,106600,0,3.46,49,2018-04-23,True,Financial Analyst,78,Contract,Day,LOC003,,1,synthetic
+1451,Eric Ali,IT,New York,137100,0,3.2,44,2020-04-05,True,Systems Engineer,84,Contract,Evening,LOC003,,1,synthetic
+1452,Sofia Wright,IT,Phoenix,80700,3113.68,3.82,67,2024-02-23,True,Systems Engineer,84,full time,Day,LOC008,,1,synthetic
+1453,Luis Patel,Sales,Austin,71200,4274.41,3.26,26,2022-10-04,True,Account Executive,90,Full-time,Day,LOC012,,1,synthetic
+1454,Mike Lee,IT,Seattle,126300,4099.32,3.47,52,2025-06-04,True,Systems Engineer,89,Full-time,Day,LOC006,,1,synthetic
+1455,Lily Chen,IT,Boston,77800,2612.9,3.44,14,2022-12-08,False,Systems Engineer,74,Part-time,Day,LOC004,2026-03-10,0.6,synthetic
+1456,Priya Brooks,HR,New York,99100,3130.33,3.42,45,2019-12-29,True,Senior HR Specialist,86,Full-time,Day,LOC013,,1,synthetic
+1457,Aisha Evans,Finance,Chicago,78500,0,4.09,64,2023-01-18,True,Financial Analyst,88,Contract,Day,LOC001,,1,synthetic
+1458,Adam Martin,Finance,New York,141700,5985.33,3.89,46,2021-06-06,False,Senior Financial Analyst,68,Full-time,Day,LOC013,2026-07-05,1,synthetic
+1459,Alex Clark,HR,Denver,76100,1787.28,3,46,2018-01-19,True,HR Specialist,71,Full-time,Day,LOC005,,1,synthetic
+1460,Priya Adams,IT,Atlanta,122900,1231.03,2.5,37,2022-10-23,True,Senior Systems Engineer,74,Full-time,Evening,LOC007,,1,synthetic
+1461,Noah Wilson,IT,Chicago,122400,2528.52,2.86,43,2021-03-24,True,Senior Systems Engineer,79,Full-time,Night,LOC011,,1,synthetic
+1462,Mike Brooks,Sales,Chicago,83300,4366.67,3.08,26,2021-04-10,True,Senior Account Executive,75,Full-time,Day,LOC001,,1,synthetic
+1463,Daniel Lopez,Sales,Austin,75500,9378.25,4.39,23,2024-03-25,False,Senior Account Executive,90,Full-time,Day,LOC002,2026-05-01,1,synthetic
+1464,Omar Taylor,IT,Austin,86500,3022.47,3.51,57,2019-08-28,True,Systems Engineer,89,Full-time,Day,LOC012,,1,synthetic
+1465,Aisha Kim,Sales,New York,92400,995.69,2.22,16,2019-08-11,True,Account Executive,80,Full-time,Day,LOC003,,1,synthetic
+1466,Diego Evans,Marketing,Austin,72800,1883.58,,47,2025-01-12,True,Marketing Analyst,82,Full-time,Day,LOC002,,1,synthetic
+1467,Arjun Carter,Marketing,Chicago,76800,,4.1,61,2019-06-16,True,Marketing Analyst,67,Full-time,Day,LOC001,,1,synthetic
+1468,Adam Green,HR,Denver,70800,2229.67,,53,2023-05-26,True,HR Specialist,86,Full-time,Day,LOC015,,1,synthetic
+1469,Ella Park,Marketing,New York,110500,5828.7,4.35,69,2018-01-11,True,Marketing Analyst,82,Full-time,Day,LOC003,,1,synthetic
+1470,Fatima Patel,IT,Chicago,78900,3681.89,4.03,30,2021-04-15,True,Senior Systems Engineer,74,Part-time,Day,LOC001,,0.6,synthetic
+1471,Mike Nguyen,Sales,Austin,72600,6325.35,3.82,28,2018-01-31,True,Account Executive,80,Full-time,Day,LOC012,,1,synthetic
+1472,Mike Chen,HR,New York,71400,2099.62,3.3,51,2023-07-05,True,HR Specialist,76,Full-time,Day,LOC003,,1,synthetic
+1473,Mei Green,Finance,New York,109500,4183.83,3.7,62,2019-01-17,True,Financial Analyst,78,Full-time,Day,LOC013,,1,synthetic
+1474,Theo Brown, hr ,Dallas,70300,2473.53,3.59,38,2024-01-19,False,Senior HR Specialist,81,Full-time,Day,LOC009,2026-05-13,1,synthetic
+1475,Chen Patel,Sales,Boston,75500,6723.14,3.74,25,2022-10-23,True,Account Executive,80,Full-time,Day,LOC004,,1,synthetic
+1476,Theo Kim,IT,New York,119200,4150.17,3.53,55,2018-09-11,True,Systems Engineer,79,Full-time,Day,LOC003,,1,synthetic
+1477,Omar Wright,Marketing,Boston,93600,2858.95,3.35,45,2020-09-05,True,Marketing Analyst,72,Full-time,Day,LOC014,,1,synthetic
+1478,Omar Lopez,Sales,Austin,76000,4834.96,3.28,23,2023-05-05,True,Senior Account Executive,70,full time,Day,LOC012,,1,synthetic
+1479,Mei Chen,Marketing,Chicago,98100,1940.28,2.9,43,2020-06-27,True,Senior Marketing Analyst,82,Full-time,Day,LOC011,,1,synthetic
+1480,Luis Brown,HR,New York,91500,4455.58,,59,2023-03-28,True,Senior HR Specialist,86,Full-time,Day,LOC003,,1,synthetic
+1481,Leo Nguyen,IT,Seattle,121500,,3.54,49,2021-12-04,True,Systems Engineer,69,Full-time,Evening,LOC016,,1,synthetic
+1482,Sara Diaz,IT,Denver,98500,2901.39,3.35,50,2023-04-28,True,Systems Engineer,69,Full-time,Night,LOC005,,1,synthetic
+1483,Ryan Carter,Finance,Denver,80100,2605.42,3.54,52,2025-03-01,True,Financial Analyst,88,Full-time,Day,LOC005,,1,synthetic
+1484,Ella Evans,Sales,Atlanta,85400,7544.17,3.83,28,2021-07-12,True,Senior Account Executive,90,Full-time,Day,LOC007,,1,synthetic
+1485,Zoe Taylor,Sales,New York,49900,6137.52,4.51,17,2023-03-28,True,Account Executive,70,Part-time,Day,LOC013,,0.6,synthetic
+1486,Ivan Rivera,Finance,Chicago,78100,1801.4,,51,2019-12-07,True,Financial Analyst,83,Full-time,Day,LOC001,,1,synthetic
+1487,Hugo Martin,IT,Austin,86300,,3.9,56,2019-07-07,True,Systems Engineer,74,Full-time,Evening,LOC012,,1,synthetic
+1488,Arjun Lee,IT,Phoenix,94500,2260.05,3.1,46,2018-12-01,True,Systems Engineer,74,Full-time,Evening,LOC008,,1,synthetic
+1489,Nora Martin,HR,New York,76700,3123.97,3.78,53,2020-02-17,True,HR Specialist,76,Full-time,Day,LOC003,,1,synthetic
+1490,Ella Park,IT,Denver,118600,3063.84,3.13,52,2019-02-08,True,Systems Engineer,74,Full-time,Day,LOC005,,1,synthetic
+1491,Diego Ali,Finance,Atlanta,92500,2823.7,3.4,48,2019-09-07,True,Senior Financial Analyst,68,Full-time,Day,LOC007,,1,synthetic
+1492,Diego Morgan,Finance,Dallas,119600,5159.26,3.98,55,2018-04-30,True,Senior Financial Analyst,68,Full-time,Day,LOC009,,1,synthetic
+1493,Grace Ali,HR,Seattle,82500,3790.26,4.06,60,2022-09-27,True,HR Specialist,71,Full-time,Day,LOC006,,1,synthetic
+1494,Mike Patel,Sales,Dallas,82500,2377.2,2.58,18,2021-01-31,True,Senior Account Executive,75,Full-time,Day,LOC019,,1,synthetic
+1495,Bob Brooks,Marketing,New York,106500,4657.7,3.91,52,2018-10-18,True,Marketing Analyst,82,Full-time,Day,LOC013,,1,synthetic
+1496,Isla Evans,IT,New York,137500,5459.83,3.79,28,2021-06-17,False,Systems Engineer,84,Full-time,Day,LOC013,2026-03-17,1,synthetic
+1497,Iris Green,Sales,Chicago,78200,5940.52,3.54,29,2021-10-27,True,Account Executive,80,Full-time,Day,LOC011,,1,synthetic
+1498,Liam Adams,Marketing,Portland,76000,1580.89,3,42,2019-04-23,True,Marketing Analyst,72,Full-time,Day,LOC020,,1,synthetic
+1499,Luis Taylor,Finance,Boston,103700,1346.7,2.58,35,2023-01-18,True,Financial Analyst,73,Full-time,Day,LOC014,,1,synthetic
+1500,Finn Diaz,Marketing,New York,120700,3860.13,3.44,54,2019-05-12,True,Senior Marketing Analyst,87,Full-time,Day,LOC013,,1,synthetic

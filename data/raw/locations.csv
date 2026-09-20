@@ -1,0 +1,21 @@
+location_id,city,region,location_type,square_feet,monthly_rent,capacity,opening_date
+LOC001,Chicago,Midwest,Office,15092,36042.94,77,2015-05-06
+LOC002,Austin,South,Office,18360,45996.45,108,2011-02-21
+LOC003,New York,Northeast,Headquarters,14472,38975.9,72,2009-01-15
+LOC004,Boston,Northeast,Office,19418,63196.49,133,2014-08-09
+LOC005,Denver,West,Office,11492,24942.27,68,2015-07-24
+LOC006,Seattle,West,Office,25472,85618.12,128,2010-08-04
+LOC007,Atlanta,South,Office,19418,41997.77,133,2014-03-04
+LOC008,Phoenix,West,Office,20615,49750.95,133,2011-08-24
+LOC009,Dallas,South,Office,18875,48764.94,125,2008-12-07
+LOC010,Portland,West,Office,9425,27388.53,65,2010-11-25
+LOC011,Chicago,Midwest,Service Center,16548,36168.27,84,2013-07-15
+LOC012,Austin,South,Service Center,17871,35844.23,111,2012-09-27
+LOC013,New York,Northeast,Service Center,24038,76025.68,119,2015-11-02
+LOC014,Boston,Northeast,Service Center,14043,35140.97,93,2008-12-04
+LOC015,Denver,West,Service Center,14508,31945.92,93,2010-06-16
+LOC016,Seattle,West,Service Center,15840,53416.98,88,2013-05-02
+LOC017,Atlanta,South,Service Center,23482,49386.78,118,2008-07-21
+LOC018,Phoenix,West,Service Center,24073,60767.77,133,2010-01-10
+LOC019,Dallas,South,Service Center,15224,31093.75,88,2010-03-18
+LOC020,Portland,West,Service Center,12000,33978.65,80,2014-05-23

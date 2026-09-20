@@ -1,0 +1,81 @@
+{
+  "checks": {
+    "Original file unchanged": true,
+    "All 60 original rows and 10 original columns preserved exactly": true,
+    "1500 unique nonmissing employee IDs": true,
+    "20 unique nonmissing location IDs": true,
+    "All employee locations resolve": true,
+    "All monthly employee IDs resolve": true,
+    "All manager IDs resolve": true,
+    "No self managers": true,
+    "Manager hierarchy has no cycles": true,
+    "Exactly 75 duplicate monthly records": true,
+    "Employee/month key unique after removing exact duplicates": true,
+    "Validated joins preserve monthly row count": true,
+    "Every employee has monthly records": true,
+    "Exactly 12 monthly periods": true,
+    "Every monthly record overlaps employment": true,
+    "Termination dates follow hire dates": true,
+    "Active status matches termination dates": true,
+    "Ratings within 1 to 5": true,
+    "Metrics nonnegative": true,
+    "Overtime included in total hours": true,
+    "Training within worked hours": true,
+    "Sales per employee-month higher in Q4 than Q1": true,
+    "IT median pay exceeds HR median pay": true
+  },
+  "rows": {
+    "employees_master": 1500,
+    "employee_monthly_metrics_raw": 17658,
+    "employee_monthly_metrics_deduplicated": 17583,
+    "locations": 20
+  },
+  "monthly_records_per_employee": {
+    "minimum": 3,
+    "median": 12.0,
+    "maximum": 12,
+    "employees_with_12_months": 1381
+  },
+  "intentional_duplicate_rows": 75,
+  "missing_values": {
+    "employees_master": {
+      "employee_id": 0,
+      "employee": 0,
+      "department": 0,
+      "city": 18,
+      "salary": 0,
+      "bonus": 79,
+      "performance_score": 43,
+      "projects_completed": 0,
+      "hire_date": 0,
+      "active": 0,
+      "job_title": 0,
+      "manager_id": 5,
+      "employment_type": 0,
+      "shift": 0,
+      "location_id": 0,
+      "termination_date": 1381,
+      "fte": 0,
+      "record_origin": 0
+    },
+    "employee_monthly_metrics": {
+      "employee_id": 0,
+      "month": 0,
+      "hours_worked": 0,
+      "overtime_hours": 0,
+      "sales_generated": 56,
+      "customers_served": 0,
+      "projects_completed": 0,
+      "absent_days": 0,
+      "labor_cost": 0,
+      "training_hours": 292,
+      "performance_rating": 749
+    }
+  },
+  "patterns": {
+    "q4_mean_sales": 30520.18,
+    "q1_mean_sales": 18940.25,
+    "q4_to_q1_ratio": 1.611
+  },
+  "original_sha256": "b6cb8cc80d91e2e16acef1c640848fd0e0ada4e720c8f98da896c343854b5816"
+}
